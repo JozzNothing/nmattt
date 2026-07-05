@@ -1,0 +1,746 @@
+[
+  {
+    "id": 305,
+    "origNo": "pasted-88-5",
+    "question": "1 người dùng gọi cho bn nói rằng trình duyệt thực hiện 1 hành động ko như anh ta mong muốn sau khi anh ta nhấp vào 1 nút trên 1 trang web. Loại tấn công nào có thể xảy ra",
+    "old_labels": [
+      "A",
+      "C"
+    ],
+    "old_answer": [
+      "Click-jacking",
+      "replay"
+    ],
+    "new_labels": [
+      "A"
+    ],
+    "new_answer": [
+      "Click-jacking"
+    ],
+    "reason": "Bị lừa nhấp khiến trình duyệt thực hiện hành động ngoài ý muốn là clickjacking.",
+    "confidence": "cao",
+    "sourceGroup": "HTML cũ - Google Form/Pasted text 88 câu"
+  },
+  {
+    "id": 306,
+    "origNo": "pasted-88-6",
+    "question": "một người dùng muốn biết liệu mạng có bị \"sập\" hay không vì cô ấy không thể kết nối với bất kì thứ gì, trong khi khắc phục sự cố, điều tra nhận thấy địa chỉ MAC cho cổng mặc định (default gateway) của người dùng không khớp với địa chỉ MAC của bộ định tuyến của tổ chức. Loại tấn công nào dc sử dụng",
+    "old_labels": [
+      "A",
+      "D"
+    ],
+    "old_answer": [
+      "ARP poisoning",
+      "consesis attack"
+    ],
+    "new_labels": [
+      "A"
+    ],
+    "new_answer": [
+      "ARP poisoning"
+    ],
+    "reason": "MAC của default gateway bị thay đổi/không khớp là dấu hiệu ARP poisoning.",
+    "confidence": "cao",
+    "sourceGroup": "HTML cũ - Google Form/Pasted text 88 câu"
+  },
+  {
+    "id": 307,
+    "origNo": "pasted-88-7",
+    "question": "trong web thương mại điện tử của bn đg gặp sự cố do lưu lượng truy cập cực kỳ cao. Nhìn vào nhật ký lưu lượng, bn thấy hàng chục nghìn yêu cầu cho cùng 1 URL đến từ hàng trăm địa chỉ IP khác nhau trên khắp thế giới . Bạn đg đối mặt với kiểu tấn công nào",
+    "old_labels": [
+      "A",
+      "D"
+    ],
+    "old_answer": [
+      "DDoS",
+      "Smurfing"
+    ],
+    "new_labels": [
+      "A"
+    ],
+    "new_answer": [
+      "DDoS"
+    ],
+    "reason": "Lưu lượng cực lớn từ nhiều IP khác nhau là DDoS.",
+    "confidence": "cao",
+    "sourceGroup": "HTML cũ - Google Form/Pasted text 88 câu"
+  },
+  {
+    "id": 311,
+    "origNo": "pasted-88-11",
+    "question": "Đâu không là hệ mật khóa bí mật (hay mã hóa khóa đối xứng)",
+    "old_labels": [
+      "B",
+      "D"
+    ],
+    "old_answer": [
+      "RSA",
+      "AES"
+    ],
+    "new_labels": [
+      "B"
+    ],
+    "new_answer": [
+      "RSA"
+    ],
+    "reason": "RSA là mã hóa bất đối xứng, không phải hệ mật khóa bí mật/đối xứng.",
+    "confidence": "cao",
+    "sourceGroup": "HTML cũ - Google Form/Pasted text 88 câu"
+  },
+  {
+    "id": 314,
+    "origNo": "pasted-88-14",
+    "question": "Lỗ hổng nào sau đây là lỗ hổng web",
+    "old_labels": [
+      "A",
+      "F"
+    ],
+    "old_answer": [
+      "SQL Injection",
+      "Xác thực yếu"
+    ],
+    "new_labels": [
+      "A",
+      "B",
+      "C",
+      "F"
+    ],
+    "new_answer": [
+      "SQL Injection",
+      "Cross-Site Scripting (XSS)",
+      "Cross-Site Request Forgery (CSRF)",
+      "Xác thực yếu"
+    ],
+    "reason": "Các lỗ hổng web điển hình gồm SQL Injection, XSS, CSRF và xác thực yếu; Buffer overflow/Format string là lỗi phần mềm chung.",
+    "confidence": "cao",
+    "sourceGroup": "HTML cũ - Google Form/Pasted text 88 câu"
+  },
+  {
+    "id": 315,
+    "origNo": "pasted-88-15",
+    "question": "Để dễ dàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn quyết định phải có một cách dễ dàng hơn là cấp cho người dùng quyền truy cập cá nhân vào tệp, máy in, máy tính và ứng dụng. Mô hình bảo mật nào bạn nên xem xét sử dụng?",
+    "old_labels": [
+      "C",
+      "D"
+    ],
+    "old_answer": [
+      "Kiểm soát truy cập dựa trên vai trò",
+      "Kiểm soát truy cập thời gian trong ngày"
+    ],
+    "new_labels": [
+      "C"
+    ],
+    "new_answer": [
+      "Kiểm soát truy cập dựa trên vai trò"
+    ],
+    "reason": "Cấp quyền theo nhóm/vai trò là RBAC, không phải kiểm soát theo thời gian trong ngày.",
+    "confidence": "cao",
+    "sourceGroup": "HTML cũ - Google Form/Pasted text 88 câu"
+  },
+  {
+    "id": 331,
+    "origNo": "pasted-88-31",
+    "question": "Tại sao cần sử dụng hàm băm trong chữ ký số",
+    "old_labels": [
+      "B",
+      "D"
+    ],
+    "old_answer": [
+      "Tăng độ an toàn",
+      "Không thể thiếu được trong sơ đồ chữ ký số"
+    ],
+    "new_labels": [
+      "A"
+    ],
+    "new_answer": [
+      "Giảm kích thước chữ ký"
+    ],
+    "reason": "Trong câu hỏi kiểu “đúng nhất”, hàm băm giúp ký giá trị băm ngắn thay vì ký toàn bộ thông điệp.",
+    "confidence": "cao",
+    "sourceGroup": "HTML cũ - Google Form/Pasted text 88 câu"
+  },
+  {
+    "id": 336,
+    "origNo": "pasted-88-36",
+    "question": "Người quản lý của bạn đã đọc về các cuộc tấn công SQL Injection và đang tự hỏi có thể làm gì để bảo vệ chống lại chúng đối với các ứng dụng được phát triển nội bộ. Bạn muốn giới thiệu điều gì cho quản lý của mình?",
+    "old_labels": [
+      "A",
+      "F"
+    ],
+    "old_answer": [
+      "Kiểm thử và vá lỗi mã nguồn web",
+      "Sử dụng DLP"
+    ],
+    "new_labels": [
+      "A",
+      "C"
+    ],
+    "new_answer": [
+      "Kiểm thử và vá lỗi mã nguồn web",
+      "Xác thực đầu vào"
+    ],
+    "reason": "Phòng SQL Injection: rà/kiểm thử và sửa mã nguồn, kiểm tra/xác thực dữ liệu đầu vào; DLP/mật mã/antivirus không phải biện pháp trực tiếp.",
+    "confidence": "cao",
+    "sourceGroup": "HTML cũ - Google Form/Pasted text 88 câu"
+  },
+  {
+    "id": 349,
+    "origNo": "pasted-88-49",
+    "question": "Đâu là một thuật toán hàm băm ?",
+    "old_labels": [
+      "A",
+      "D"
+    ],
+    "old_answer": [
+      "SHA",
+      "Elgamal"
+    ],
+    "new_labels": [
+      "A"
+    ],
+    "new_answer": [
+      "SHA"
+    ],
+    "reason": "SHA là thuật toán hàm băm; ElGamal/Blowfish/DES là thuật toán mật mã, không phải hàm băm.",
+    "confidence": "cao",
+    "sourceGroup": "HTML cũ - Google Form/Pasted text 88 câu"
+  },
+  {
+    "id": 352,
+    "origNo": "pasted-88-52",
+    "question": "Công nghệ nào nên được áp dụng để loại bỏ việc các thông tin nhạy cam được gửi ra bên ngoài hệ thống mạng của tổ chức",
+    "old_labels": [
+      "A",
+      "D"
+    ],
+    "old_answer": [
+      "DLP",
+      "VPN"
+    ],
+    "new_labels": [
+      "A"
+    ],
+    "new_answer": [
+      "DLP"
+    ],
+    "reason": "Ngăn/chặn rò rỉ thông tin nhạy cảm ra ngoài là DLP; VPN chỉ tạo đường hầm mã hóa, không phân loại/chặn dữ liệu nhạy cảm.",
+    "confidence": "cao",
+    "sourceGroup": "HTML cũ - Google Form/Pasted text 88 câu"
+  },
+  {
+    "id": 358,
+    "origNo": "pasted-88-58",
+    "question": "Đâu không phải là một hiểm họa xuất phát từ thư điện tử?",
+    "old_labels": [
+      "A",
+      "D"
+    ],
+    "old_answer": [
+      "Skimming",
+      "Mã độc"
+    ],
+    "new_labels": [
+      "A"
+    ],
+    "new_answer": [
+      "Skimming"
+    ],
+    "reason": "Skimming là đánh cắp dữ liệu thẻ/thiết bị đọc thẻ, không phải hiểm họa đặc trưng từ email; mã độc/phishing/social engineering có thể qua email.",
+    "confidence": "cao",
+    "sourceGroup": "HTML cũ - Google Form/Pasted text 88 câu"
+  },
+  {
+    "id": 364,
+    "origNo": "pasted-88-64",
+    "question": "Bảng cầu vồng (rainbow table) được sử dụng cho kiểu tấn công nào sau đây:",
+    "old_labels": [
+      "A",
+      "D"
+    ],
+    "old_answer": [
+      "Từ điển",
+      "Dừng lại"
+    ],
+    "new_labels": [
+      "A"
+    ],
+    "new_answer": [
+      "Từ điển"
+    ],
+    "reason": "Rainbow table là kỹ thuật bẻ mật khẩu/hash dùng bảng tra cứu tiền tính sẵn; trong các lựa chọn, gần nhất là tấn công từ điển.",
+    "confidence": "cao",
+    "sourceGroup": "HTML cũ - Google Form/Pasted text 88 câu"
+  },
+  {
+    "id": 378,
+    "origNo": "pasted-88-78",
+    "question": "Người dùng ký lên thư điện tử gửi đi giúp đảm bảo?",
+    "old_labels": [
+      "A",
+      "D"
+    ],
+    "old_answer": [
+      "Tính toàn vẹn của thư",
+      "Tỉnh bí mật của thư"
+    ],
+    "new_labels": [
+      "A"
+    ],
+    "new_answer": [
+      "Tính toàn vẹn của thư"
+    ],
+    "reason": "Ký thư điện tử giúp kiểm tra tính toàn vẹn/xác thực, không đảm bảo bí mật nội dung.",
+    "confidence": "cao",
+    "sourceGroup": "HTML cũ - Google Form/Pasted text 88 câu"
+  },
+  {
+    "id": 434,
+    "origNo": "docx-45",
+    "question": "Ursula tin rằng nhiều cá nhân trong công ty của cô đang lưu trữ thông tin quan trọng trên máy tính của họ theo cách không an toàn và có khả năng vi phạm chính sách bảo mật của công ty. Cô ấy có thể sử dụng quyền nào để tìm ra những tệp này?",
+    "old_labels": [
+      "C"
+    ],
+    "old_answer": [
+      "Network DLP"
+    ],
+    "new_labels": [
+      "D"
+    ],
+    "new_answer": [
+      "Endpoint DLP"
+    ],
+    "reason": "Dữ liệu nằm trên máy tính người dùng/endpoints; cần Endpoint DLP, không phải Network DLP.",
+    "confidence": "cao",
+    "sourceGroup": "MẫuTrắcNghiệmNhậpMônATTT.docx"
+  },
+  {
+    "id": 447,
+    "origNo": "docx-58",
+    "question": "Điều nào sau đây là đúng đối với khóa riêng tư của người dùng? (Chọn hai câu trả lời đúng.)",
+    "old_labels": [
+      "A",
+      "B",
+      "C"
+    ],
+    "old_answer": [
+      "Nó được sử dụng để xác minh chữ ký điện tử",
+      "Nó được sử dụng để giải mã các tin nhắn đã nhận",
+      "Nó được sử dụng để tạo chữ ký điện tử"
+    ],
+    "new_labels": [
+      "B",
+      "C"
+    ],
+    "new_answer": [
+      "Nó được sử dụng để giải mã các tin nhắn đã nhận",
+      "Nó được sử dụng để tạo chữ ký điện tử"
+    ],
+    "reason": "Khóa riêng dùng để giải mã dữ liệu gửi cho mình và tạo chữ ký số; xác minh chữ ký dùng khóa công khai.",
+    "confidence": "cao",
+    "sourceGroup": "MẫuTrắcNghiệmNhậpMônATTT.docx"
+  },
+  {
+    "id": 479,
+    "origNo": "docx-88",
+    "question": "Bạn là giám đốc CNTT cho một công ty có hợp đồng quân sự. Một nhân viên, Sandra, rời công ty và tài khoản người dùng của cô ấy cũng bị xóa. Vài tuần sau, ai đó yêu cầu quyền truy cập vào các tệp cũ của Sandra nhưng bị từ chối quyền truy cập. Sau khi điều tra vấn đề, bạn xác định rằng các tệp của Sandra được mã hóa bằng khóa được tạo từ cụm mật khẩu. Đây là loại mã hóa nào?",
+    "old_labels": [
+      "A",
+      "D"
+    ],
+    "old_answer": [
+      "Đối xứng",
+      "Bất đối xứng"
+    ],
+    "new_labels": [
+      "A"
+    ],
+    "new_answer": [
+      "Đối xứng"
+    ],
+    "reason": "Khóa được tạo từ cụm mật khẩu để mã hóa/giải mã cùng dữ liệu là mã hóa đối xứng.",
+    "confidence": "cao",
+    "sourceGroup": "MẫuTrắcNghiệmNhậpMônATTT.docx"
+  },
+  {
+    "id": 625,
+    "origNo": "pdf-de1-p3-q24",
+    "question": "Để dễ dàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn quyết định phải có một cách dễ dàng hơn\nlà cẤp cho người dùng quyền truy cập cá nhân vào tệp, máy ïn, máy tính và ứng dụng. Mô hình bão mật nào bạn\nnên xem xét sử dụng?",
+    "old_labels": [
+      "C",
+      "D"
+    ],
+    "old_answer": [
+      "Kiểm soát truy cập dựa trên vai trò",
+      "Kiểm soái truy cập thời gian trong ngây"
+    ],
+    "new_labels": [
+      "C"
+    ],
+    "new_answer": [
+      "Kiểm soát truy cập dựa trên vai trò"
+    ],
+    "reason": "Cấp quyền theo nhóm/vai trò là RBAC, không phải kiểm soát theo thời gian trong ngày.",
+    "confidence": "cao",
+    "sourceGroup": "Full 8 đề.pdf (OCR scan)"
+  },
+  {
+    "id": 655,
+    "origNo": "pdf-de2-p7-q4",
+    "question": "Để dễ dàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn quyết định phải có một cách\ndễ dàng hơn là cấp cho người dùng quyền truy cập cá nhân vào tệp, máy in, máy tính và ứng dụng.\nMô hình bão mật nào bạn nên xem xét sử dụng?",
+    "old_labels": [
+      "C",
+      "D"
+    ],
+    "old_answer": [
+      "Kiểm soát truy cập dựa trên vai trò",
+      "Kiểm soát truy cập thời gian trong ngày"
+    ],
+    "new_labels": [
+      "C"
+    ],
+    "new_answer": [
+      "Kiểm soát truy cập dựa trên vai trò"
+    ],
+    "reason": "Cấp quyền theo nhóm/vai trò là RBAC, không phải kiểm soát theo thời gian trong ngày.",
+    "confidence": "cao",
+    "sourceGroup": "Full 8 đề.pdf (OCR scan)"
+  },
+  {
+    "id": 715,
+    "origNo": "pdf-de3-p14-q18",
+    "question": "Để dễ dàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn quyết định phải\ncó một cách dễ dàng hơn là cấp cho người dùng quyền truy cập cá nhân vào tệp, máy in,\nmáy tính và ứng dụng. Mô hình bảo mật nào bạn nên xem xét sử dụng?",
+    "old_labels": [
+      "C",
+      "D"
+    ],
+    "old_answer": [
+      "Kiểm soát truy cập dựa trên vai trò",
+      "Kiểm soát truy cập thời gian trong ngày"
+    ],
+    "new_labels": [
+      "C"
+    ],
+    "new_answer": [
+      "Kiểm soát truy cập dựa trên vai trò"
+    ],
+    "reason": "Cấp quyền theo nhóm/vai trò là RBAC, không phải kiểm soát theo thời gian trong ngày.",
+    "confidence": "cao",
+    "sourceGroup": "Full 8 đề.pdf (OCR scan)"
+  },
+  {
+    "id": 734,
+    "origNo": "pdf-de3-p17-q40",
+    "question": "Chức ng ng\nthay đổi các cài đặt cña Vina (UAO trong Windows 8 cho phép người dùng có thể\nnhận lại ự thay đã nợ, Minh hưng trước khi thay đổi sẽ hiễn thị lời nhắc để xác",
+    "old_labels": [
+      "A",
+      "D"
+    ],
+    "old_answer": [
+      "Leo thang đặc quyền gười dùng. Điều này giúp chống lại tắn công nào?",
+      "Worms"
+    ],
+    "new_labels": [
+      "A"
+    ],
+    "new_answer": [
+      "Leo thang đặc quyền gười dùng. Điều này giúp chống lại tắn công nào?"
+    ],
+    "reason": "UAC yêu cầu xác nhận khi thay đổi cấu hình, giúp hạn chế leo thang đặc quyền.",
+    "confidence": "cao",
+    "sourceGroup": "Full 8 đề.pdf (OCR scan)"
+  },
+  {
+    "id": 869,
+    "origNo": "pdf-de6-p34-q35",
+    "question": "Để dễ dàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn quyết định phải |\ncó một cách dễ dàng hơn là cấp cho người dùng quyền truy cập cá nhân vào tệp, máy in, |\nmáy tính và ứng dụng. Mô hình bảo mật nào bạn nên xem xét sử dụng?",
+    "old_labels": [
+      "C",
+      "D"
+    ],
+    "old_answer": [
+      "Kiểm soát truy cập dựa trên vai trò Z",
+      "Kiểm soát truy cập thời gian trong ngày h . ~"
+    ],
+    "new_labels": [
+      "C"
+    ],
+    "new_answer": [
+      "Kiểm soát truy cập dựa trên vai trò Z"
+    ],
+    "reason": "Cấp quyền theo nhóm/vai trò là RBAC, không phải kiểm soát theo thời gian trong ngày.",
+    "confidence": "cao",
+    "sourceGroup": "Full 8 đề.pdf (OCR scan)"
+  },
+  {
+    "id": 1123,
+    "origNo": "supplement-703",
+    "question": "Câu 10. Là quản trị viên mạng, bạn nên làm gì để ngăn chặn các cuộc tấn công tràn bộ đệm xảy ra trên hệ thống của mình?",
+    "old_labels": [
+      "A",
+      "D"
+    ],
+    "old_answer": [
+      "Các mục ARP tĩnh",
+      "Patching"
+    ],
+    "new_labels": [
+      "D"
+    ],
+    "new_answer": [
+      "Patching"
+    ],
+    "reason": "Ngăn/chống buffer overflow bằng vá lỗi/cập nhật phần mềm; ARP tĩnh không liên quan.",
+    "confidence": "cao",
+    "sourceGroup": "Câu hỏi bổ sung từ file mới"
+  },
+  {
+    "id": 1294,
+    "origNo": "supplement-963",
+    "question": "5. Đồng nghiệp của bạn báo cáo rằng có một khung thời gian ngắn trong đó chứng chỉ bị thu hồi vẫn có thể được sử dụng. Tại sao lại thế này?",
+    "old_labels": [
+      "A",
+      "C"
+    ],
+    "old_answer": [
+      "CRL được xuất bản định kỳ.",
+      "Danh sách CRL chỉ thu hồi số seri chứng chỉ và không được sử dụng dưới bất kỳ hình thức nào."
+    ],
+    "new_labels": [
+      "A"
+    ],
+    "new_answer": [
+      "CRL được xuất bản định kỳ."
+    ],
+    "reason": "Có độ trễ vì CRL được xuất bản/cập nhật theo chu kỳ.",
+    "confidence": "cao",
+    "sourceGroup": "Câu hỏi bổ sung từ file mới"
+  },
+  {
+    "id": 1303,
+    "origNo": "supplement-973",
+    "question": "14. Bạn chịu trách nhiệm cho phép SSL trên một trang web thương mại điện tử. Bạn nên làm gì đầu tiên?",
+    "old_labels": [
+      "C",
+      "D"
+    ],
+    "old_answer": [
+      "Tạo CSR và gửi nó cho CA.",
+      "Cấu hình máy chủ web để sử dụng cổng 443."
+    ],
+    "new_labels": [
+      "C"
+    ],
+    "new_answer": [
+      "Tạo CSR và gửi nó cho CA."
+    ],
+    "reason": "Bước đầu tiên để lấy chứng chỉ SSL/TLS là tạo CSR và gửi cho CA.",
+    "confidence": "cao",
+    "sourceGroup": "Câu hỏi bổ sung từ file mới"
+  },
+  {
+    "id": 748,
+    "origNo": "pdf-de4-p19-q4",
+    "question": "Để dễ dàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn quyết định phải có\nmột cách dễ dàng hơn là cấp cho người dùng quyền truy cập cá nhân vào tệp, máy in, máy\ntính và ứng dụng. Mô hình bão mật nào bạn nên xem xét sử dụng?",
+    "old_labels": [
+      "D"
+    ],
+    "old_answer": [
+      "Kiểm soát truy cập thời gian trong ngày"
+    ],
+    "new_labels": [
+      "C"
+    ],
+    "new_answer": [
+      "Kiểm soát truy cập dựa trên vai trò"
+    ],
+    "reason": "Sửa OCR: lựa chọn C bị nuốt vào lựa chọn B; đáp án đúng là RBAC.",
+    "confidence": "cao",
+    "sourceGroup": "Full 8 đề.pdf (OCR scan)"
+  },
+  {
+    "id": 301,
+    "origNo": "pasted-88-1",
+    "question": "bạn là quản trị viên hệ thống mạng của công ty, người quản lý của bạn yêu cầu bạn đánh giá các giải pháp sao lưu đám mây cho các văn phòng chi nhánh từ xa. Điều này áp dụng khái niệm an toàn nào",
+    "old_labels": [
+      "A",
+      "D"
+    ],
+    "old_answer": [
+      "sẵn sàng",
+      "trách nhiệm"
+    ],
+    "new_labels": [
+      "A"
+    ],
+    "new_answer": [
+      "sẵn sàng"
+    ],
+    "reason": "Sao lưu đám mây cho chi nhánh nhằm đảm bảo tính sẵn sàng.",
+    "confidence": "cao",
+    "sourceGroup": "HTML cũ - Google Form/Pasted text 88 câu"
+  },
+  {
+    "id": 308,
+    "origNo": "pasted-88-8",
+    "question": "máy chủ web của tổ chức bn vừa bị xâm phạm mặc dù đc bảo vệ bởi tường lửa và IPS. Máy chủ web đc vá đầy đủ và đc định cấu hình chính xác. Nhật ký IPS ko cho thấy hoạt động bất thường nào, nhưng nhật ký lưu lượng mạng của bn cho thấy 1 kết nối bất thường từ địa chỉ IP thuộc 1 trg đại học. Loại tấn công có khả năng xảy ra nhất",
+    "old_labels": [
+      "A",
+      "D"
+    ],
+    "old_answer": [
+      "Zero day attack",
+      "URL hijacking attack"
+    ],
+    "new_labels": [
+      "A"
+    ],
+    "new_answer": [
+      "Zero day attack"
+    ],
+    "reason": "Máy đã vá đầy đủ vẫn bị xâm nhập, IPS không thấy bất thường: zero-day.",
+    "confidence": "cao",
+    "sourceGroup": "HTML cũ - Google Form/Pasted text 88 câu"
+  },
+  {
+    "id": 304,
+    "origNo": "pasted-88-4",
+    "question": "giả mạo IP thường đc sử dụng trong các loại tấn công nào",
+    "old_labels": [
+      "A",
+      "D"
+    ],
+    "old_answer": [
+      "tấn công từ chối dịch vụ (DoS)",
+      "tấn công thu thập dữ liệu"
+    ],
+    "new_labels": [
+      "A"
+    ],
+    "new_answer": [
+      "tấn công từ chối dịch vụ (DoS)"
+    ],
+    "reason": "IP spoofing thường dùng trong DoS; keylogging/salami/data gathering không phải đáp án chuẩn trong nhóm lựa chọn này.",
+    "confidence": "cao",
+    "sourceGroup": "HTML cũ - Google Form/Pasted text 88 câu"
+  },
+  {
+    "id": 312,
+    "origNo": "pasted-88-12",
+    "question": "Tấn công XSS có thể được sử dụng với mục đích nào sau đây:",
+    "old_labels": [
+      "D",
+      "F"
+    ],
+    "old_answer": [
+      "Đánh cắp cookie (SessionID)",
+      "Vét cạn mật khẩu"
+    ],
+    "new_labels": [
+      "D"
+    ],
+    "new_answer": [
+      "Đánh cắp cookie (SessionID)"
+    ],
+    "reason": "Mục đích điển hình của XSS trong nhóm lựa chọn là đánh cắp cookie/SessionID; vét cạn mật khẩu là sai.",
+    "confidence": "cao",
+    "sourceGroup": "HTML cũ - Google Form/Pasted text 88 câu"
+  },
+  {
+    "id": 324,
+    "origNo": "pasted-88-24",
+    "question": "Những phát biểu nào sau đây là đúng?",
+    "old_labels": [
+      "A",
+      "C"
+    ],
+    "old_answer": [
+      "An toàn thông tin là bảo vệ thông tin và hệ thống thông tin trước tấn công của tin tặc, bao gồm (đề bị cắt)",
+      "Một trong những nhiệm vụ của an toàn thông tin là ngăn chặn sự phát tán tin giả trên mạng để không gây tác động tiêu cực lên nhận thức của cộng đồng."
+    ],
+    "new_labels": [
+      "A",
+      "B"
+    ],
+    "new_answer": [
+      "An toàn thông tin là bảo vệ thông tin và hệ thống thông tin trước tấn công của tin tặc, bao gồm (đề bị cắt)",
+      "An toàn thông tin bao gồm việc đảm bảo hoạt động ổn định của hệ thống thông tin trước khả năng xảy ra sự cố vật lý"
+    ],
+    "reason": "ATTT bao gồm bảo vệ trước tấn công và đảm bảo hệ thống hoạt động ổn định trước sự cố vật lý; chống tin giả không phải mục tiêu ATTT truyền thống trong câu này.",
+    "confidence": "cao",
+    "sourceGroup": "HTML cũ - Google Form/Pasted text 88 câu"
+  },
+  {
+    "id": 333,
+    "origNo": "pasted-88-33",
+    "question": "Đâu là công cụ đóng băng ổ đĩa",
+    "old_labels": [
+      "A",
+      "F"
+    ],
+    "old_answer": [
+      "Deep Freeze (Faronics Corporation)",
+      "Bitlocker"
+    ],
+    "new_labels": [
+      "A",
+      "B",
+      "C"
+    ],
+    "new_answer": [
+      "Deep Freeze (Faronics Corporation)",
+      "Shadow Defender",
+      "Returnil Virtual System"
+    ],
+    "reason": "Công cụ đóng băng/khôi phục trạng thái ổ đĩa gồm Deep Freeze, Shadow Defender, Returnil; BitLocker là mã hóa ổ đĩa.",
+    "confidence": "cao",
+    "sourceGroup": "HTML cũ - Google Form/Pasted text 88 câu"
+  },
+  {
+    "id": 385,
+    "origNo": "pasted-88-85",
+    "question": "Tấn công nào sau đây có thể gây ảnh hưởng đến hoạt động của máy chủ web",
+    "old_labels": [
+      "A",
+      "D"
+    ],
+    "old_answer": [
+      "Buffer overflow",
+      "XSS"
+    ],
+    "new_labels": [
+      "A"
+    ],
+    "new_answer": [
+      "Buffer overflow"
+    ],
+    "reason": "Trong các lựa chọn, buffer overflow là kiểu tấn công có thể làm ảnh hưởng trực tiếp tới hoạt động/độ ổn định máy chủ web.",
+    "confidence": "cao",
+    "sourceGroup": "HTML cũ - Google Form/Pasted text 88 câu"
+  },
+  {
+    "id": 485,
+    "origNo": "docx-94",
+    "question": "Mục nào sau đây có thể giúp ngăn ngừa ngộ độc bộ nhớ cache ARP?",
+    "old_labels": [
+      "A",
+      "D",
+      "E"
+    ],
+    "old_answer": [
+      "Sử dụng bảo mật 802.1x",
+      "Cấu hình việc sử dụng chữ ký số cho tất cả lưu lượng mạng",
+      "Tất cả các cổng chuyển đổi không sử dụng"
+    ],
+    "new_labels": [
+      "A",
+      "E"
+    ],
+    "new_answer": [
+      "Sử dụng bảo mật 802.1x",
+      "Tất cả các cổng chuyển đổi không sử dụng"
+    ],
+    "reason": "Giảm ARP poisoning bằng kiểm soát truy cập cổng như 802.1X và xử lý cổng switch không dùng; chữ ký số toàn bộ traffic không phải biện pháp chuẩn cho ARP cache poisoning.",
+    "confidence": "cao",
+    "sourceGroup": "MẫuTrắcNghiệmNhậpMônATTT.docx"
+  }
+]

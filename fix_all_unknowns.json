@@ -1,0 +1,380 @@
+[
+  {
+    "id": 685,
+    "origNo": "pdf-de2-p11-q34",
+    "question": "Một hacker ngồi trong quán cà phê có điểm truy cập Internet và tiến hành ARP poisoning để chuyển lưu lượng truy cập qua máy tính xách tay của hacker trước khi chuyển tiếp lưu lượng truy cập vào Internet. Đây là loại tấn công nào?",
+    "answer": "B",
+    "answer_text": "Man in the middle",
+    "confidence": "cao",
+    "note": "OCR gộp/nát; khôi phục phần câu hỏi đầy đủ còn đủ dữ liệu."
+  },
+  {
+    "id": 780,
+    "origNo": "pdf-de4-p22-q38",
+    "question": "Công nghệ nào sau đây đảm bảo tính toàn vẹn cho dữ liệu?",
+    "answer": "D",
+    "answer_text": "MD5",
+    "confidence": "cao",
+    "note": "Bổ sung lựa chọn D bị OCR mất; công nghệ kiểm tra toàn vẹn là hàm băm như MD5/SHA."
+  },
+  {
+    "id": 862,
+    "origNo": "pdf-de6-p34-q28",
+    "question": "Công ty muốn sử dụng một máy chủ FTP và muốn đảm bảo an toàn cho các luồng dữ liệu FTP bằng SSL. Lựa chọn nào sau đây nên được sử dụng?",
+    "answer": "A",
+    "answer_text": "FTPS",
+    "confidence": "cao",
+    "note": "Câu hỏi nói FTP dùng SSL, đáp án đúng là FTPS."
+  },
+  {
+    "id": 944,
+    "origNo": "pdf-de8-p45-q18",
+    "question": "Công ty muốn sử dụng một máy chủ FTP và muốn đảm bảo an toàn cho các luồng dữ liệu FTP bằng SSL. Lựa chọn nào sau đây nên được sử dụng?",
+    "answer": "A",
+    "answer_text": "FTPS",
+    "confidence": "cao",
+    "note": "Câu hỏi nói FTP dùng SSL, đáp án đúng là FTPS."
+  },
+  {
+    "id": 961,
+    "origNo": "pdf-de8-p47-q36",
+    "question": "Câu 36. Khi sử dụng phương pháp mã hóa để mã hóa file, phương pháp mã hóa nào thường được sử dụng?",
+    "answer": "B",
+    "answer_text": "Đối xứng",
+    "confidence": "cao",
+    "note": "OCR gộp nhiều câu; giữ câu chính có đủ dữ liệu để chấm."
+  },
+  {
+    "id": 1045,
+    "origNo": "supplement-215",
+    "question": "Câu 18: Mô hình dưới đây thuộc mô hình nào (Q: câu này ko có hình, cả trong file ảnh cả file pdf ko có)",
+    "answer": "A",
+    "answer_text": "Access Control List (ACM)",
+    "confidence": "thấp",
+    "note": "Nguồn ghi thiếu hình. Chốt best-effort theo khả năng câu hỏi đang nói về ma trận kiểm soát truy cập/ACM."
+  },
+  {
+    "id": 1076,
+    "origNo": "supplement-636",
+    "question": "Câu 13: Mạng của bạn chỉ cho phép các tập lệnh đáng tin cậy chạy trên các thiết bị được quản lý. Bạn viết một tập lệnh phải chạy trên tất cả các thiết bị được quản lý. Bạn phải làm gì Đặt các bước chính xác sau đây theo đúng thứ tự. (Chọn ba.)",
+    "answer": "A → C → D",
+    "answer_text": "A → C → D",
+    "confidence": "cao",
+    "note": "Thứ tự: lấy/cài chứng chỉ tin cậy, tạo script, ký số script."
+  },
+  {
+    "id": 1138,
+    "origNo": "supplement-720",
+    "question": "Câu 35. Trình điều khiển phần cứng được tải xuống không khớp với tổng kiểm tra từ nhà sản xuất, nhưng nó cài đặt và dường như hoạt động như bình thường. Nhiều tháng sau, bạn biết rằng thông tin nhạy cảm từ thiết bị của bạn đã bị rò rỉ trực tuyến. Thuật ngữ nào mô tả đúng nhất về loại tấn công này?",
+    "answer": "D",
+    "answer_text": "Typo squatting",
+    "confidence": "trung bình",
+    "note": "Checksum driver không khớp và về sau rò rỉ dữ liệu; trong các lựa chọn, typo squatting/nguồn giả mạo là gần nhất."
+  },
+  {
+    "id": 1169,
+    "origNo": "supplement-759",
+    "question": "18. một lô hàng của máy tính Windows mới đã đến cho nhân viên bộ phận kế toán. Các Máy vi tính có hệ điều hành cài đặt trước nhưng cố ý additionalfinancialsoftware. Trong đó Đặt hàng nên bạn thực hiện tất cả các sau đây?",
+    "answer": "B → C → A → D → E",
+    "answer_text": "B → C → A → D → E",
+    "confidence": "trung bình",
+    "note": "Thứ tự triển khai máy Windows mới: vá OS, cập nhật AV, join domain, nhận GPO, cài phần mềm nghiệp vụ."
+  },
+  {
+    "id": 1184,
+    "origNo": "supplement-775",
+    "question": "37. Trong khi hardening mạng văn phòng tại nhà, bạn quyết định kiểm tra xem firmware trong tất cả thiết bị mạng có được cập nhật hay không. Việc này áp dụng cho những thiết bị nào?",
+    "answer": "A",
+    "answer_text": "Smart TV, game console, máy in, HVAC, wireless router",
+    "confidence": "cao",
+    "note": "Tách từ item OCR gộp 2 câu."
+  },
+  {
+    "id": 1438,
+    "origNo": "supplement-775-split-q38",
+    "question": "38. Những hạng mục doanh nghiệp nào trong tổ chức của bạn nên được vá thường xuyên? (Chọn tất cả những gì áp dụng.)",
+    "answer": "A, B, C",
+    "answer_text": "Mainframes | Thin clients | Public cloud virtualization hosts",
+    "confidence": "cao",
+    "note": "Tách từ item OCR gộp 2 câu."
+  },
+  {
+    "id": 1199,
+    "origNo": "supplement-790",
+    "question": "2. Tài khoản người dùng của Trinity bị xóa nhầm khi cô nghỉ thai sản ba tháng. Khi cô trở lại, một tài khoản mới với quyền NTFS thích hợp được tạo cho cô. Khi cô cố gắng mở các tập tin cũ, cô vẫn nhận được thông báo “truy cập bị từ chối”. Vấn đề là gì?",
+    "answer": "C",
+    "answer_text": "Các tập tin của Trinity được mã hóa với tài khoản cũ của cô.",
+    "confidence": "cao",
+    "note": "Tách từ item OCR gộp 2 câu; quyền NTFS đã đúng nên vấn đề là mã hóa/EFS."
+  },
+  {
+    "id": 1439,
+    "origNo": "supplement-790-split-q4",
+    "question": "4. Bạn là tư vấn ảo hóa cho Not Really There, Inc. Trong cuộc họp lập kế hoạch với khách hàng, vấn đề snapshot point-in-time của máy ảo được nêu ra. Bạn khuyến nghị cẩn thận khi dùng snapshot vì các nhánh an ninh. Mối quan tâm của bạn là gì?",
+    "answer": "D",
+    "answer_text": "Snapshot được khôi phục có thể có ít bản vá cập nhật hơn máy ảo đang chạy hiện tại.",
+    "confidence": "cao",
+    "note": "Tách từ item OCR gộp 2 câu."
+  },
+  {
+    "id": 1208,
+    "origNo": "supplement-801",
+    "question": "19. Những điều sau đây là đúng liên quan đến ảo hóa? (Chọn hai.)",
+    "answer": "A, C",
+    "answer_text": "Mỗi máy ảo có một hoặc nhiều địa chỉ MAC duy nhất. | Máy ảo chạy trên cùng một máy chủ vật lý có thể thuộc về các VLAN khác nhau.",
+    "confidence": "cao",
+    "note": "Tách từ item OCR gộp 2 câu."
+  },
+  {
+    "id": 1440,
+    "origNo": "supplement-801-split-q20",
+    "question": "20. Cloud computing cung cấp những lợi ích nào? (Chọn hai.)",
+    "answer": "A, B",
+    "answer_text": "Đơn giản, khả năng mở rộng | Ít phải mua phần cứng hơn",
+    "confidence": "cao",
+    "note": "Tách từ item OCR gộp 2 câu."
+  },
+  {
+    "id": 1211,
+    "origNo": "supplement-804",
+    "question": "23. Kevin là một luật sư thử nghiệm ở miền Nam California. Ông yêu cầu giao tiếp với khách hàng an toàn, âm thanh chất lượng cao. Anh ta có thể làm gì?",
+    "answer": "A",
+    "answer_text": "Sử dụng VoIP với mã hóa gói qua Internet.",
+    "confidence": "cao",
+    "note": "Tách từ item OCR gộp 2 câu."
+  },
+  {
+    "id": 1441,
+    "origNo": "supplement-804-split-q24",
+    "question": "24. Quản lý CNTT yêu cầu bạn đảm bảo rằng thư e-mail và file đính kèm không chứa dữ liệu nhạy cảm có thể bị rò rỉ cho đối thủ cạnh tranh. Bạn nên đề xuất loại giải pháp nào?",
+    "answer": "C",
+    "answer_text": "DLP",
+    "confidence": "cao",
+    "note": "Tách từ item OCR gộp 2 câu."
+  },
+  {
+    "id": 1217,
+    "origNo": "supplement-810",
+    "question": "31. bạn đang triển khai Android dựa trên điện thoại thông minh cho nhân viên trong văn phòng Toronto của bạn. Vì những tính chất nhạy cảm của doanh nghiệp của bạn, bạn muốn sử dụng các cơ chế sẽ bảo vệ dữ liệu nhạy cảm mà có thể tồn tại trên điện thoại. Mà tập hợp các cơ chế bạn nên sử dụng?",
+    "answer": "D",
+    "answer_text": "hạn chế mà các ứng dụng có thể được cài đặt, phân đoạn hệ điều hành lưu trữ vị trí từ App lưu trữ vị trí,tắt tính năng không sử dụng, vô hiệu hoá mật khẩu mặc định",
+    "confidence": "trung bình",
+    "note": "Trong các lựa chọn, D bao gồm kiểm soát ứng dụng, tách vùng lưu trữ, tắt tính năng không dùng và vô hiệu hóa mật khẩu mặc định."
+  },
+  {
+    "id": 1232,
+    "origNo": "supplement-832",
+    "question": "7. Dựa trên bộ quy tắc tường lửa LAN sau đây, chọn mô tả đúng nhất:",
+    "answer": "C",
+    "answer_text": "LAN users can connect to external web servers. External users can use RDP to connect to LAN computers. 8. Công cụ nào sẽ cho phép bạn chụp và xem lưu lượng mạng? | Protocol analyzer",
+    "confidence": "trung bình",
+    "note": "Item OCR chỉ còn lựa chọn đúng cho câu 7."
+  },
+  {
+    "id": 1442,
+    "origNo": "supplement-832-split-q8",
+    "question": "8. Công cụ nào sẽ cho phép bạn chụp và xem lưu lượng mạng?",
+    "answer": "C",
+    "answer_text": "Protocol analyzer",
+    "confidence": "cao",
+    "note": "Tách từ item OCR gộp 2 câu; bổ sung lựa chọn nhiễu chuẩn để câu không còn chỉ có 1 lựa chọn."
+  },
+  {
+    "id": 1234,
+    "origNo": "supplement-837",
+    "question": "13. Bạn đã nhận được một bộ tập trung VPN mới để cho phép người dùng đi du lịch truy cập vào LAN",
+    "answer": "B",
+    "answer_text": "Bạn nên đặt bộ tập trung VPN ở đâu? | LAN B",
+    "confidence": "thấp",
+    "note": "Cần hình sơ đồ để chắc 100%; theo dữ liệu OCR hiện có đáp án là LAN B."
+  },
+  {
+    "id": 1236,
+    "origNo": "supplement-851",
+    "question": "27. Bạn là giám đốc bán hàng cho một công ty bất động sản. Một khách hàng gọi hỏi tại sao bạn chưa gửi email tài liệu quan trọng về việc bán hàng. Bạn kiểm tra chương trình thư và xác minh thư đã được gửi hai ngày trước. Bạn cũng xác minh tin nhắn không bị trả lại là không thể gửi được. Điều gì tiếp theo bạn nên nói với khách hàng?",
+    "answer": "D",
+    "answer_text": "Check your junk mail; anti-spam software sometimes incorrectly identifies legitimate mail as spam.",
+    "confidence": "cao",
+    "note": "Tách từ item OCR gộp 2 câu."
+  },
+  {
+    "id": 1443,
+    "origNo": "supplement-851-split-q28",
+    "question": "28. Bạn là tư vấn mạng CNTT. Bạn cài đặt một mạng không dây mới cho một khách sạn. Bạn phải làm gì để ngăn người dùng mạng không dây truy cập quản trị vào bộ định tuyến không dây?",
+    "answer": "C",
+    "answer_text": "Change the admin password.",
+    "confidence": "cao",
+    "note": "Tách từ item OCR gộp 2 câu; bổ sung lựa chọn nhiễu để câu đầy đủ hơn."
+  },
+  {
+    "id": 1239,
+    "origNo": "supplement-864",
+    "question": "42. Làm thế nào các mạng khác nhau có thể được phân đoạn với nhau? (Chọn ba.)",
+    "answer": "A, C, D",
+    "answer_text": "Media gateway | Physically | Air gap",
+    "confidence": "trung bình",
+    "note": "Theo dữ liệu hiện có: media gateway, phân đoạn vật lý và air gap."
+  },
+  {
+    "id": 1241,
+    "origNo": "supplement-868",
+    "question": "3. Ngoài lưu lượng không dây được mã hóa, bạn định cấu hình bộ định tuyến không dây để yêu cầu người dùng xác thực với máy chủ RADIUS. Bạn đã cấu hình loại bảo mật nào?",
+    "answer": "D",
+    "answer_text": "WPA2 Enterprise",
+    "confidence": "cao",
+    "note": "Tách từ item OCR gộp 2 câu."
+  },
+  {
+    "id": 1444,
+    "origNo": "supplement-868-split-q4",
+    "question": "4. Bạn quyết định nắm bắt lưu lượng truy cập mạng bằng trình sniffer khi kết nối với điểm truy cập Wi-Fi công cộng bận rộn. Sau vài phút, bạn nhận ra rằng chỉ thấy lưu lượng của chính mình cùng broadcast và multicast. Tại sao bạn không thể thấy lưu lượng của người khác?",
+    "answer": "D",
+    "answer_text": "Isolation mode is enabled",
+    "confidence": "cao",
+    "note": "Tách từ item OCR gộp 2 câu."
+  },
+  {
+    "id": 1242,
+    "origNo": "supplement-889",
+    "question": "25. Bạn đang cấu hình mạng không dây cho văn phòng nhà. Những tùy chọn nào áp dụng cho mạng gia đình? (Chọn hai.)",
+    "answer": "A, D",
+    "answer_text": "WPA2 PSK | WPA PSK",
+    "confidence": "cao",
+    "note": "Tách từ item OCR gộp 2 câu."
+  },
+  {
+    "id": 1445,
+    "origNo": "supplement-889-split-wireless",
+    "question": "Một người dùng đi công tác gọi bàn trợ giúp về vấn đề kết nối không dây. Khi cô ấy cố kết nối với một mạng không dây có tín hiệu tối đa, cuối cùng kết nối hết thời gian mà không có thông báo nào khác. Vấn đề là gì?",
+    "answer": "B",
+    "answer_text": "MAC address filtering is blocking her wireless network card.",
+    "confidence": "cao",
+    "note": "Tách từ item OCR gộp 2 câu."
+  },
+  {
+    "id": 1251,
+    "origNo": "supplement-908",
+    "question": "10. Bạn đang định cấu hình thiết bị xác thực mạng của Cisco. Trong quá trình cấu hình, bạn được cung cấp một danh sách lựa chọn xác thực. Sự lựa chọn nào cung cấp bảo mật và độ tin cậy tốt nhất?",
+    "answer": "C",
+    "answer_text": "TACACS+",
+    "confidence": "cao",
+    "note": "Sửa OCR: lựa chọn C phải là TACACS+."
+  },
+  {
+    "id": 1257,
+    "origNo": "supplement-914",
+    "question": "22. Loại vấn đề bảo mật nào sẽ kiểm soát truy cập mạng (NAC) tốt nhất?",
+    "answer": "E",
+    "answer_text": "Thiết bị không được phép hoặc không tuân thủ chính sách truy cập mạng",
+    "confidence": "cao",
+    "note": "Các lựa chọn gốc không có đáp án đúng; bổ sung lựa chọn đúng cho NAC."
+  },
+  {
+    "id": 1264,
+    "origNo": "supplement-921",
+    "question": "32. Điều nào sau đây là khung xác thực / ủy quyền? (Chọn tất cả các áp dụng.)",
+    "answer": "A, C, D",
+    "answer_text": "OpenID Connect | SAML | Shibboleth",
+    "confidence": "cao",
+    "note": "Sửa OCR: “Kết nối OpenID” = OpenID Connect, “TIẾNG ANH” = SAML."
+  },
+  {
+    "id": 1282,
+    "origNo": "supplement-945",
+    "question": "13. Một người dùng kết nối với một trang web ngân hàng trực tuyến bảo mật. Phát biểu nào sau đây không đúng?",
+    "answer": "A",
+    "answer_text": "Khóa công khai của máy trạm được sử dụng để mã hóa dữ liệu được truyền đến máy chủ web. Khóa riêng của máy chủ web thực hiện việc giải mã.",
+    "confidence": "cao",
+    "note": "Tách từ item OCR gộp 2 câu; máy trạm không dùng khóa công khai của chính nó để mã hóa dữ liệu gửi cho server."
+  },
+  {
+    "id": 1446,
+    "origNo": "supplement-945-split-q14",
+    "question": "14. Thuật ngữ nào mô tả quá trình che giấu tin nhắn trong một tập tin?",
+    "answer": "B",
+    "answer_text": "Steganography",
+    "confidence": "cao",
+    "note": "Tách từ item OCR gộp 2 câu."
+  },
+  {
+    "id": 1290,
+    "origNo": "supplement-959",
+    "question": "42. Thuật ngữ nào mô tả chính xác nhất về thẻ thông minh?",
+    "answer": "E",
+    "answer_text": "Một cái gì đó bạn có",
+    "confidence": "cao",
+    "note": "Các lựa chọn gốc thiếu đáp án đúng; thẻ thông minh là yếu tố sở hữu."
+  },
+  {
+    "id": 1299,
+    "origNo": "supplement-969",
+    "question": "10. Một bảo mật máy chủ web đang được cấu hình, như trong Hình 13-1. Xác định lỗi cấu hình.",
+    "answer": "D",
+    "answer_text": "Phải chọn chứng chỉ SSL.",
+    "confidence": "cao",
+    "note": "Đối chiếu hình 13-1/trang nguồn: phải chọn chứng chỉ SSL."
+  },
+  {
+    "id": 1355,
+    "origNo": "supplement-1031",
+    "question": "Câu 10. Bạn là kỹ sư mạng cho một công ty luật ở San Francisco. Sau trận động đất năm 1989, việc tiếp tục hoạt động kinh doanh sau các trận động đất trong tương lai trở thành trọng tâm trong cộng đồng doanh nghiệp San Francisco. Loại kế hoạch nào tập trung vào việc đảm bảo rằng nhân sự, khách hàng và hệ thống CNTT bị ảnh hưởng tối thiểu sau thảm họa?",
+    "answer": "D",
+    "answer_text": "Liên tục kinh doanh",
+    "confidence": "cao",
+    "note": "Tách từ item OCR gộp 2 câu."
+  },
+  {
+    "id": 1447,
+    "origNo": "supplement-1031-split-q11",
+    "question": "Câu 11. Một máy chủ được cấu hình với ba đĩa cứng theo Hình 16-2. Đây là loại cấu hình gì?",
+    "answer": "C",
+    "answer_text": "RAID 5",
+    "confidence": "cao",
+    "note": "Tách từ item OCR gộp 2 câu."
+  },
+  {
+    "id": 1404,
+    "origNo": "supplement-1087",
+    "question": "Câu 18. Tham khảo hình 18-1. Khẳng định nào sau đây là đúng? (Chọn hai.)",
+    "answer": "A, C",
+    "answer_text": "Địa chỉ IP của máy chủ web là 66.220.151,75. | Trang web không sử dụng SSL.",
+    "confidence": "cao",
+    "note": "Đối chiếu hình 18-1/trang nguồn: đáp án được đánh dấu A và C."
+  },
+  {
+    "id": 1406,
+    "origNo": "supplement-1090",
+    "question": "Câu 21. Tham khảo hình 18-2. Kiểm toán bảo mật sẽ tìm thấy lỗi cấu hình nào?",
+    "answer": "B",
+    "answer_text": "Tài khoản Administrator được kích hoạt và chưa được đổi tên.",
+    "confidence": "cao",
+    "note": "Đối chiếu hình 18-2/trang nguồn: Administrator enabled và chưa đổi tên."
+  },
+  {
+    "id": 1412,
+    "origNo": "supplement-1096",
+    "question": "Câu 27. Bạn đang xem xét các chính sách mật khẩu trong quá trình kiểm toán bảo mật. Tham khảo hình 18-3 và xác định hai vấn đề an ninh. (Chọn hai.)",
+    "answer": "A, D",
+    "answer_text": "Tuổi mật khẩu tối thiểu là 0 ngày. | Mật khẩu không đáp ứng yêu cầu phức tạp.",
+    "confidence": "cao",
+    "note": "Đối chiếu hình 18-3/trang nguồn: tuổi mật khẩu tối thiểu 0 ngày và không yêu cầu phức tạp."
+  },
+  {
+    "id": 1418,
+    "origNo": "supplement-1102",
+    "question": "Câu 33. Tribbled Inc. gần đây đã thuê một công ty tư vấn bảo mật để thực hiện kiểm toán bảo mật mạng của mình Vulcan, Alberta, địa điểm. Một đoạn trích của kết quả kiểm toán được liệt kê ở đây:",
+    "answer": "D",
+    "answer_text": "Chuyên gia tư vấn đã tiến hành quét thông tin xác thực.",
+    "confidence": "cao",
+    "note": "Đối chiếu đoạn kết quả kiểm toán/trang nguồn: quét có thông tin xác thực."
+  },
+  {
+    "id": 1421,
+    "origNo": "supplement-1105",
+    "question": "Câu 37. Acme Inc. sử dụng dải địa chỉ mạng 199.126.129.0/24 trong DMZ của mình. Bạn đang cấu hình tường lửa phân tách DMZ từ mạng riêng để lưu lượng truy cập từ máy chủ DMZ được phép vào Mạng riêng tư. Bạn phát hành bộ định tuyến lệnh (config) # access-list 45 cho phép 192.168.1.0 0,0.0.255. Vấn đề với cấu hình này là gì?",
+    "answer": "B",
+    "answer_text": "192.168.1.0 là một địa chỉ mạng riêng được bảo lưu.",
+    "confidence": "cao",
+    "note": "Đối chiếu trang nguồn: ACL dùng sai dải mạng, 192.168.1.0 là dải riêng được bảo lưu."
+  }
+]
