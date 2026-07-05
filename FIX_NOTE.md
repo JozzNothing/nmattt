@@ -20,3 +20,8 @@ Thống kê:
 - Bổ sung/sửa đáp án từ nhóm chưa biết: 349
 - Sửa OCR thủ công: 8
 - Chưa tự động sửa: 32
+
+
+## QC v3
+
+Đã sửa thêm các lỗi cấu trúc/đáp án/OCR chắc chắn phát hiện trong bản v2. Xem `qc_report_v3.md`.
