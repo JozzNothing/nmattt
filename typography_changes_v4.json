@@ -1,0 +1,2078 @@
+[
+  {
+    "id": 16,
+    "field": "question",
+    "before": "Bộ lọc gói cho phép thực hiện chức năng nào ?",
+    "after": "Bộ lọc gói cho phép thực hiện chức năng nào?"
+  },
+  {
+    "id": 46,
+    "field": "option A",
+    "before": "Nếu trong hệ thống có tồn tại khiếm khuyết thì sớm hay muộn sẽ bị khai thác để làm tổn hại tới tính an toàn của hệ thống; khi đó khiếm khuyết đó sẽ trở thành lỗ hổng.\n//A, D",
+    "after": "Nếu trong hệ thống có tồn tại khiếm khuyết thì sớm hay muộn sẽ bị khai thác để làm tổn hại tới tính an toàn của hệ thống; khi đó khiếm khuyết đó sẽ trở thành lỗ hổng."
+  },
+  {
+    "id": 93,
+    "field": "question",
+    "before": "Bộ lọc gói cho phép thực hiện chức năng nào ?",
+    "after": "Bộ lọc gói cho phép thực hiện chức năng nào?"
+  },
+  {
+    "id": 146,
+    "field": "question",
+    "before": "Những giao thức TCP / IP nào sử dụng mã hóa để bảo mật đường truyền dữ liệu?",
+    "after": "Những giao thức TCP/IP nào sử dụng mã hóa để bảo mật đường truyền dữ liệu?"
+  },
+  {
+    "id": 146,
+    "field": "option D",
+    "before": "HTTPS, FTP, SSH",
+    "after": "HFTPS, FTP, SSH"
+  },
+  {
+    "id": 158,
+    "field": "option C",
+    "before": "Đảm bảo tính chống chối bỏ\n//A, C",
+    "after": "Đảm bảo tính chống chối bỏ"
+  },
+  {
+    "id": 208,
+    "field": "question",
+    "before": "Một người dùng báo cáo khi truy cập vào Google đều thấy thông báo \"cảnh báo chứng chỉ hết hạn\" trên trình duyệt web. Khi kiểm tra trình duyệt, bạn sẽ thấy cảnh báo về chứng chỉ. Nhưng khi kiểm tra lưu lượng mạng, bạn thấy tất cả các yêu cầu HTTP và HTTPS từ hệ thống đó đang được định tuyến đến cùng một IP bất kể đích đến là gì. Trong các tấn công dưới đây, tấn công nào được sử dụng trong trường hợp này?",
+    "after": "Một người dùng báo cáo khi truy cập vào Google đều thấy thông báo \"cảnh báo chứng chỉ hết hạn\" trên trình duyệt web. Khi kiểm tra trình duyệt, bạn sẽ thấy cảnh báo về chứng chỉ. Nhưng khi kiểm tra lưu lượng mạng, bạn thấy tất cả các yêu cầu HTTP và HFTPS từ hệ thống đó đang được định tuyến đến cùng một IP bất kể đích đến là gì. Trong các tấn công dưới đây, tấn công nào được sử dụng trong trường hợp này?"
+  },
+  {
+    "id": 214,
+    "field": "question",
+    "before": "Phương pháp nào để đối phó với rủi ro xảy ra khi các cá nhân thực hiện phân tích chi phí / lợi ích và xác định rằng chi phí của giải pháp lớn hơn chi phí tổn thất do nguy cơ gây ra?",
+    "after": "Phương pháp nào để đối phó với rủi ro xảy ra khi các cá nhân thực hiện phân tích chi phí/lợi ích và xác định rằng chi phí của giải pháp lớn hơn chi phí tổn thất do nguy cơ gây ra?"
+  },
+  {
+    "id": 238,
+    "field": "option D",
+    "before": "Bí mật thu thập thông tin người dùng\nS0ZaVk9MSlVPSTJWTVdDVUpSRFRTVjJaTjVIRTI9PT0=",
+    "after": "Bí mật thu thập thông tin người dùng"
+  },
+  {
+    "id": 271,
+    "field": "option B",
+    "before": "HTTPS",
+    "after": "HFTPS"
+  },
+  {
+    "id": 280,
+    "field": "option D",
+    "before": "Một tệp chương trình với phần mở rộng là .vbs",
+    "after": "Một tệp chương trình với phần mở rộng là.vbs"
+  },
+  {
+    "id": 290,
+    "field": "question",
+    "before": "Faith đang xem tệp /etc/ passwd trên hệ thống được định cấu hình để sử dụng mật khẩu ẩn. Khi cô ấy kiểm tra một dòng trong tệp cho người dùng có quyền đăng nhập tương tác, cô ấy sẽ thấy gì trong trường mật khẩu?",
+    "after": "Faith đang xem tệp/etc/passwd trên hệ thống được định cấu hình để sử dụng mật khẩu ẩn. Khi cô ấy kiểm tra một dòng trong tệp cho người dùng có quyền đăng nhập tương tác, cô ấy sẽ thấy gì trong trường mật khẩu?"
+  },
+  {
+    "id": 299,
+    "field": "option C",
+    "before": "Để đảm bảo tính bí mật thì chỉ cung cấp thông tin cho người có thẩm quyền tiếp cận.\n//A, D",
+    "after": "Để đảm bảo tính bí mật thì chỉ cung cấp thông tin cho người có thẩm quyền tiếp cận."
+  },
+  {
+    "id": 307,
+    "field": "question",
+    "before": "trong web thương mại điện tử của bn đg gặp sự cố do lưu lượng truy cập cực kỳ cao. Nhìn vào nhật ký lưu lượng, bn thấy hàng chục nghìn yêu cầu cho cùng 1 URL đến từ hàng trăm địa chỉ IP khác nhau trên khắp thế giới . Bạn đg đối mặt với kiểu tấn công nào",
+    "after": "trong web thương mại điện tử của bn đg gặp sự cố do lưu lượng truy cập cực kỳ cao. Nhìn vào nhật ký lưu lượng, bn thấy hàng chục nghìn yêu cầu cho cùng 1 URL đến từ hàng trăm địa chỉ IP khác nhau trên khắp thế giới. Bạn đg đối mặt với kiểu tấn công nào"
+  },
+  {
+    "id": 344,
+    "field": "question",
+    "before": "Avra là một chương trình quét mã độc trong hệ thống nhưng lại chứa một số chức năng cho phép thu thập thông tin mà người dùng không biết . Vậy Avra là dạng mã độc gì?",
+    "after": "Avra là một chương trình quét mã độc trong hệ thống nhưng lại chứa một số chức năng cho phép thu thập thông tin mà người dùng không biết. Vậy Avra là dạng mã độc gì?"
+  },
+  {
+    "id": 345,
+    "field": "question",
+    "before": ": Phát biểu nào sau đây đúng với hệ thống xâm nhập mức mạng _NIDS ?",
+    "after": ": Phát biểu nào sau đây đúng với hệ thống xâm nhập mức mạng _NIDS?"
+  },
+  {
+    "id": 346,
+    "field": "question",
+    "before": "Mã độc lây nhiễm vào máy tính cho phép kẻ tấn công điều khiển được máy tính đó là loại mã độc nào sau đây ?",
+    "after": "Mã độc lây nhiễm vào máy tính cho phép kẻ tấn công điều khiển được máy tính đó là loại mã độc nào sau đây?"
+  },
+  {
+    "id": 347,
+    "field": "question",
+    "before": "Trong mô hình MAC để đảm bảo tính bí mật quy tắc đọc, ghi dữ liệu nào sau đây cần được tuân thủ ?",
+    "after": "Trong mô hình MAC để đảm bảo tính bí mật quy tắc đọc, ghi dữ liệu nào sau đây cần được tuân thủ?"
+  },
+  {
+    "id": 349,
+    "field": "question",
+    "before": "Đâu là một thuật toán hàm băm ?",
+    "after": "Đâu là một thuật toán hàm băm?"
+  },
+  {
+    "id": 350,
+    "field": "question",
+    "before": "Điều nào sau đây là cần được thực hiện để cấu hình bộ chuyển mạch Ethernet một cách an toàn ?",
+    "after": "Điều nào sau đây là cần được thực hiện để cấu hình bộ chuyển mạch Ethernet một cách an toàn?"
+  },
+  {
+    "id": 351,
+    "field": "question",
+    "before": "Cách nào sau đây là tốt nhất và đơn giản nhất để chống lại lỗ hổng trong hệ điều hành ?",
+    "after": "Cách nào sau đây là tốt nhất và đơn giản nhất để chống lại lỗ hổng trong hệ điều hành?"
+  },
+  {
+    "id": 357,
+    "field": "question",
+    "before": "Phát biểu nào sau đây đúng ?",
+    "after": "Phát biểu nào sau đây đúng?"
+  },
+  {
+    "id": 363,
+    "field": "question",
+    "before": "Trong hệ mật mã AES, kích thước bản rõ đầu vào là 156 bit, vậy kích thước bản mã đầu ra là bao nhiêu ?",
+    "after": "Trong hệ mật mã AES, kích thước bản rõ đầu vào là 156 bit, vậy kích thước bản mã đầu ra là bao nhiêu?"
+  },
+  {
+    "id": 401,
+    "field": "question",
+    "before": "Phát biểu nào sau đây là sai ?",
+    "after": "Phát biểu nào sau đây là sai?"
+  },
+  {
+    "id": 409,
+    "field": "question",
+    "before": "Hành động nào sau đây không làm giảm khả năng lây nhiễm mã độc?( Chọn tất cả các đáp án đúng).",
+    "after": "Hành động nào sau đây không làm giảm khả năng lây nhiễm mã độc?(Chọn tất cả các đáp án đúng)."
+  },
+  {
+    "id": 429,
+    "field": "question",
+    "before": "Faith đang xem tệp /etc/passwd trên hệ thống được định cấu hình để sử dụng mật khẩu ẩn. Khi cô ấy kiểm tra một dòng trong tệp cho người dùng có quyền đăng nhập tương tác, cô ấy sẽ thấy gì trong trường mật khẩu?",
+    "after": "Faith đang xem tệp/etc/passwd trên hệ thống được định cấu hình để sử dụng mật khẩu ẩn. Khi cô ấy kiểm tra một dòng trong tệp cho người dùng có quyền đăng nhập tương tác, cô ấy sẽ thấy gì trong trường mật khẩu?"
+  },
+  {
+    "id": 478,
+    "field": "option C",
+    "before": "HTTPS",
+    "after": "HFTPS"
+  },
+  {
+    "id": 496,
+    "field": "question",
+    "before": "Bộ lọc gói cho phép thực hiện chức năng nào ?",
+    "after": "Bộ lọc gói cho phép thực hiện chức năng nào?"
+  },
+  {
+    "id": 543,
+    "field": "option C",
+    "before": "HTTPS, FTP, SSH",
+    "after": "HFTPS, FTP, SSH"
+  },
+  {
+    "id": 563,
+    "field": "option A",
+    "before": "Tất cả các lỗi / ngoại lệ phải được giữ lại và xử lý trong quy trình tạo",
+    "after": "Tất cả các lỗi/ngoại lệ phải được giữ lại và xử lý trong quy trình tạo"
+  },
+  {
+    "id": 563,
+    "field": "option C",
+    "before": "Tất cả các lỗi / ngoại lệ phải được giữ lại và xử lý trong chương trình chính",
+    "after": "Tất cả các lỗi/ngoại lệ phải được giữ lại và xử lý trong chương trình chính"
+  },
+  {
+    "id": 575,
+    "field": "question",
+    "before": "Phương pháp nào để đối phó với rủi ro xảy ra khi các cá nhân thực hiện phân tích chi phí / lợi ích và xác định rằng chi phí của lợi ích lớn hơn chi phí của nguy cơ tổn thất?",
+    "after": "Phương pháp nào để đối phó với rủi ro xảy ra khi các cá nhân thực hiện phân tích chi phí/lợi ích và xác định rằng chi phí của lợi ích lớn hơn chi phí của nguy cơ tổn thất?"
+  },
+  {
+    "id": 603,
+    "field": "question",
+    "before": "Phương pháp nào để đối phó với rủi ro xảy ra khi các cá nhân thực hiện phân tích chi phí / lợi ích và xác định rằng chi phí của giải pháp lớn hơn chi phí tổn thất do nguy cơ gây ra?",
+    "after": "Phương pháp nào để đối phó với rủi ro xảy ra khi các cá nhân thực hiện phân tích chi phí/lợi ích và xác định rằng chi phí của giải pháp lớn hơn chi phí tổn thất do nguy cơ gây ra?"
+  },
+  {
+    "id": 605,
+    "field": "option D",
+    "before": "Để đảm bảo tính bí mật thì thông tin cần được mà hóa.",
+    "after": "Để đảm bảo tính bí mật thì thông tin cần được mã hóa."
+  },
+  {
+    "id": 605,
+    "field": "option F",
+    "before": "Để đảm bảo tính bí mật thì chỉ cung cắp thông tin cho người có thẩm quyền tiếp cận.",
+    "after": "Để đảm bảo tính bí mật thì chỉ cung cấp thông tin cho người có thẩm quyền tiếp cận."
+  },
+  {
+    "id": 608,
+    "field": "question",
+    "before": "Mô hình bão mật nào sử dụng phân loại dữ liệu và phân quyền người dùng dựa trên phân loại dữ liệu",
+    "after": "Mô hình bảo mật nào sử dụng phân loại dữ liệu và phân quyền người dùng dựa trên phân loại dữ liệu"
+  },
+  {
+    "id": 608,
+    "field": "option A",
+    "before": "RBAC .",
+    "after": "RBAC."
+  },
+  {
+    "id": 609,
+    "field": "question",
+    "before": "Một mạng máy tính có 250 máy. Bạn cần sử dụng công cụ gì để đánh giá độ an toàn cũa các máy?",
+    "after": "Một mạng máy tính có 250 máy. Bạn cần sử dụng công cụ gì để đánh giá độ an toàn của các máy?"
+  },
+  {
+    "id": 610,
+    "field": "question",
+    "before": "Công ty bạn triển khai hạ tầng PKI, bạn cẦn mã hóa một thư điện tữ và gũi nó cho đồng nghiệp là An. Bạn cần có\nkhóa nào sau đây để thực hiện được điều này:",
+    "after": "Công ty bạn triển khai hạ tầng PKI, bạn cần mã hóa một thư điện tử và gửi nó cho đồng nghiệp là An. Bạn cần có khóa nào sau đây để thực hiện được điều này:"
+  },
+  {
+    "id": 611,
+    "field": "question",
+    "before": "Chức năng User Aceount Control (UAC) trong Windows 8 cho phép người dùng có thể thay đổi các cài đặt của\nWindows nhưng trước khi thay đỗi sẽ hiển thị lời nhắc để xác nhận lại sự thay đỗi này cho người dùng. Điều này\ngiúp chống lại tấn công nào?",
+    "after": "Chức năng User Account Control (UAC) trong Windows 8 cho phép người dùng có thể thay đổi các cài đặt của Windows nhưng trước khi thay đổi sẽ hiển thị lời nhắc để xác nhận lại sự thay đổi này cho người dùng. Điều này giúp chống lại tấn công nào?"
+  },
+  {
+    "id": 611,
+    "field": "option D",
+    "before": "Worms . -\n4",
+    "after": "Worms."
+  },
+  {
+    "id": 614,
+    "field": "question",
+    "before": "Công việc nào sau đây cho phép xác định các tài nguyên, nguy cơ và rủi ro cũng như cách thức khắc phục và\ngiãm thiểu ảnh hưởng của các nguy cơ đến hệ thống thông tin",
+    "after": "Công việc nào sau đây cho phép xác định các tài nguyên, nguy cơ và rủi ro cũng như cách thức khắc phục và giảm thiểu ảnh hưởng của các nguy cơ đến hệ thống thông tin"
+  },
+  {
+    "id": 614,
+    "field": "option A",
+    "before": "Phân tích rủi ro .",
+    "after": "Phân tích rủi ro."
+  },
+  {
+    "id": 618,
+    "field": "question",
+    "before": "Công ty muốn sử dụng một máy chủ FTP và muốn đãm bảo an toàn cho các luồng dữ liệu FTP sử dụng SSL. Lựa\nchọn nào sau đây hên được sử dụng:",
+    "after": "Công ty muốn sử dụng một máy chủ FTP và muốn đảm bảo an toàn cho các luồng dữ liệu FTP sử dụng SSL. Lựa chọn nào sau đây nên được sử dụng:"
+  },
+  {
+    "id": 618,
+    "field": "option D",
+    "before": "TLS-",
+    "after": "TLS"
+  },
+  {
+    "id": 619,
+    "field": "question",
+    "before": "Mộthacker ngồi trong quán cà phê có điểm truy cập Internet và tiến hành thực hiện ARP poisoning mọi người\nkết nối với mạng không dây để tất cả lưu lượng truy cập qua máy tính xách tay hacker trước khi cô định tuyến\nlưu lượng truy cập vào Internet. Đây là loại tẤn công nào?",
+    "after": "Một hacker ngồi trong quán cà phê có điểm truy cập Internet và tiến hành thực hiện ARP poisoning mọi người kết nối với mạng không dây để tất cả lưu lượng truy cập qua máy tính xách tay hacker trước khi cô định tuyến lưu lượng truy cập vào Internet. Đây là loại tấn công nào?"
+  },
+  {
+    "id": 621,
+    "field": "question",
+    "before": "người dùng đăng nhập vào tài khoăn ngân hàng cña mình bằng cách theo liên.\nnưc củng cắp VÀ xác mình rằng ti khoản cũa cô Ấy không bị giả mạo. Đây là loại tấn công nào?",
+    "after": "người dùng đăng nhập vào tài khoản ngân hàng của mình bằng cách theo liên. nưc củng cắp và xác minh rằng tài khoản của cô ấy không bị giả mạo. Đây là loại tấn công nào?"
+  },
+  {
+    "id": 622,
+    "field": "question",
+    "before": "Để cấu hình luật cho NIPS nhằm xác định và ngăn chặn tấn công direetory traversal trên máy chủ web thì kiểu\nluật nào sau đây được sử dụng:",
+    "after": "Để cấu hình luật cho NIPS nhằm xác định và ngăn chặn tấn công directory traversal trên máy chủ web thì kiểu luật nào sau đây được sử dụng:"
+  },
+  {
+    "id": 624,
+    "field": "option C",
+    "before": "Đảm bảo tính toàn vẹn\nh D. Đảm bảo tính chống chối bỏ",
+    "after": "Đảm bảo tính toàn vẹn"
+  },
+  {
+    "id": 625,
+    "field": "question",
+    "before": "Để dễ dàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn quyết định phải có một cách dễ dàng hơn\nlà cẤp cho người dùng quyền truy cập cá nhân vào tệp, máy ïn, máy tính và ứng dụng. Mô hình bão mật nào bạn\nnên xem xét sử dụng?",
+    "after": "Để dễ dàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn quyết định phải có một cách dễ dàng hơn là cấp cho người dùng quyền truy cập cá nhân vào tệp, máy in, máy tính và ứng dụng. Mô hình bảo mật nào bạn nên xem xét sử dụng?"
+  },
+  {
+    "id": 628,
+    "field": "question",
+    "before": "Phần mềm nào sau đây giúp chống lại việc thu thập thông tin cá nhân cũa người đủng?",
+    "after": "Phần mềm nào sau đây giúp chống lại việc thu thập thông tin cá nhân của người đủng?"
+  },
+  {
+    "id": 629,
+    "field": "question",
+    "before": "Được pháthiện vào năm 1991, virus Michelangelo được cho là đã được kích hoạt để ghi đề lên 100 sector đĩa cứng\nđầu tiên với dữ liệu null mỗi năm vào ngày 6 tháng 3, đúng vào ngày sinh nhật của nghệ sĩ người Ý. Michelangelo\nthuộc loại virus nào?",
+    "after": "Được phát hiện vào năm 1991, virus Michelangelo được cho là đã được kích hoạt để ghi đè lên 100 sector đĩa cứng đầu tiên với dữ liệu null mỗi năm vào ngày 6 tháng 3, đúng vào ngày sinh nhật của nghệ sĩ người Ý. Michelangelo thuộc loại virus nào?"
+  },
+  {
+    "id": 634,
+    "field": "option B",
+    "before": "45\nC10",
+    "after": "45"
+  },
+  {
+    "id": 636,
+    "field": "question",
+    "before": "Thang mã hóa đữ liệu sử. dụng mật mã khó\n- Dữ liệu được mà hóa bằng khóa eo, o hóa công khai, phát biểu nào h\nbà Mạ độ thực thị nhữg \"Ẻ khôn công khai, giải mũ bằng khóa bí mặt SÁyh ĐỨNG: (hạn 2 Gấp nộ",
+    "after": "Thang mã hóa dữ liệu sử dụng mật mã khó - Dữ liệu được mã hóa bằng khóa bí mật, o hóa công khai, phát biểu nào h bà Mạ độ thực thi nhữg \"Ẻ khôn công khai, giải mã bằng khóa bí mặt SÁyh ĐỨNG: (hạn 2 Gấp nộ"
+  },
+  {
+    "id": 636,
+    "field": "option E",
+    "before": "Dữ liệu nạ Xà vài thông thể tìm ra khóa bí mật\n\\g khóa bí mật, giải mà bằng khóa công khai :",
+    "after": "Dữ liệu nạ Xà vài thông thể tìm ra khóa bí mật \\g khóa bí mật, giải mã bằng khóa công khai:"
+  },
+  {
+    "id": 639,
+    "field": "question",
+    "before": "Kỹ thuật nào được sử dụng để xác định khi nào tài khoăn của người dùng bị sửa đỗi thông tin",
+    "after": "Kỹ thuật nào được sử dụng để xác định khi nào tài khoản của người dùng bị sửa đỗi thông tin"
+  },
+  {
+    "id": 642,
+    "field": "option A",
+    "before": "Là một chương trình được thiết kế để tấn công hệ thống máy tính trong khi vẫn thực hiện các hành động có vẻ không\ngây hại -",
+    "after": "Là một chương trình được thiết kế để tấn công hệ thống máy tính trong khi vẫn thực hiện các hành động có vẻ không gây hại"
+  },
+  {
+    "id": 643,
+    "field": "question",
+    "before": "Một công ty cung cắp hãi sẵn muốn bão vệ hệ thống thông tin của mình để các cách thức chế biến và đóng gói\nkhông bị tiết lộ với các đối thủ cạnh tranh. Khía cạnh nào cũa an toàn thông tin đang được xem xét?",
+    "after": "Một công ty cung cấp hải sản muốn bão vệ hệ thống thông tin của mình để các cách thức chế biến và đóng gói không bị tiết lộ với các đối thủ cạnh tranh. Khía cạnh nào của an toàn thông tin đang được xem xét?"
+  },
+  {
+    "id": 644,
+    "field": "question",
+    "before": "Cần lạm băm H, từ H(x) không thể tìm được x là tính chất nào cũa hàm băm\n- Nền",
+    "after": "Cần lạm băm H, từ H(x) không thể tìm được x là tính chất nào của hàm băm - Nền"
+  },
+  {
+    "id": 647,
+    "field": "question",
+    "before": "Bạn lưu trữ tài liệu cá nhân và bảng tính trên một dịch vụ lưu trữ đám mây. Bạn muốn dữ liệu cũa mình chỉ khã\ndụng cho những người có khóa được chia sẽ đặc biệt. Bạn nên áp dụng điều gì cho các tài liệu và bằng tính cũa\nạn?",
+    "after": "Bạn lưu trữ tài liệu cá nhân và bảng tính trên một dịch vụ lưu trữ đám mây. Bạn muốn dữ liệu của mình chỉ khã dụng cho những người có khóa được chia sẽ đặc biệt. Bạn nên áp dụng điều gì cho các tài liệu và bằng tính của ạn?"
+  },
+  {
+    "id": 649,
+    "field": "option A",
+    "before": "Được dùng để mã hóa thông điệp gửi đi\n+“. Được dùng để giải mã thông điệp nhận được.",
+    "after": "Được dùng để mã hóa thông điệp gửi đi +“. Được dùng để giải mã thông điệp nhận được."
+  },
+  {
+    "id": 651,
+    "field": "question",
+    "before": "Một đoạn mã độc sử dụng các cuộc tấn công từ điễn vào máy tính để có quyền truy cập vào tài khoản quãn trị.\nĐoạn mã này sau đó liên kết các máy tính bị xâm nhập với nhau nhằm mục đích nhận các lệnh từ xa. Thuật ngữ:\nnào mô tä ĐÚNG NHÁT loại mã độc này?\n: A. Exploit ;",
+    "after": "Một đoạn mã độc sử dụng các cuộc tấn công từ điễn vào máy tính để có quyền truy cập vào tài khoản quãn trị. Đoạn mã này sau đó liên kết các máy tính bị xâm nhập với nhau nhằm mục đích nhận các lệnh từ xa. Thuật ngữ: nào mô tä ĐÚNG NHÁT loại mã độc này?: A. Exploit;"
+  },
+  {
+    "id": 652,
+    "field": "question",
+    "before": "Bạn theo dõi và kiểm tra lưu lượng mạng hàng tuần để đăm bảo rằng mạng đang được sử dụng đúng cách. Khỉ\nlàm như vậy, bạn nhận thấy lưu lượng truy cập đến cổng TCP S3 trên máy chủ của mình từ một địa chỉ IP không\nxác định. Sau khi xem lại nhật ký máy chủ của bạn, bạn nhận thấy nhiều lần thất bại trong việc thực hiện chuyển\nvùng đến máy chủ của mình. Đây là dấu hiệu của kiểu tấn công nào?",
+    "after": "Bạn theo dõi và kiểm tra lưu lượng mạng hàng tuần để đăm bảo rằng mạng đang được sử dụng đúng cách. Khỉ làm như vậy, bạn nhận thấy lưu lượng truy cập đến cổng TCP S3 trên máy chủ của mình từ một địa chỉ IP không xác định. Sau khi xem lại nhật ký máy chủ của bạn, bạn nhận thấy nhiều lần thất bại trong việc thực hiện chuyển vùng đến máy chủ của mình. Đây là dấu hiệu của kiểu tấn công nào?"
+  },
+  {
+    "id": 652,
+    "field": "option D",
+    "before": "MAC flooding\n(Sinh viên không được sử dụng tài liệu)",
+    "after": "MAC flooding (Sinh viên không được sử dụng tài liệu)"
+  },
+  {
+    "id": 655,
+    "field": "question",
+    "before": "Để dễ dàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn quyết định phải có một cách\ndễ dàng hơn là cấp cho người dùng quyền truy cập cá nhân vào tệp, máy in, máy tính và ứng dụng.\nMô hình bão mật nào bạn nên xem xét sử dụng?",
+    "after": "Để dễ dàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn quyết định phải có một cách dễ dàng hơn là cấp cho người dùng quyền truy cập cá nhân vào tệp, máy in, máy tính và ứng dụng. Mô hình bảo mật nào bạn nên xem xét sử dụng?"
+  },
+  {
+    "id": 656,
+    "field": "question",
+    "before": "Để cấu hình luật cho NIPS nhằm xác định và ngăn chặn tấn công directory traversal trên máy chủ _\nweb thì kiểu luật nào sau đây được sử dụng: sa...",
+    "after": "Để cấu hình luật cho NIPS nhằm xác định và ngăn chặn tấn công directory traversal trên máy chủ _ web thì kiểu luật nào sau đây được sử dụng: sa..."
+  },
+  {
+    "id": 656,
+    "field": "option C",
+    "before": "Luật dựa trên bắt thường. :",
+    "after": "Luật dựa trên bắt thường.:"
+  },
+  {
+    "id": 659,
+    "field": "question",
+    "before": "Một đoạn mã độc sử dụng các cuộc tấn công từ điển vào máy tính để có quyền truy cập vào tài khoản\nquản trị. Đoạn mã này sau đó liên kết các máy tính bị xâm nhập với nhau nhằm mục đích nhận các\nlệnh từ xa. Thuật ngữ nào mô tả ĐÚNG NHÁT loại mã độc này?",
+    "after": "Một đoạn mã độc sử dụng các cuộc tấn công từ điển vào máy tính để có quyền truy cập vào tài khoản quản trị. Đoạn mã này sau đó liên kết các máy tính bị xâm nhập với nhau nhằm mục đích nhận các lệnh từ xa. Thuật ngữ nào mô tả ĐÚNG NHÁT loại mã độc này?"
+  },
+  {
+    "id": 659,
+    "field": "option D",
+    "before": "Backdoor\n2⁄⁄ 4",
+    "after": "Backdoor 2⁄⁄ 4"
+  },
+  {
+    "id": 662,
+    "field": "question",
+    "before": "Chức năng User Aecount Control (UAC) trong Windows 8 cho phép người dùng có thể thay đổi các\ncài đặt của Windows nhưng trước khi thay đổi sẽ hiển thị lời nhắc để xác nhận lại sự thay đôi này cho\nngười dùng. Điều này giúp chống lại tấn công nào?",
+    "after": "Chức năng User Aecount Control (UAC) trong Windows 8 cho phép người dùng có thể thay đổi các cài đặt của Windows nhưng trước khi thay đổi sẽ hiển thị lời nhắc để xác nhận lại sự thay đôi này cho người dùng. Điều này giúp chống lại tấn công nào?"
+  },
+  {
+    "id": 662,
+    "field": "option D",
+    "before": "Worms ,",
+    "after": "Worms,"
+  },
+  {
+    "id": 664,
+    "field": "question",
+    "before": "Một người dùng trên mạng của bạn nhận được e-mail từ ngân hàng nói rằng đã có sự cố bão mật tại\nngân hàng. Email tiếp tục bằng cách yêu cầu người dùng đăng nhập vào tài khoản ngân hàng của\nmình bằng cách theo liên kết được cung cấp và xác minh rằng tài khoăn của cô Ấy không bị giả mạo.\nĐây là loại tắn công nào?",
+    "after": "Một người dùng trên mạng của bạn nhận được e-mail từ ngân hàng nói rằng đã có sự cố bảo mật tại ngân hàng. Email tiếp tục bằng cách yêu cầu người dùng đăng nhập vào tài khoản ngân hàng của mình bằng cách theo liên kết được cung cấp và xác minh rằng tài khoản của cô ấy không bị giả mạo. Đây là loại tắn công nào?"
+  },
+  {
+    "id": 665,
+    "field": "question",
+    "before": "Đâu là tên một loại mã độc\n' A. Caterpillars",
+    "after": "Đâu là tên một loại mã độc ' A. Caterpillars"
+  },
+  {
+    "id": 667,
+    "field": "option A",
+    "before": "An toàn thông tin là bảo vệ thông tin và hệ thống thông tin trước tấn công của tin tặc, bao gồm cả những,\nnhóm tin tặc được hậu thuẫn bởi các chính phủ.\n: B. An toàn thông tin bao gồm việc đảm bảo hoạt động ồn định của hệ thống thông tin trước khả năng xây ra\nsự cổ vật lý. -",
+    "after": "An toàn thông tin là bảo vệ thông tin và hệ thống thông tin trước tấn công của tin tặc, bao gồm cả những, nhóm tin tặc được hậu thuẫn bởi các chính phủ.: B. An toàn thông tin bao gồm việc đảm bảo hoạt động ồn định của hệ thống thông tin trước khả năng xây ra sự cổ vật lý."
+  },
+  {
+    "id": 667,
+    "field": "option C",
+    "before": "Một trong những nhiệm vụ của an toàn thông tin là ngăn chặn sự phát tán tin giả trên mạng đê không gây\ntác động tiêu cực lên nhận thức của cộng đồng.",
+    "after": "Một trong những nhiệm vụ của an toàn thông tin là ngăn chặn sự phát tán tin giả trên mạng đê không gây tác động tiêu cực lên nhận thức của cộng đồng."
+  },
+  {
+    "id": 668,
+    "field": "question",
+    "before": "ợ D. Publie key của bạn\nâ Phần mềm nào sau đây giúp chống lại việc thu thập thông tin cá nhân của người dùng?\nA- Anti-spam.",
+    "after": "ợ D. Publie key của bạn â Phần mềm nào sau đây giúp chống lại việc thu thập thông tin cá nhân của người dùng? A- Anti-spam."
+  },
+  {
+    "id": 669,
+    "field": "question",
+    "before": "Đâu là kiểu kiểm thử được sử dụng khi người kiểm thử được cung cấp các thông tin cấu hình cũa hệ\nthống?",
+    "after": "Đâu là kiểu kiểm thử được sử dụng khi người kiểm thử được cung cấp các thông tin cấu hình của hệ thống?"
+  },
+  {
+    "id": 673,
+    "field": "question",
+    "before": "Được phát hiện vào năm 1991, virus Miehelangelo được cho là đã được kích hoạt đễ ghỉ đè lên 100\nsector đĩa cúng đầu tiên với dữ liệu null mỗi năm vào ngày 6 tháng 3, đúng vào ngày sinh nhật cũa\nnghệ sĩ người Ý. Miehelangelo thuộc loại virus nào?",
+    "after": "Được phát hiện vào năm 1991, virus Miehelangelo được cho là đã được kích hoạt đễ ghỉ đè lên 100 sector đĩa cúng đầu tiên với dữ liệu null mỗi năm vào ngày 6 tháng 3, đúng vào ngày sinh nhật của nghệ sĩ người Ý. Miehelangelo thuộc loại virus nào?"
+  },
+  {
+    "id": 675,
+    "field": "question",
+    "before": "Công việc nào sau đây cho phép xác định các tài nguyên, nguy cơ và rủi ro cũng như cách thức khắc\nphục và giãm thiểu ãnh hướng của các nguy cơ đến hệ thống thông tin",
+    "after": "Công việc nào sau đây cho phép xác định các tài nguyên, nguy cơ và rủi ro cũng như cách thức khắc phục và giảm thiểu ãnh hướng của các nguy cơ đến hệ thống thông tin"
+  },
+  {
+    "id": 677,
+    "field": "question",
+    "before": "Khi truy cập vào các tài liệu trong một thư mục trên máy tính của bạn, bạn nhận thấy tất cả các tệp\nđã bị đối tên thành các tên tệp ngẫu nhiên. Ngoài ra, bạn thấy một tài liệu chứa các hướng dẫn thanh\ntoán để giải mã các tệp tin. Trong trường hợp này bạn đã nhiễm mã độc nào?",
+    "after": "Khi truy cập vào các tài liệu trong một thư mục trên máy tính của bạn, bạn nhận thấy tất cả các tệp đã bị đối tên thành các tên tệp ngẫu nhiên. Ngoài ra, bạn thấy một tài liệu chứa các hướng dẫn thanh toán để giải mã các tệp tin. Trong trường hợp này bạn đã nhiễm mã độc nào?"
+  },
+  {
+    "id": 682,
+    "field": "question",
+    "before": "Không thể tìm được cặp (x,y) sao cho H(x) = H(y) là tính chất nào cũa hàm băm",
+    "after": "Không thể tìm được cặp (x,y) sao cho H(x) = H(y) là tính chất nào của hàm băm"
+  },
+  {
+    "id": 683,
+    "field": "question",
+    "before": "Bạn lưu trữ tài liệu cá nhân và bảng tính trên một dịch vụ lưu trữ đám mây. Bạn muốn dữ liệu của\nmình chï khả dụng cho những người có khóa được chia sẽ đặc biệt. Bạn nên áp dụng điều gì cho các\ntài liệu và băng tính của bạn?",
+    "after": "Bạn lưu trữ tài liệu cá nhân và bảng tính trên một dịch vụ lưu trữ đám mây. Bạn muốn dữ liệu của mình chï khả dụng cho những người có khóa được chia sẽ đặc biệt. Bạn nên áp dụng điều gì cho các tài liệu và băng tính của bạn?"
+  },
+  {
+    "id": 688,
+    "field": "option A",
+    "before": "Là một chương trình được thiết kế để tấn công hệ thống máy tính trong khi vẫn thực hiện các hành động.\ncó vẻ không gây hại",
+    "after": "Là một chương trình được thiết kế để tấn công hệ thống máy tính trong khi vẫn thực hiện các hành động. có vẻ không gây hại"
+  },
+  {
+    "id": 691,
+    "field": "option D",
+    "before": "MAC\nì",
+    "after": "MAC ì"
+  },
+  {
+    "id": 692,
+    "field": "option D",
+    "before": "Các tệp tin nhật ký sẽ không bị phân tích\n5/6",
+    "after": "Các tệp tin nhật ký sẽ không bị phân tích 5/6"
+  },
+  {
+    "id": 693,
+    "field": "question",
+    "before": "Độ an toàn của mật khẫu nào dưới đây là lớn nhất (biết rằng mật khẩu có thể gồm chữ số, chữ cái hoa `\nvà thường)",
+    "after": "Độ an toàn của mật khẫu nào dưới đây là lớn nhất (biết rằng mật khẩu có thể gồm chữ số, chữ cái hoa ` và thường)"
+  },
+  {
+    "id": 695,
+    "field": "question",
+    "before": "Những phát biểu nào sau đây là ĐỦNG? (chọn 2 đáp án)\n-ˆ Mộ tổ chức chỉ có thể được chứng nhận đạt chuẩn ISO 27001 khi đáp ứng tắt cả các yêu cầu của ISO",
+    "after": "Những phát biểu nào sau đây là ĐỦNG? (chọn 2 đáp án) -ˆ Mộ tổ chức chỉ có thể được chứng nhận đạt chuẩn ISO 27001 khi đáp ứng tắt cả các yêu cầu của ISO"
+  },
+  {
+    "id": 695,
+    "field": "option B",
+    "before": "Một tổ chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là hệ thống thông tin của tổ chức đó được\nđảm bảo an toàn.",
+    "after": "Một tổ chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là hệ thống thông tin của tổ chức đó được đảm bảo an toàn."
+  },
+  {
+    "id": 695,
+    "field": "option C",
+    "before": "Một tổ chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là tổ chức đó đã triển khai việc bảo vệ thông\ntin một cách đúng đắn.",
+    "after": "Một tổ chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là tổ chức đó đã triển khai việc bảo vệ thông tin một cách đúng đắn."
+  },
+  {
+    "id": 696,
+    "field": "question",
+    "before": "Một công ty cung cấp hãi săn muốn bão vệ hệ thống thông tin cũa mình để các cách thức chế biến và\nđóng gói không bị tiết lộ với các đối thũ cạnh tranh. Khía cạnh nào của an toàn thông tin đang được\nxem xét?",
+    "after": "Một công ty cung cấp hãi săn muốn bão vệ hệ thống thông tin của mình để các cách thức chế biến và đóng gói không bị tiết lộ với các đối thũ cạnh tranh. Khía cạnh nào của an toàn thông tin đang được xem xét?"
+  },
+  {
+    "id": 698,
+    "field": "question",
+    "before": "Bạn theo dõi và kiểm tra lưu lượng mạng hàng tuần để đảm bảo rằng mạng đang được sử dụng đúng. ị\ncách. Khi làm như vậy, bạn nhận thấy lưu lượng truy cập đến cổng TCP 53 trên máy chủ của mình từ Ỉ\nmột địa chỉ IP không xác định. Sau khi xem lại nhật ký máy chũ của bạn, bạn nhận thấy nhiều lần ị\nthất bại trong việc thực hiện chuyển vùng đến máy chủ của mình. Đây là dấu hiệu của kiểu tấn công,\nnào?",
+    "after": "Bạn theo dõi và kiểm tra lưu lượng mạng hàng tuần để đảm bảo rằng mạng đang được sử dụng đúng. ị cách. Khi làm như vậy, bạn nhận thấy lưu lượng truy cập đến cổng TCP 53 trên máy chủ của mình từ Ỉ một địa chỉ IP không xác định. Sau khi xem lại nhật ký máy chũ của bạn, bạn nhận thấy nhiều lần ị thất bại trong việc thực hiện chuyển vùng đến máy chủ của mình. Đây là dấu hiệu của kiểu tấn công, nào?"
+  },
+  {
+    "id": 700,
+    "field": "question",
+    "before": "Dữliệu có thể bị rò rì qua con đường nào dưới đây? (chọn 3 đáp án) :",
+    "after": "Dữliệu có thể bị rò rì qua con đường nào dưới đây? (chọn 3 đáp án):"
+  },
+  {
+    "id": 700,
+    "field": "option E",
+    "before": "Ứng dụng đọc file PDF 2 —\n⁄ = = a ; /k&J@\n(€9 tru ĐÁ Sỹ alap det Gật\n6/6",
+    "after": "Ứng dụng đọc file PDF 2 — ⁄ = = a;/k&J@ (€9 tru ĐÁ Sỹ alap det Gật 6/6"
+  },
+  {
+    "id": 704,
+    "field": "question",
+    "before": "Một hacker ngồi trong quán cà phê có điểm truy cập Internet và tiến hành thực hiện ARP\npoisoning mọi người kết nối với mạng không dây để tất cả lưu lượng truy cập qua máy\ntính xách tay haeker trước khi cô định tuyến lưu lượng truy cập vào Internet. Đây là loại\ntấn công nào?",
+    "after": "Một hacker ngồi trong quán cà phê có điểm truy cập Internet và tiến hành thực hiện ARP poisoning mọi người kết nối với mạng không dây để tất cả lưu lượng truy cập qua máy tính xách tay haeker trước khi cô định tuyến lưu lượng truy cập vào Internet. Đây là loại tấn công nào?"
+  },
+  {
+    "id": 706,
+    "field": "question",
+    "before": "Cỗng nào sau đây cần được mở trong tường lửa để cho phép người dùng truy cập vào\nwebsite có sử dụng SSL",
+    "after": "Cỗng nào sau đây cần được mở trong tường lửa để cho phép người dùng truy cập vào website có sử dụng SSL"
+  },
+  {
+    "id": 707,
+    "field": "option D",
+    "before": "Đảm bảo tính chống chối bỏ\n1/6",
+    "after": "Đảm bảo tính chống chối bỏ 1/6"
+  },
+  {
+    "id": 708,
+    "field": "option A",
+    "before": "Là một chương trình được thiết kế để tấn công hệ thống máy tính trong khi vẫn thực hiện các\nhành động có vẻ không gây hại - š tần công thà\n| B. Một bức tượng gỗ nh con ngựa được chiến bình Hy lạp sử dụng để tần công thành Try",
+    "after": "Là một chương trình được thiết kế để tấn công hệ thống máy tính trong khi vẫn thực hiện các hành động có vẻ không gây hại - š tần công thà | B. Một bức tượng gỗ nh con ngựa được chiến bình Hy lạp sử dụng để tần công thành Try"
+  },
+  {
+    "id": 711,
+    "field": "question",
+    "before": "Để cấu hình luật cho NIPS nhằm xác định và ngăn chặn tấn công directory traversal trên\nmáy chủ web thì kiểu luật nào sau đây được sử dụng:",
+    "after": "Để cấu hình luật cho NIPS nhằm xác định và ngăn chặn tấn công directory traversal trên máy chủ web thì kiểu luật nào sau đây được sử dụng:"
+  },
+  {
+    "id": 712,
+    "field": "question",
+    "before": "Bạn theo dõi và kiểm tra lưu lượng mạng hàng tuần để đảm bảo rằng mạng đang được sử\ndụng đúng cách. Khi làm như vậy, bạn nhận thấy lưu lượng truy cập đến công TCP 53\ntrên máy chủ của mình từ một địa chỉ IP không xác định. Sau khi xem lại nhật ký máy chủ\ncủa bạn, bạn nhận thấy nhiều lần thất bại trong việc thực hiện chuyển vùng đến máy chủ\ncủa mình. Đây là dầu hiệu của kiểu tẤn công nào?",
+    "after": "Bạn theo dõi và kiểm tra lưu lượng mạng hàng tuần để đảm bảo rằng mạng đang được sử dụng đúng cách. Khi làm như vậy, bạn nhận thấy lưu lượng truy cập đến công TCP 53 trên máy chủ của mình từ một địa chỉ IP không xác định. Sau khi xem lại nhật ký máy chủ của bạn, bạn nhận thấy nhiều lần thất bại trong việc thực hiện chuyển vùng đến máy chủ của mình. Đây là dầu hiệu của kiểu tấn công nào?"
+  },
+  {
+    "id": 715,
+    "field": "question",
+    "before": "Để dễ dàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn quyết định phải\ncó một cách dễ dàng hơn là cấp cho người dùng quyền truy cập cá nhân vào tệp, máy in,\nmáy tính và ứng dụng. Mô hình bảo mật nào bạn nên xem xét sử dụng?",
+    "after": "Để dễ dàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn quyết định phải có một cách dễ dàng hơn là cấp cho người dùng quyền truy cập cá nhân vào tệp, máy in, máy tính và ứng dụng. Mô hình bảo mật nào bạn nên xem xét sử dụng?"
+  },
+  {
+    "id": 717,
+    "field": "question",
+    "before": "Công ty muốn sử dụng một máy chủ FTP và muốn đảm bảo an toàn cho các luông dữ liệu\nFTP sử dụng SSL. Lựa chọn nào sau đây nên được sử dụng:",
+    "after": "Công ty muốn sử dụng một máy chủ FTP và muốn đảm bảo an toàn cho các luông dữ liệu FTP sử dụng SSL. Lựa chọn nào sau đây nên được sử dụng:"
+  },
+  {
+    "id": 718,
+    "field": "question",
+    "before": "Cường sử dụng phương pháp mã hóa để mã hóa file, phương pháp mã hóa nào thường\nđược sử dụng:",
+    "after": "Cường sử dụng phương pháp mã hóa để mã hóa file, phương pháp mã hóa nào thường được sử dụng:"
+  },
+  {
+    "id": 720,
+    "field": "question",
+    "before": "Một người dùng trên mạng của bạn nhận được e-mail từ ngân hàng nói rằng đã có sự cố\nbảo mật tại ngân hàng. Email tiếp tục bằng cách yêu cầu người dùng đăng nhập vào tài\nkhoản ngân hàng của mình bằng cách theo liên kết được cung cấp và xác minh rằng tài\nkhoản của cô ấy không bị giả mạo. Đây là loại tắn công nào?",
+    "after": "Một người dùng trên mạng của bạn nhận được e-mail từ ngân hàng nói rằng đã có sự cố bảo mật tại ngân hàng. Email tiếp tục bằng cách yêu cầu người dùng đăng nhập vào tài khoản ngân hàng của mình bằng cách theo liên kết được cung cấp và xác minh rằng tài khoản của cô ấy không bị giả mạo. Đây là loại tắn công nào?"
+  },
+  {
+    "id": 720,
+    "field": "option B",
+    "before": "Spam\n| €. Dietionary attack",
+    "after": "Spam | €. Dietionary attack"
+  },
+  {
+    "id": 723,
+    "field": "question",
+    "before": "Trong mã hóa dữ liệu sử dụng mật mã khóa công khai, phát biểu nào sau đây là ĐÚNG:\n(chon 2 đáp án) :",
+    "after": "Trong mã hóa dữ liệu sử dụng mật mã khóa công khai, phát biểu nào sau đây là ĐÚNG: (chon 2 đáp án):"
+  },
+  {
+    "id": 725,
+    "field": "option E",
+    "before": "Ransomware -",
+    "after": "Ransomware"
+  },
+  {
+    "id": 726,
+    "field": "question",
+    "before": "Bạn lưu trữ tài liệu cá nhân và bảng tính trên một dịch vụ lưu trữ đám mây. Bạn muôn đữ\nliệu của mình chỉ khả dụng cho những người có khóa được chia sẻ đặc biệt. Bạn nên áp\ndụng điều gì cho các tài liệu và bảng tính cũa bạn?",
+    "after": "Bạn lưu trữ tài liệu cá nhân và bảng tính trên một dịch vụ lưu trữ đám mây. Bạn muôn dữ liệu của mình chỉ khả dụng cho những người có khóa được chia sẻ đặc biệt. Bạn nên áp dụng điều gì cho các tài liệu và bảng tính của bạn?"
+  },
+  {
+    "id": 726,
+    "field": "option B",
+    "before": "Băm tập tin :",
+    "after": "Băm tập tin:"
+  },
+  {
+    "id": 727,
+    "field": "question",
+    "before": "Một công ty cung cẤp hải sản muốn bảo vệ hệ thống thông tin của mình để các cách thức\nchế biến và đóng gói không bị tiết lộ với các đối thủ cạnh tranh. Khía cạnh nào của an toàn\nthông tin đang được xem xét?",
+    "after": "Một công ty cung cấp hải sản muốn bảo vệ hệ thống thông tin của mình để các cách thức chế biến và đóng gói không bị tiết lộ với các đối thủ cạnh tranh. Khía cạnh nào của an toàn thông tin đang được xem xét?"
+  },
+  {
+    "id": 727,
+    "field": "option B",
+    "before": "Tính bí mật :",
+    "after": "Tính bí mật:"
+  },
+  {
+    "id": 728,
+    "field": "option A",
+    "before": "An toàn thông tin là bảo vệ thông tin và hệ thống thông tin trước tần công của tỉn tặc, bao\ngồm cả những nhóm tỉn tặc được hậu thuẫn bởi các chính phủ.",
+    "after": "An toàn thông tin là bảo vệ thông tin và hệ thống thông tin trước tần công của tỉn tặc, bao gồm cả những nhóm tỉn tặc được hậu thuẫn bởi các chính phủ."
+  },
+  {
+    "id": 728,
+    "field": "option B",
+    "before": "An toàn thông tin bao gồm việc đảm bảo hoạt động ổn định của hệ thống thông tin trước khả\nnăng xảy ra sự cô vật lý.",
+    "after": "An toàn thông tin bao gồm việc đảm bảo hoạt động ổn định của hệ thống thông tin trước khả năng xảy ra sự cô vật lý."
+  },
+  {
+    "id": 728,
+    "field": "option C",
+    "before": "Một trong những nhiệm vụ của an toàn thông tỉn là ngăn chặn sự phát tán tin giả trên mạng,\nđể không gây tác động tiêu cực lên nhận thức của cộng đồng.",
+    "after": "Một trong những nhiệm vụ của an toàn thông tỉn là ngăn chặn sự phát tán tin giả trên mạng, để không gây tác động tiêu cực lên nhận thức của cộng đồng."
+  },
+  {
+    "id": 729,
+    "field": "question",
+    "before": "Mô hình bảo mật nào sử dụng phân loại dữ liệu và phân quyền người dùng dựa trên phân\nloại dữ liệu",
+    "after": "Mô hình bảo mật nào sử dụng phân loại dữ liệu và phân quyền người dùng dựa trên phân loại dữ liệu"
+  },
+  {
+    "id": 729,
+    "field": "option A",
+    "before": "RBAC :",
+    "after": "RBAC:"
+  },
+  {
+    "id": 730,
+    "field": "question",
+    "before": "Biện pháp đối phó nào sau đây được thiết kế để bão vệ chống lại cuộc tắn công vét cạn vào ẹ\nmật khẩu? h",
+    "after": "Biện pháp đối phó nào sau đây được thiết kế để bão vệ chống lại cuộc tắn công vét cạn vào ẹ mật khẩu? h"
+  },
+  {
+    "id": 730,
+    "field": "option D",
+    "before": "Sử dụng mật khẩu mạnh h -",
+    "after": "Sử dụng mật khẩu mạnh h"
+  },
+  {
+    "id": 733,
+    "field": "question",
+    "before": "Công ty bạn triển khai hạ tầng PKI, bạn cần mã hóa một thư điện tử và gũi nó cho đồng\nnghiệp là An. Bạn cẦn có khóa nào sau đây để thực hiện được điều này:",
+    "after": "Công ty bạn triển khai hạ tầng PKI, bạn cần mã hóa một thư điện tử và gửi nó cho đồng nghiệp là An. Bạn cần có khóa nào sau đây để thực hiện được điều này:"
+  },
+  {
+    "id": 734,
+    "field": "question",
+    "before": "Chức ng ng\nthay đổi các cài đặt cña Vina (UAO trong Windows 8 cho phép người dùng có thể\nnhận lại ự thay đã nợ, Minh hưng trước khi thay đổi sẽ hiễn thị lời nhắc để xác",
+    "after": "Chức ng ng thay đổi các cài đặt của Vina (UAO trong Windows 8 cho phép người dùng có thể nhận lại ự thay đã nợ, Minh hưng trước khi thay đổi sẽ hiễn thị lời nhắc để xác"
+  },
+  {
+    "id": 735,
+    "field": "question",
+    "before": "Khi truy cập vào các tài liệu trong một thư mục trên máy tính của bạn, bạn nhận thấy tất\nSà các tập đã bị đôi tên thành các tên tệp ngẫu nhiên. Ngoài ra, bạn thấy một tài liệu chứa\nSắc hướng dẫn thanh toán để giải mã các tệp tin. Trong trường hợp này bạn đã nhiễm mã\nđộc nào? N",
+    "after": "Khi truy cập vào các tài liệu trong một thư mục trên máy tính của bạn, bạn nhận thấy tất Sà các tập đã bị đôi tên thành các tên tệp ngẫu nhiên. Ngoài ra, bạn thấy một tài liệu chứa Sắc hướng dẫn thanh toán để giải mã các tệp tin. Trong trường hợp này bạn đã nhiễm mã độc nào? N"
+  },
+  {
+    "id": 737,
+    "field": "question",
+    "before": "Kỹ thuật nào được sử dụng để xác định khi nào tài khoăn của người dùng bị sửa đổi thông\ntin",
+    "after": "Kỹ thuật nào được sử dụng để xác định khi nào tài khoản của người dùng bị sửa đổi thông tin"
+  },
+  {
+    "id": 738,
+    "field": "option A",
+    "before": "54\n8.45",
+    "after": "54 8.45"
+  },
+  {
+    "id": 739,
+    "field": "question",
+    "before": "Một mạng máy tính có 250 máy. Bạn cần sử dụng công cụ gì để đánh giá độ an toàn cũa\ncác máy?",
+    "after": "Một mạng máy tính có 250 máy. Bạn cần sử dụng công cụ gì để đánh giá độ an toàn của các máy?"
+  },
+  {
+    "id": 739,
+    "field": "option B",
+    "before": "Công cụ quét công mạng\n: C. Công cụ quét lỗ hông.",
+    "after": "Công cụ quét công mạng: C. Công cụ quét lỗ hông."
+  },
+  {
+    "id": 739,
+    "field": "option D",
+    "before": "Công cụ bẻ mật khẩu - , › :",
+    "after": "Công cụ bẻ mật khẩu -, ›:"
+  },
+  {
+    "id": 740,
+    "field": "question",
+    "before": "Một đoạn mã độc sử dụng các cuộc tấn công từ điển vào máy tính để có quyền truy cập\nvào tài khoản quản trị. Đoạn mã này sau đó liên kết các máy tính bị xâm nhập với nhau\nnhằm mục đích nhận các lệnh từ xa. Thuật ngữ nào mô tả ĐỨNG NHÁT loại mã độc này?",
+    "after": "Một đoạn mã độc sử dụng các cuộc tấn công từ điển vào máy tính để có quyền truy cập vào tài khoản quản trị. Đoạn mã này sau đó liên kết các máy tính bị xâm nhập với nhau nhằm mục đích nhận các lệnh từ xa. Thuật ngữ nào mô tả ĐỨNG NHÁT loại mã độc này?"
+  },
+  {
+    "id": 745,
+    "field": "option D",
+    "before": "(2, (Kinh doanh, Lập trình viên)) < (3, Kinh doanh)\n(Đề thi gồm 06 trang 44)\n(Sinh viên không được sử dụng tài liệu)",
+    "after": "(2, (Kinh doanh, Lập trình viên)) < (3, Kinh doanh) (Đề thi gồm 06 trang 44) (Sinh viên không được sử dụng tài liệu)"
+  },
+  {
+    "id": 746,
+    "field": "question",
+    "before": "Công ty bạn triển khai hạ tầng PKI, bạn cẦn mã hóa một thư điện tử và gửi nó cho đồng\nnghiệp là An. Bạn cần có khóa nào sau đây để thực hiện được điều này:",
+    "after": "Công ty bạn triển khai hạ tầng PKI, bạn cần mã hóa một thư điện tử và gửi nó cho đồng nghiệp là An. Bạn cần có khóa nào sau đây để thực hiện được điều này:"
+  },
+  {
+    "id": 748,
+    "field": "question",
+    "before": "Để dễ dàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn quyết định phải có\nmột cách dễ dàng hơn là cấp cho người dùng quyền truy cập cá nhân vào tệp, máy in, máy\ntính và ứng dụng. Mô hình bão mật nào bạn nên xem xét sử dụng?",
+    "after": "Để dễ dàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn quyết định phải có một cách dễ dàng hơn là cấp cho người dùng quyền truy cập cá nhân vào tệp, máy in, máy tính và ứng dụng. Mô hình bảo mật nào bạn nên xem xét sử dụng?"
+  },
+  {
+    "id": 749,
+    "field": "question",
+    "before": "Công việc nào sau đây cho phép xác định các tài nguyên, nguy cơ và rủi ro cũng như cách\nthức khắc phục và giảm thiểu ảnh hưởng của các nguy cơ đến hệ thống thông tin",
+    "after": "Công việc nào sau đây cho phép xác định các tài nguyên, nguy cơ và rủi ro cũng như cách thức khắc phục và giảm thiểu ảnh hưởng của các nguy cơ đến hệ thống thông tin"
+  },
+  {
+    "id": 750,
+    "field": "question",
+    "before": "Mô hình bảo mật nào sử dụng phân loại dữ liệu và phân quyền người dùng dựa trên phân\nloại dữ liệu",
+    "after": "Mô hình bảo mật nào sử dụng phân loại dữ liệu và phân quyền người dùng dựa trên phân loại dữ liệu"
+  },
+  {
+    "id": 751,
+    "field": "question",
+    "before": "Đâu là kiểu kiểm thử được sử dụng khi người kiểm thử được cung cẤp các thông tin cấu\nhình của hệ thống?",
+    "after": "Đâu là kiểu kiểm thử được sử dụng khi người kiểm thử được cung cấp các thông tin cấu hình của hệ thống?"
+  },
+  {
+    "id": 752,
+    "field": "question",
+    "before": "Cường sử dụng phương pháp mã hóa để mã hóa file, phương pháp mã hóa nào thường,\nđược sử dụng:",
+    "after": "Cường sử dụng phương pháp mã hóa để mã hóa file, phương pháp mã hóa nào thường, được sử dụng:"
+  },
+  {
+    "id": 755,
+    "field": "option A",
+    "before": "Đảm bảo tính xác thực\n| B. Đảm bảo tính bí mật",
+    "after": "Đảm bảo tính xác thực | B. Đảm bảo tính bí mật"
+  },
+  {
+    "id": 756,
+    "field": "option A",
+    "before": "An toàn thông tỉn là bảo vệ thông tin và hệ thống thông tin trước tắn công của tin tặc, bao gồm\ncả những nhóm tin tặc được hậu thuẫn bởi các chính phủ.",
+    "after": "An toàn thông tỉn là bảo vệ thông tin và hệ thống thông tin trước tắn công của tin tặc, bao gồm cả những nhóm tin tặc được hậu thuẫn bởi các chính phủ."
+  },
+  {
+    "id": 756,
+    "field": "option B",
+    "before": "An toàn thông tin bao gồm việc đảm bảo hoạt động Ổn định của hệ thống thông tin trước khả\nnăng xảy ra sự có vật lý.",
+    "after": "An toàn thông tin bao gồm việc đảm bảo hoạt động Ổn định của hệ thống thông tin trước khả năng xảy ra sự có vật lý."
+  },
+  {
+    "id": 756,
+    "field": "option C",
+    "before": "Một trong những nhiệm vụ của an toàn thông tỉn là ngăn chặn sự phát tán tin giả trên mạng để\nkhông gây tác động tiêu cực lên nhận thức của cộng đồng.",
+    "after": "Một trong những nhiệm vụ của an toàn thông tỉn là ngăn chặn sự phát tán tin giả trên mạng để không gây tác động tiêu cực lên nhận thức của cộng đồng."
+  },
+  {
+    "id": 758,
+    "field": "question",
+    "before": "Trong mã hóa dữ liệu sử dụng mật mã khóa công khai, phát biểu nào sau đây là ĐÚNG:\n(chọn 2 đáp án)",
+    "after": "Trong mã hóa dữ liệu sử dụng mật mã khóa công khai, phát biểu nào sau đây là ĐÚNG: (chọn 2 đáp án)"
+  },
+  {
+    "id": 762,
+    "field": "question",
+    "before": "Để cấu hình luật cho NIPS nhằm xác định và ngăn chặn tấn công direetory traversal trên\nmáy chủ web thì kiểu luật nào sau đây được sử dụng:",
+    "after": "Để cấu hình luật cho NIPS nhằm xác định và ngăn chặn tấn công directory traversal trên máy chủ web thì kiểu luật nào sau đây được sử dụng:"
+  },
+  {
+    "id": 762,
+    "field": "option D",
+    "before": "Web-based : 2 Â có Ạ ân sà",
+    "after": "Web-based: 2 Â có Ạ ân sà"
+  },
+  {
+    "id": 763,
+    "field": "question",
+    "before": "Một đoạn mã độc sử dụng các cuộc tấn công từ điển vào máy tính để có quyền truy cập vào\ntài khoản quần trị. Đoạn mã này sau đó liên kết các máy tính bị xâm nhập với nhau nhăm\nmục đích nhận các lệnh từ xa. Thuật ngữ nào mô tả ĐỨNG NHẤT loại mã độc này?",
+    "after": "Một đoạn mã độc sử dụng các cuộc tấn công từ điển vào máy tính để có quyền truy cập vào tài khoản quần trị. Đoạn mã này sau đó liên kết các máy tính bị xâm nhập với nhau nhăm mục đích nhận các lệnh từ xa. Thuật ngữ nào mô tả ĐỨNG NHẤT loại mã độc này?"
+  },
+  {
+    "id": 763,
+    "field": "option D",
+    "before": "Backdoor\nz",
+    "after": "Backdoor z"
+  },
+  {
+    "id": 764,
+    "field": "question",
+    "before": "1, SĨ shần s3,\nÁ- And sgan, nào giúp lọc bỏ các email rác không mong muốn?",
+    "after": "1, SĨ shần s3, Á- And sgan, nào giúp lọc bỏ các email rác không mong muốn?"
+  },
+  {
+    "id": 766,
+    "field": "question",
+    "before": "Bạn lưu trữ tài liệu cá nhân và bảng tính trên một dịch vụ lưu trữ đám mây. Bạn muốn dữ\nliệu của mình chỉ khả dụng cho những người có khóa được chia sẽ đặc biệt. Bạn nên áp\ndụng điều gì cho các tài liệu và bằng tính của bạn?",
+    "after": "Bạn lưu trữ tài liệu cá nhân và bảng tính trên một dịch vụ lưu trữ đám mây. Bạn muốn dữ liệu của mình chỉ khả dụng cho những người có khóa được chia sẽ đặc biệt. Bạn nên áp dụng điều gì cho các tài liệu và bằng tính của bạn?"
+  },
+  {
+    "id": 768,
+    "field": "question",
+    "before": "Công ty muốn sử dụng một máy chủ FTP và muốn đảm bảo an toàn cho các luồng dữ liệu\nTP sử dụng SSL. Lựa chọn nào sau đây nên được sử dụng:",
+    "after": "Công ty muốn sử dụng một máy chủ FTP và muốn đảm bảo an toàn cho các luồng dữ liệu TP sử dụng SSL. Lựa chọn nào sau đây nên được sử dụng:"
+  },
+  {
+    "id": 769,
+    "field": "option A",
+    "before": "Một tổ chức chỉ có thể được chứng nhận đạt chuẩn 1SO 27001 khi đáp ứng tất cả các yêu cầu\ncủa ISO 27001 '",
+    "after": "Một tổ chức chỉ có thể được chứng nhận đạt chuẩn 1SO 27001 khi đáp ứng tất cả các yêu cầu của ISO 27001 '"
+  },
+  {
+    "id": 769,
+    "field": "option B",
+    "before": "Một tổ chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là hệ thống thông tin của tổ chức.\nđó được đảm bảo an toàn, : : h; vày",
+    "after": "Một tổ chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là hệ thống thông tin của tổ chức. đó được đảm bảo an toàn,:: h; vày"
+  },
+  {
+    "id": 769,
+    "field": "option C",
+    "before": "Một tổ chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là tổ chức đó đã triển khai việc\nbảo vệ thông tin một cách đúng đắn.",
+    "after": "Một tổ chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là tổ chức đó đã triển khai việc bảo vệ thông tin một cách đúng đắn."
+  },
+  {
+    "id": 771,
+    "field": "option D",
+    "before": "RuBAC sẽ : Nhất bà",
+    "after": "RuBAC sẽ: Nhất bà"
+  },
+  {
+    "id": 772,
+    "field": "question",
+    "before": "Khi truy cập vào các tài liệu trong một thư mục trên máy tính cũa bạn, bạn nhận (hấy tật\ncả các tệp đã bị đôi tên thành các tên tệp ngẫu. nhiên. Ngoài ra, bạn thấy một tài liệu chứa\ncáo hướng dẫn thanh toán để giải mã các tệp tin. Trong trường hợp này bạn đã nhiễm mã\nlộc nào?",
+    "after": "Khi truy cập vào các tài liệu trong một thư mục trên máy tính của bạn, bạn nhận (hấy tật cả các tệp đã bị đôi tên thành các tên tệp ngẫu. nhiên. Ngoài ra, bạn thấy một tài liệu chứa cáo hướng dẫn thanh toán để giải mã các tệp tin. Trong trường hợp này bạn đã nhiễm mã lộc nào?"
+  },
+  {
+    "id": 775,
+    "field": "question",
+    "before": "Được phát hiện vào năm 1991, virus Michelangelo được cho là đã được kích hoạt để ghỉ đè\nlên 100 sector đĩa cứng đầu tiên với dữ liệu null mỗi năm vào ngày 6 tháng 3, đúng vào ngày\nsinh nhật của nghệ sĩ người Ý. Michelangelo thuộc loại virus nào?",
+    "after": "Được phát hiện vào năm 1991, virus Michelangelo được cho là đã được kích hoạt để ghỉ đè lên 100 sector đĩa cứng đầu tiên với dữ liệu null mỗi năm vào ngày 6 tháng 3, đúng vào ngày sinh nhật của nghệ sĩ người Ý. Michelangelo thuộc loại virus nào?"
+  },
+  {
+    "id": 777,
+    "field": "option A",
+    "before": "Là một chương trình được thiết kế đẻ tắn công hệ thống máy tính trong khi vẫn thực hiện các Ñ\nhành động có vẻ không gây hại §",
+    "after": "Là một chương trình được thiết kế đẻ tắn công hệ thống máy tính trong khi vẫn thực hiện các Ñ hành động có vẻ không gây hại §"
+  },
+  {
+    "id": 778,
+    "field": "option E",
+    "before": "Ứng dụng đọc file PDF -",
+    "after": "Ứng dụng đọc file PDF"
+  },
+  {
+    "id": 779,
+    "field": "question",
+    "before": "Kỹ thuật nào được sử dụng để xác định khi nào tài khoản của người dùng bị sửa đôi thông\ntin",
+    "after": "Kỹ thuật nào được sử dụng để xác định khi nào tài khoản của người dùng bị sửa đôi thông tin"
+  },
+  {
+    "id": 779,
+    "field": "option C",
+    "before": "Kiểm toán tài khoản -",
+    "after": "Kiểm toán tài khoản"
+  },
+  {
+    "id": 781,
+    "field": "question",
+    "before": "Khi thiết lập luật ACL cho bộ định tuyến, cẦn tuân thủ hướng dẫn chung nào?",
+    "after": "Khi thiết lập luật ACL cho bộ định tuyến, cần tuân thủ hướng dẫn chung nào?"
+  },
+  {
+    "id": 782,
+    "field": "question",
+    "before": "Cổng nào sau đây cần được mở trong tường lửa để cho phép người dùng truy cập vào\nwebsite có sử dụng SSL",
+    "after": "Cổng nào sau đây cần được mở trong tường lửa để cho phép người dùng truy cập vào website có sử dụng SSL"
+  },
+  {
+    "id": 785,
+    "field": "option E",
+    "before": "50 -",
+    "after": "50"
+  },
+  {
+    "id": 786,
+    "field": "option E",
+    "before": "Kiểm soát truy cập dựa trên chính sách (PBAC) : :",
+    "after": "Kiểm soát truy cập dựa trên chính sách (PBAC)::"
+  },
+  {
+    "id": 787,
+    "field": "question",
+    "before": "Biện pháp đối phó nào sau đây được thiết kế để bảo vệ chống lại cuộc tấn công vét cạn vào\nmật khẩu?",
+    "after": "Biện pháp đối phó nào sau đây được thiết kế để bảo vệ chống lại cuộc tấn công vét cạn vào mật khẩu?"
+  },
+  {
+    "id": 787,
+    "field": "option D",
+    "before": "Sử dụng mật khẩu mạnh ' .",
+    "after": "Sử dụng mật khẩu mạnh '."
+  },
+  {
+    "id": 788,
+    "field": "question",
+    "before": "Một người dùng trên mạng của bạn nhận được e-mail từ ngân hàng nói rằng đã có sự cô\nbảo mật tại ngân hàng. Email tiếp tục bằng cách yêu cầu người dùng đăng nhập vào tài\nkhoản ngân hàng của mình bằng cách theo liên kết được cung cấp và xác minh rằng tài\nkhoản của cô ấy không bị giả mạo. Đây là loại tấn công nào?",
+    "after": "Một người dùng trên mạng của bạn nhận được e-mail từ ngân hàng nói rằng đã có sự cô bảo mật tại ngân hàng. Email tiếp tục bằng cách yêu cầu người dùng đăng nhập vào tài khoản ngân hàng của mình bằng cách theo liên kết được cung cấp và xác minh rằng tài khoản của cô ấy không bị giả mạo. Đây là loại tấn công nào?"
+  },
+  {
+    "id": 789,
+    "field": "question",
+    "before": "Một công ty cung cấp hãi sản muốn bão vệ hệ thống thông tin của mình để các cách thức\nchế biển và đóng gói không bị tiết lộ với các đối thũ cạnh tranh. Khía cạnh nào của an toàn\nthông tin đang được xem xét?",
+    "after": "Một công ty cung cấp hãi sản muốn bão vệ hệ thống thông tin của mình để các cách thức chế biển và đóng gói không bị tiết lộ với các đối thũ cạnh tranh. Khía cạnh nào của an toàn thông tin đang được xem xét?"
+  },
+  {
+    "id": 790,
+    "field": "question",
+    "before": "Một mạng máy tính có 250 máy. Bạn cẦn sử dụng công cụ gì để đánh giá độ an toàn cũa các\nmáy?",
+    "after": "Một mạng máy tính có 250 máy. Bạn cần sử dụng công cụ gì để đánh giá độ an toàn của các máy?"
+  },
+  {
+    "id": 791,
+    "field": "question",
+    "before": "Một hacker ngồi trong quán cà phê có điểm truy cập Internet và tiến hành thực hiện ARP\npoisoning mọi người kết nối với mạng không dây để tắt cã lưu lượng truy cập qua máy tính\nxách tay hacker trước khi cô định tuyến lưu lượng truy cập vào Internet. Đây là loại tấn\ncông nào?",
+    "after": "Một hacker ngồi trong quán cà phê có điểm truy cập Internet và tiến hành thực hiện ARP poisoning mọi người kết nối với mạng không dây để tắt cã lưu lượng truy cập qua máy tính xách tay hacker trước khi cô định tuyến lưu lượng truy cập vào Internet. Đây là loại tấn công nào?"
+  },
+  {
+    "id": 791,
+    "field": "option D",
+    "before": "Spoofng\n(Đề thi gồm 06 trang 44)\n(Sinh viên không được sử dụng tài liệu)",
+    "after": "Spoofng (Đề thi gồm 06 trang 44) (Sinh viên không được sử dụng tài liệu)"
+  },
+  {
+    "id": 792,
+    "field": "question",
+    "before": "Cường sử dụng phương pháp mã hóa để mã hóa file, phương pháp mã hóa nào thường\nđược sử dụng:",
+    "after": "Cường sử dụng phương pháp mã hóa để mã hóa file, phương pháp mã hóa nào thường được sử dụng:"
+  },
+  {
+    "id": 794,
+    "field": "question",
+    "before": "Một người dùng trên mạng của bạn nhận được e-mail từ ngân hàng nói rằng đã có sự cố\nbảo mật tại ngân hàng. Email tiếp tục bằng cách yêu cầu người dùng đăng nhập vào tài\nkhoản ngân hàng của mình bằng cách theo liên kết được cung cấp và xác minh rằng tài\nkhoản của cô Ấy không bị giả mạo. Đây là loại tấn công nào?",
+    "after": "Một người dùng trên mạng của bạn nhận được e-mail từ ngân hàng nói rằng đã có sự cố bảo mật tại ngân hàng. Email tiếp tục bằng cách yêu cầu người dùng đăng nhập vào tài khoản ngân hàng của mình bằng cách theo liên kết được cung cấp và xác minh rằng tài khoản của cô ấy không bị giả mạo. Đây là loại tấn công nào?"
+  },
+  {
+    "id": 796,
+    "field": "option A",
+    "before": "Một tổ chức chỉ có thể được chứng nhận đạt chuẩn ISO 27001 khi đáp ứng tắt cả các yêu cầu\ncủa ISO 27001 \\ -",
+    "after": "Một tổ chức chỉ có thể được chứng nhận đạt chuẩn ISO 27001 khi đáp ứng tắt cả các yêu cầu của ISO 27001 \\"
+  },
+  {
+    "id": 796,
+    "field": "option B",
+    "before": "Một tổ chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là hệ thống thông tin của tổ\nchức đó được đảm bảo an toàn. h .",
+    "after": "Một tổ chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là hệ thống thông tin của tổ chức đó được đảm bảo an toàn. h."
+  },
+  {
+    "id": 796,
+    "field": "option C",
+    "before": "Một tổ chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là tổ chức đó đã triển khai việc\nbảo vệ thông tin một cách đúng đắn. l",
+    "after": "Một tổ chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là tổ chức đó đã triển khai việc bảo vệ thông tin một cách đúng đắn. l"
+  },
+  {
+    "id": 797,
+    "field": "question",
+    "before": "Trong mã hóa dữ liệu sử dụng mật mã khóa công khai, phát biểu nào sau đây là ĐÚNG:\n(chọn 2 đáp án) :",
+    "after": "Trong mã hóa dữ liệu sử dụng mật mã khóa công khai, phát biểu nào sau đây là ĐÚNG: (chọn 2 đáp án):"
+  },
+  {
+    "id": 798,
+    "field": "option C",
+    "before": "Định danh — Xác thực — Cấp quyền\n1",
+    "after": "Định danh — Xác thực — Cấp quyền 1"
+  },
+  {
+    "id": 800,
+    "field": "question",
+    "before": "Một hacker ngồi trong quán cà phê có điểm truy cập Internet và tiến hành thực hiện ARP\npoisoning mọi người kết nối với mạng không dây để tắt cä lưu lượng truy cập qua máy\ntính xách tay hacker trước khi cô định tuyến lưu lượng truy cập vào Internet. Đây là loại\ntân công nào?",
+    "after": "Một hacker ngồi trong quán cà phê có điểm truy cập Internet và tiến hành thực hiện ARP poisoning mọi người kết nối với mạng không dây để tắt cä lưu lượng truy cập qua máy tính xách tay hacker trước khi cô định tuyến lưu lượng truy cập vào Internet. Đây là loại tân công nào?"
+  },
+  {
+    "id": 803,
+    "field": "question",
+    "before": "Dữ liệu có thể bị rò rì qua con đường nào dưới đây? (chọn 3 đáp án) :",
+    "after": "Dữ liệu có thể bị rò rì qua con đường nào dưới đây? (chọn 3 đáp án):"
+  },
+  {
+    "id": 803,
+    "field": "option C",
+    "before": "Email h . bộ",
+    "after": "Email h. bộ"
+  },
+  {
+    "id": 805,
+    "field": "question",
+    "before": "Biện pháp đối phó nào sau đây được thiết kế để bảo vệ chống lại cuộc tấn công vét cạn vào\nmật khẩu?",
+    "after": "Biện pháp đối phó nào sau đây được thiết kế để bảo vệ chống lại cuộc tấn công vét cạn vào mật khẩu?"
+  },
+  {
+    "id": 805,
+    "field": "option B",
+    "before": "Tạm khóa, khóa tài khoản .",
+    "after": "Tạm khóa, khóa tài khoản."
+  },
+  {
+    "id": 806,
+    "field": "option D",
+    "before": "Kháng tiền ảnh thứ 2 3 .",
+    "after": "Kháng tiền ảnh thứ 2 3."
+  },
+  {
+    "id": 808,
+    "field": "question",
+    "before": "Công vi nào vuna,\nthúc khắc phục và gây cho phép Xác định eáe tài nguyên, nguy cơ và rủi ro cũng như cách",
+    "after": "Công vi nào vuna, thúc khắc phục và gây cho phép Xác định eáe tài nguyên, nguy cơ và rủi ro cũng như cách"
+  },
+  {
+    "id": 808,
+    "field": "option A",
+    "before": "Phân tích rài sợ Ảnh hưởng cũa các nguy cơ đến hệ thống thông tín",
+    "after": "Phân tích rài sợ Ảnh hưởng của các nguy cơ đến hệ thống thông tín"
+  },
+  {
+    "id": 809,
+    "field": "question",
+    "before": "D- Lập bản đồ mạng\nâu 20 Kông nghệ nÀo sau đây đảm bảo tính toàn vẹn cho đữ liệu?",
+    "after": "D- Lập bản đồ mạng âu 20 Kông nghệ nÀo sau đây đảm bảo tính toàn vẹn cho dữ liệu?"
+  },
+  {
+    "id": 810,
+    "field": "question",
+    "before": "Phát biểu nào sau đây đúng với khóa riêng cũa người dùng (chọn 2 đáp án):",
+    "after": "Phát biểu nào sau đây đúng với khóa riêng của người dùng (chọn 2 đáp án):"
+  },
+  {
+    "id": 811,
+    "field": "question",
+    "before": "Một đoạn mã độc sử dụng các cuộc tấn công từ điển vào máy tính để có quyền truy cập\nvào tài khoản quần trị. Đoạn mã này sau đó liên kết các máy tính bị xâm nhập với nhau\nnhằm mục đích nhận các lệnh từ xa. Thuật ngữ nào mô tả ĐỨNG NHẤT loại mã độc này?",
+    "after": "Một đoạn mã độc sử dụng các cuộc tấn công từ điển vào máy tính để có quyền truy cập vào tài khoản quần trị. Đoạn mã này sau đó liên kết các máy tính bị xâm nhập với nhau nhằm mục đích nhận các lệnh từ xa. Thuật ngữ nào mô tả ĐỨNG NHẤT loại mã độc này?"
+  },
+  {
+    "id": 813,
+    "field": "question",
+    "before": "Để cấu hình luật cho NIPS nhằm xác định và ngăn chặn tấn công directory traversal trên\nmáy chủ web thì kiểu luật nào sau đây được sử dụng:",
+    "after": "Để cấu hình luật cho NIPS nhằm xác định và ngăn chặn tấn công directory traversal trên máy chủ web thì kiểu luật nào sau đây được sử dụng:"
+  },
+  {
+    "id": 814,
+    "field": "question",
+    "before": "Được phát hiện vào năm 1991, virus Michelangelo được cho là đã được kích hoạt đê ghỉ đè\nlên 100 seetor đĩa cứng đầu tiên với dữ liệu null mỗi năm vào ngày 6 tháng 3, đúng vào\nngày sinh nhật của nghệ sĩ người Ý. Michelangelo thuộc loại virus nào?",
+    "after": "Được phát hiện vào năm 1991, virus Michelangelo được cho là đã được kích hoạt đê ghỉ đè lên 100 seetor đĩa cứng đầu tiên với dữ liệu null mỗi năm vào ngày 6 tháng 3, đúng vào ngày sinh nhật của nghệ sĩ người Ý. Michelangelo thuộc loại virus nào?"
+  },
+  {
+    "id": 814,
+    "field": "option D",
+    "before": "Logic bomb. .",
+    "after": "Logic bomb.."
+  },
+  {
+    "id": 815,
+    "field": "question",
+    "before": "Kỹ thuật nào được sử dụng để xác định khi nào tài khoản của người dùng bị sửa đôi thông\ntia",
+    "after": "Kỹ thuật nào được sử dụng để xác định khi nào tài khoản của người dùng bị sửa đôi thông tia"
+  },
+  {
+    "id": 815,
+    "field": "option D",
+    "before": "Cài đặt tường lửa cá nhân trên máy trạm của từng người dù va _ _ .",
+    "after": "Cài đặt tường lửa cá nhân trên máy trạm của từng người dù va _ _."
+  },
+  {
+    "id": 816,
+    "field": "question",
+    "before": "Đểdễdàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn mày in,\ncó một cách dễ dàng hơn là cắp cho người dùng quyền truy cập cá nhận Tu,\nmáy tính và ứng dụng. Mô hình bảo mật nào bạn nên xem xét sử dụng?",
+    "after": "Đểdễdàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn mày in, có một cách dễ dàng hơn là cắp cho người dùng quyền truy cập cá nhận Tu, máy tính và ứng dụng. Mô hình bảo mật nào bạn nên xem xét sử dụng?"
+  },
+  {
+    "id": 820,
+    "field": "question",
+    "before": "Một mạng máy tính có 250 máy. Bạn cần sử dụng công cụ gì để đánh giá độ an toàn của\ncác máy?",
+    "after": "Một mạng máy tính có 250 máy. Bạn cần sử dụng công cụ gì để đánh giá độ an toàn của các máy?"
+  },
+  {
+    "id": 821,
+    "field": "question",
+    "before": "Cổng nào sau đây cẦn được mở trong tường lửa để cho phép người dùng truy cập vào\nwebsite có sử dụng SSL",
+    "after": "Cổng nào sau đây cần được mở trong tường lửa để cho phép người dùng truy cập vào website có sử dụng SSL"
+  },
+  {
+    "id": 822,
+    "field": "question",
+    "before": "Bạn lưu trữ tài liệu cá nhân và bảng tính trên một dịch vụ lưu trữ đám mây. Bạn muôn dữ\nliệu của mình chỉ khả dụng cho những người có khóa được chia sẻ đặc biệt. Bạn nên áp\ndụng điều gì cho các tài liệu và bảng tính của bạn?",
+    "after": "Bạn lưu trữ tài liệu cá nhân và bảng tính trên một dịch vụ lưu trữ đám mây. Bạn muôn dữ liệu của mình chỉ khả dụng cho những người có khóa được chia sẻ đặc biệt. Bạn nên áp dụng điều gì cho các tài liệu và bảng tính của bạn?"
+  },
+  {
+    "id": 823,
+    "field": "option D",
+    "before": "Horses % : Xử # rời dùng là",
+    "after": "Horses %: Xử # rời dùng là"
+  },
+  {
+    "id": 825,
+    "field": "question",
+    "before": "Phần mềm nà ¬\nDự>hh S8 đây giúp chống lại việc thu thập thông tin cá nhân của người dùng?",
+    "after": "Phần mềm nà ¬ Dự>hh S8 đây giúp chống lại việc thu thập thông tin cá nhân của người dùng?"
+  },
+  {
+    "id": 828,
+    "field": "question",
+    "before": "Công ty muốn sử dụng một máy chủ FTP và muốn đảm bảo an toàn cho các luồng dữ liệu\nFTP sử dụng SSL. Lựa chọn nào sau đây nên được sử dụng: _.",
+    "after": "Công ty muốn sử dụng một máy chủ FTP và muốn đảm bảo an toàn cho các luồng dữ liệu FTP sử dụng SSL. Lựa chọn nào sau đây nên được sử dụng: _."
+  },
+  {
+    "id": 829,
+    "field": "question",
+    "before": "Bạn theo dõi và kiểm tra lưu lượng mạng hàng tuần để đảm bảo rằng mạng đang được sử\ndụng đúng cách. Khi làm như vậy, bạn nhận thấy lưu lượng truy cập đến công TCP 53\ntrên máy chủ của mình từ một địa chỉ IP không xác định. Sau khi xem lại nhật ký máy chữ\ncủa bạn, bạn nhận thấy nhiều lần thất bại trong việc thực hiện chuyển vùng đến máy chủ\ncủa mình. Đây là đấu hiệu của kiểu tấn công nào?",
+    "after": "Bạn theo dõi và kiểm tra lưu lượng mạng hàng tuần để đảm bảo rằng mạng đang được sử dụng đúng cách. Khi làm như vậy, bạn nhận thấy lưu lượng truy cập đến công TCP 53 trên máy chủ của mình từ một địa chỉ IP không xác định. Sau khi xem lại nhật ký máy chữ của bạn, bạn nhận thấy nhiều lần thất bại trong việc thực hiện chuyển vùng đến máy chủ của mình. Đây là đấu hiệu của kiểu tấn công nào?"
+  },
+  {
+    "id": 830,
+    "field": "question",
+    "before": "Công ty bạn triển khai hạ tầng PKI, bạn cần mã hóa một thư điện tử và gửi nó cho đồng\nnghiệp là An. Bạn cần có khóa nào sau đây để thực hiện được điều này:",
+    "after": "Công ty bạn triển khai hạ tầng PKI, bạn cần mã hóa một thư điện tử và gửi nó cho đồng nghiệp là An. Bạn cần có khóa nào sau đây để thực hiện được điều này:"
+  },
+  {
+    "id": 831,
+    "field": "option D",
+    "before": "Đảm bảo tính chống chối bỏ ;z",
+    "after": "Đảm bảo tính chống chối bỏ;z"
+  },
+  {
+    "id": 832,
+    "field": "question",
+    "before": "Khi truy cập vào các tài liệu trong một thư mục trên máy tính của bạn, bạn nhận thây tất\ncả các tập đã bị đổi tên thành các tên tệp ngẫu nhiên. Ngoài ra, bạn thấy một tài liệu chứa\ncác hướng dẫn thanh toán để giải mã các tệp tin. Trong trường hợp này bạn đã nhiễm mã\nđộc nào?",
+    "after": "Khi truy cập vào các tài liệu trong một thư mục trên máy tính của bạn, bạn nhận thây tất cả các tập đã bị đổi tên thành các tên tệp ngẫu nhiên. Ngoài ra, bạn thấy một tài liệu chứa các hướng dẫn thanh toán để giải mã các tệp tin. Trong trường hợp này bạn đã nhiễm mã độc nào?"
+  },
+  {
+    "id": 833,
+    "field": "question",
+    "before": "Chức năng User Account Control (UAC) trong Windows 8 cho phép người dùng có thể\nthay đôi các cài đặt của Windows nhưng trước khi thay đỗi sẽ hiển thị lời nhắc để xác\nnhận lại sự thay đổi này cho người dùng. Điều này giúp chống lại tắn công nào?",
+    "after": "Chức năng User Account Control (UAC) trong Windows 8 cho phép người dùng có thể thay đôi các cài đặt của Windows nhưng trước khi thay đổi sẽ hiển thị lời nhắc để xác nhận lại sự thay đổi này cho người dùng. Điều này giúp chống lại tắn công nào?"
+  },
+  {
+    "id": 834,
+    "field": "option B",
+    "before": "Kháng tiền ảnh -",
+    "after": "Kháng tiền ảnh"
+  },
+  {
+    "id": 835,
+    "field": "option A",
+    "before": "Là một chương trình được thiết kế để tắn công hệ thống máy tính trong khi vẫn thực hiện các\nhành động có vẻ không gây hại",
+    "after": "Là một chương trình được thiết kế để tắn công hệ thống máy tính trong khi vẫn thực hiện các hành động có vẻ không gây hại"
+  },
+  {
+    "id": 836,
+    "field": "question",
+    "before": "Mô hình bảo mật nào sử dụng phân loại dữ liệu và phân quyền người dùng dựa trên phân\nloại dữ liệu",
+    "after": "Mô hình bảo mật nào sử dụng phân loại dữ liệu và phân quyền người dùng dựa trên phân loại dữ liệu"
+  },
+  {
+    "id": 837,
+    "field": "option D",
+    "before": "Các tệp tin nhật ký sẽ không bị phân tích\n(Đề thi gồm 06 trang A4)\n(Sinh viên không được sử dụng tài liệu)",
+    "after": "Các tệp tin nhật ký sẽ không bị phân tích (Đề thi gồm 06 trang A4) (Sinh viên không được sử dụng tài liệu)"
+  },
+  {
+    "id": 839,
+    "field": "question",
+    "before": "Chức năng User Aecount Control (UAC) trong Windows 8 cho phép người dùng có thể\nthay đổi các cài đặt của Windows nhưng trước khi thay đỗi sẽ hiển thị lời nhắc để xác\nnhận lại sự thay đối này cho người dùng. Điều này giúp chống lại tấn công nào?",
+    "after": "Chức năng User Aecount Control (UAC) trong Windows 8 cho phép người dùng có thể thay đổi các cài đặt của Windows nhưng trước khi thay đổi sẽ hiển thị lời nhắc để xác nhận lại sự thay đối này cho người dùng. Điều này giúp chống lại tấn công nào?"
+  },
+  {
+    "id": 840,
+    "field": "question",
+    "before": "Một người dùng trên mạng của bạn nhận được e-mail từ ngân hàng nói rằng đã có sự cố\nbảo mật tại ngân hàng. Email tiếp tục bằng cách yêu cầu người dùng đăng nhập vào tài\nkhoản ngân hàng của mình bằng cách theo liên kết được cung cấp và xác minh rằng tài\nkhoản của cô ấy không bị giả mạo. Đây là loại tấn công nào?",
+    "after": "Một người dùng trên mạng của bạn nhận được e-mail từ ngân hàng nói rằng đã có sự cố bảo mật tại ngân hàng. Email tiếp tục bằng cách yêu cầu người dùng đăng nhập vào tài khoản ngân hàng của mình bằng cách theo liên kết được cung cấp và xác minh rằng tài khoản của cô ấy không bị giả mạo. Đây là loại tấn công nào?"
+  },
+  {
+    "id": 841,
+    "field": "question",
+    "before": "Biện pháp đối phó nào sau đây được thiết kế để bão vệ chống lại cuộc tấn công vét cạn vào\nmật khẩu?",
+    "after": "Biện pháp đối phó nào sau đây được thiết kế để bão vệ chống lại cuộc tấn công vét cạn vào mật khẩu?"
+  },
+  {
+    "id": 842,
+    "field": "question",
+    "before": "Khi truy cập vào các tài liệu trong một thư mục trên máy tính của bạn, bạn nhận thấy tất\ncả các tệp đã bị đỗi tên thành các tên tệp ngẫu nhiên. Ngoài ra, bạn thấy một tài liệu chứa\ncác hướng dẫn thanh toán để giải mã các tệp tìn. Trong trường hợp này bạn đã nhiễm mã\nđộc nào?",
+    "after": "Khi truy cập vào các tài liệu trong một thư mục trên máy tính của bạn, bạn nhận thấy tất cả các tệp đã bị đỗi tên thành các tên tệp ngẫu nhiên. Ngoài ra, bạn thấy một tài liệu chứa các hướng dẫn thanh toán để giải mã các tệp tìn. Trong trường hợp này bạn đã nhiễm mã độc nào?"
+  },
+  {
+    "id": 844,
+    "field": "question",
+    "before": "Độ an toàn của mật khẫu nào dưới đây là lớn nhất (biết rằng mật khả có thể gồm chữ số,\nchữ cái hoa và thường)",
+    "after": "Độ an toàn của mật khẫu nào dưới đây là lớn nhất (biết rằng mật khả có thể gồm chữ số, chữ cái hoa và thường)"
+  },
+  {
+    "id": 845,
+    "field": "question",
+    "before": "Cường sử dụng phương pháp mã hóa để mã hóa file, phương pháp mã hóa nào thường\nđược sử dụng:",
+    "after": "Cường sử dụng phương pháp mã hóa để mã hóa file, phương pháp mã hóa nào thường được sử dụng:"
+  },
+  {
+    "id": 846,
+    "field": "question",
+    "before": "Những phát biểu nào sau đây là ĐÚNG? (chọn 2 đáp án)\nA- Một tổ chức chỉ có thể được chứng nhận đạt chuẩn ISO 27001 khi đáp ứng tắt cả các yêu cầu\ncủa ISO 27001 Z",
+    "after": "Những phát biểu nào sau đây là ĐÚNG? (chọn 2 đáp án) A- Một tổ chức chỉ có thể được chứng nhận đạt chuẩn ISO 27001 khi đáp ứng tắt cả các yêu cầu của ISO 27001 Z"
+  },
+  {
+    "id": 846,
+    "field": "option B",
+    "before": "Một tô chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là hệ thống thông tin của tổ\nchức đó được đảm bảo an toàn.",
+    "after": "Một tô chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là hệ thống thông tin của tổ chức đó được đảm bảo an toàn."
+  },
+  {
+    "id": 846,
+    "field": "option C",
+    "before": "Một tổ chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là tổ chức đó đã triển khai việc\nbảo vệ thông tin một cách đúng đắn. „",
+    "after": "Một tổ chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là tổ chức đó đã triển khai việc bảo vệ thông tin một cách đúng đắn. „"
+  },
+  {
+    "id": 847,
+    "field": "question",
+    "before": "Bạn lưu trữ tài liệu cá nhân và bằng tính trên một dịch vụ lưu trữ đám mây. Bạn muốn dữ\nliệu của mình chỉ khả dụng cho những người có khóa được chia sẻ đặc biệt. Bạn nên áp\ndụng điều gì cho các tài liệu và bãng tính của bạn?",
+    "after": "Bạn lưu trữ tài liệu cá nhân và bằng tính trên một dịch vụ lưu trữ đám mây. Bạn muốn dữ liệu của mình chỉ khả dụng cho những người có khóa được chia sẻ đặc biệt. Bạn nên áp dụng điều gì cho các tài liệu và bãng tính của bạn?"
+  },
+  {
+    "id": 848,
+    "field": "question",
+    "before": "Một công ty cung cấp hải sản muốn bảo vệ hệ thống thông tin của mình đễ các cách thức\nchế biến và đóng gói không bị tiết lộ với các đối thủ cạnh tranh. Khía cạnh nào của an toàn\nthông tin đang được xem xét?",
+    "after": "Một công ty cung cấp hải sản muốn bảo vệ hệ thống thông tin của mình đễ các cách thức chế biến và đóng gói không bị tiết lộ với các đối thủ cạnh tranh. Khía cạnh nào của an toàn thông tin đang được xem xét?"
+  },
+  {
+    "id": 851,
+    "field": "question",
+    "before": "Công việc nào sau đây cho phép xác định các tài nguyên, nguy cơ và rũi ro cũng như cách\n: thức khắc phục và giảm thiểu ảnh hưởng của các nguy cơ đến hệ thống thông tin",
+    "after": "Công việc nào sau đây cho phép xác định các tài nguyên, nguy cơ và rũi ro cũng như cách: thức khắc phục và giảm thiểu ảnh hưởng của các nguy cơ đến hệ thống thông tin"
+  },
+  {
+    "id": 852,
+    "field": "option B",
+    "before": "Đảm bảo tính bí mật\n: |",
+    "after": "Đảm bảo tính bí mật: |"
+  },
+  {
+    "id": 853,
+    "field": "option A",
+    "before": "Nền :",
+    "after": "Nền:"
+  },
+  {
+    "id": 856,
+    "field": "question",
+    "before": "Một mạng máy tính có 250 máy. Bạn cẦn sử dụng công cụ gì để đánh giá độ an toàn của\ncác máy?",
+    "after": "Một mạng máy tính có 250 máy. Bạn cần sử dụng công cụ gì để đánh giá độ an toàn của các máy?"
+  },
+  {
+    "id": 857,
+    "field": "question",
+    "before": "Để cấu hình luật cho NIPS nhằm xác định và ngăn chặn tấn công directory traversal trên\nmáy chủ web thì kiểu luật nào sau đây được sử dụng:",
+    "after": "Để cấu hình luật cho NIPS nhằm xác định và ngăn chặn tấn công directory traversal trên máy chủ web thì kiểu luật nào sau đây được sử dụng:"
+  },
+  {
+    "id": 858,
+    "field": "question",
+    "before": "Công nghệ nào sau đây đảm bảo tính toàn vẹn cho đữ liệu?",
+    "after": "Công nghệ nào sau đây đảm bảo tính toàn vẹn cho dữ liệu?"
+  },
+  {
+    "id": 860,
+    "field": "question",
+    "before": "Một đoạn mã độc sử dụng các cuộc tấn công từ điển vào máy tính để có quyền truy cập\nvào tài khoăn quản trị: Đoạn mã này sau đó liên kết các máy tính bị xâm nhập với nhau\nnhằm mục đích nhận các lệnh từ xa. Thuật ngữ nào mô tä ĐÚNG NHÁT loại mã độc này?",
+    "after": "Một đoạn mã độc sử dụng các cuộc tấn công từ điển vào máy tính để có quyền truy cập vào tài khoản quản trị: Đoạn mã này sau đó liên kết các máy tính bị xâm nhập với nhau nhằm mục đích nhận các lệnh từ xa. Thuật ngữ nào mô tä ĐÚNG NHÁT loại mã độc này?"
+  },
+  {
+    "id": 861,
+    "field": "option B",
+    "before": "Worms⁄\n3",
+    "after": "Worms⁄ 3"
+  },
+  {
+    "id": 864,
+    "field": "question",
+    "before": "Khi thiết lập luật ẠCL cho bộ định tuyến, cần tuân thủ hướng dẫn chung nào?\n(Khone cho phép lưu lượg truy cập dựa trên địa chỉ IP.„“",
+    "after": "Khi thiết lập luật ẠCL cho bộ định tuyến, cần tuân thủ hướng dẫn chung nào? (Khone cho phép lưu lượg truy cập dựa trên địa chỉ IP.„“"
+  },
+  {
+    "id": 865,
+    "field": "question",
+    "before": "Bạn theo dõi và kiểm tra lưu lượng mạng hàng tuần để đảm bảo rằng mạng đang được sử:\nđụng đúng cách. Khi làm như vậy, bạn nhận thấy lưu lượng truy cập đến công TCP 5ä\ntrên máy chủ của mình từ một địa chỉ IP không xác định. Sau khi xem lại nhật ký máy chủ\ncủa bạn, bạn nhận thấy nhiều lần thất bại trong việc thực hiện chuyển vùng đến máy chủ\ncủa mình. Đây là dấu hiệu của kiểu tấn công nào?",
+    "after": "Bạn theo dõi và kiểm tra lưu lượng mạng hàng tuần để đảm bảo rằng mạng đang được sử: đụng đúng cách. Khi làm như vậy, bạn nhận thấy lưu lượng truy cập đến công TCP 5ä trên máy chủ của mình từ một địa chỉ IP không xác định. Sau khi xem lại nhật ký máy chủ của bạn, bạn nhận thấy nhiều lần thất bại trong việc thực hiện chuyển vùng đến máy chủ của mình. Đây là dấu hiệu của kiểu tấn công nào?"
+  },
+  {
+    "id": 867,
+    "field": "option A",
+    "before": "Các lưu lượng mạng nghỉ ngờ sẽ bị ngăn chặn\n() Các gói tin mã hóa sẽ không thể bị theo dõi",
+    "after": "Các lưu lượng mạng nghỉ ngờ sẽ bị ngăn chặn () Các gói tin mã hóa sẽ không thể bị theo dõi"
+  },
+  {
+    "id": 869,
+    "field": "question",
+    "before": "Để dễ dàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn quyết định phải |\ncó một cách dễ dàng hơn là cấp cho người dùng quyền truy cập cá nhân vào tệp, máy in, |\nmáy tính và ứng dụng. Mô hình bảo mật nào bạn nên xem xét sử dụng?",
+    "after": "Để dễ dàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn quyết định phải | có một cách dễ dàng hơn là cấp cho người dùng quyền truy cập cá nhân vào tệp, máy in, | máy tính và ứng dụng. Mô hình bảo mật nào bạn nên xem xét sử dụng?"
+  },
+  {
+    "id": 869,
+    "field": "option D",
+    "before": "Kiểm soát truy cập thời gian trong ngày h . ~",
+    "after": "Kiểm soát truy cập thời gian trong ngày h. ~"
+  },
+  {
+    "id": 873,
+    "field": "option A",
+    "before": "An toàn thông tin là bảo vệ thông tin và hệ thống thông tin trước tắn công của tỉn tặc, bao\nsŠm cả những nhóm tỉn tặe được hậu thuẫn bởi các chính phủ.",
+    "after": "An toàn thông tin là bảo vệ thông tin và hệ thống thông tin trước tắn công của tỉn tặc, bao sŠm cả những nhóm tỉn tặe được hậu thuẫn bởi các chính phủ."
+  },
+  {
+    "id": 873,
+    "field": "option B",
+    "before": "An toàn thông tin bao gồm việc đảm bảo hoạt động ổn định của hệ thống thông tin trước khả\nnăng xảy ra sự cố vật lý.",
+    "after": "An toàn thông tin bao gồm việc đảm bảo hoạt động ổn định của hệ thống thông tin trước khả năng xảy ra sự cố vật lý."
+  },
+  {
+    "id": 873,
+    "field": "option C",
+    "before": "Một trong những nhiệm vụ của an toàn thông tin là ngăn chặn sự phát tán tin giả trên mạng,\nđể không gây tác động tiêu cực lên nhận thức của cộng đồng.",
+    "after": "Một trong những nhiệm vụ của an toàn thông tin là ngăn chặn sự phát tán tin giả trên mạng, để không gây tác động tiêu cực lên nhận thức của cộng đồng."
+  },
+  {
+    "id": 874,
+    "field": "option C",
+    "before": "Định danh + Xác thực — Cấp quyền Z“ -",
+    "after": "Định danh + Xác thực — Cấp quyền Z“"
+  },
+  {
+    "id": 875,
+    "field": "question",
+    "before": "Cổng nào sau đây cẦn được mở trong tường lửa để cho phép người dùng truy cập vào h\nT— website có sử dụng S§L",
+    "after": "Cổng nào sau đây cần được mở trong tường lửa để cho phép người dùng truy cập vào h T— website có sử dụng S§L"
+  },
+  {
+    "id": 879,
+    "field": "option A",
+    "before": "Là một chương trình được thiết kế để tắn công hệ thống máy tính trong khi vẫn thực hiện các\nhành động có vẻ không gây hại",
+    "after": "Là một chương trình được thiết kế để tắn công hệ thống máy tính trong khi vẫn thực hiện các hành động có vẻ không gây hại"
+  },
+  {
+    "id": 880,
+    "field": "question",
+    "before": "Trong mã hóa dữ liệu sử dụng mật mã khóa công khai, phát biểu nào sau đây là ĐÚNG:\n(chọn 2 đáp án)",
+    "after": "Trong mã hóa dữ liệu sử dụng mật mã khóa công khai, phát biểu nào sau đây là ĐÚNG: (chọn 2 đáp án)"
+  },
+  {
+    "id": 881,
+    "field": "option C",
+    "before": "Cái thuộc về bản thể người dùng\n(Đề thi gồm 06 trang A4)\n(Sinh viên không được sử dụng tài liệu)",
+    "after": "Cái thuộc về bản thể người dùng (Đề thi gồm 06 trang A4) (Sinh viên không được sử dụng tài liệu)"
+  },
+  {
+    "id": 882,
+    "field": "option A",
+    "before": "Là một chương trình được thiết kế đẻ tấn công hệ thống máy tính trong khi vẫn thực hiện các\nhành động có vẻ không gây hại",
+    "after": "Là một chương trình được thiết kế đẻ tấn công hệ thống máy tính trong khi vẫn thực hiện các hành động có vẻ không gây hại"
+  },
+  {
+    "id": 884,
+    "field": "option A",
+    "before": "An toàn thông tỉn là bảo vệ thông tin và hệ thống thông tin trước tắn công của tin tặc, bao\ngồm cả những nhóm tin tặc được hậu thuẫn bởi các chính phủ.",
+    "after": "An toàn thông tỉn là bảo vệ thông tin và hệ thống thông tin trước tắn công của tin tặc, bao gồm cả những nhóm tin tặc được hậu thuẫn bởi các chính phủ."
+  },
+  {
+    "id": 884,
+    "field": "option B",
+    "before": "An toàn thông tin bao gồm việc đảm bảo hoạt động ồn định của hệ thống thông tin trước khả\nnăng xảy ra sự cô vật lý.\nC; Một trong những nhiệm vụ của an toàn thông tin là ngăn chặn sự phát tán tin giả trên mạng\nđể không gây tác động tiêu cực lên nhận thức của cộng đồng.",
+    "after": "An toàn thông tin bao gồm việc đảm bảo hoạt động ồn định của hệ thống thông tin trước khả năng xảy ra sự cô vật lý. C; Một trong những nhiệm vụ của an toàn thông tin là ngăn chặn sự phát tán tin giả trên mạng để không gây tác động tiêu cực lên nhận thức của cộng đồng."
+  },
+  {
+    "id": 885,
+    "field": "question",
+    "before": "Khi thiết lập luật ACL cho bộ định tuyến, cẦn tuân thủ hướng dẫn chung nào?",
+    "after": "Khi thiết lập luật ACL cho bộ định tuyến, cần tuân thủ hướng dẫn chung nào?"
+  },
+  {
+    "id": 889,
+    "field": "question",
+    "before": "— Công ty muốn sử dụng một máy chủ FTP và muốn đầm bảo an toàn cho các luồng dữ liệu\nFTP sử dụng SSL. Lựa chọn nào sau đây nên được sử dụng:",
+    "after": "— Công ty muốn sử dụng một máy chủ FTP và muốn đầm bảo an toàn cho các luồng dữ liệu FTP sử dụng SSL. Lựa chọn nào sau đây nên được sử dụng:"
+  },
+  {
+    "id": 889,
+    "field": "option C",
+    "before": "IPSee\n1",
+    "after": "IPSee 1"
+  },
+  {
+    "id": 891,
+    "field": "question",
+    "before": "Để cấu hình luật cho NIPS nhằm xác định và ngăn chặn tấn công đireetoTy traversal trên\nmáy chủ web thì kiểu luật nào sau đây được sử dụng:",
+    "after": "Để cấu hình luật cho NIPS nhằm xác định và ngăn chặn tấn công đireetoTy traversal trên máy chủ web thì kiểu luật nào sau đây được sử dụng:"
+  },
+  {
+    "id": 892,
+    "field": "question",
+    "before": "Bạn lưu trữ tài liệu cá nhân và bảng tính trên một dịch vụ lưu trữ đám mây. Bạn muốn dữ\nven của mình chỉ khả dụng cho những người có khóa được chia sẽ đặc biệt. Bạn nên áp\nlụng điều gì cho các tài liệu và bảng tính của bạn?",
+    "after": "Bạn lưu trữ tài liệu cá nhân và bảng tính trên một dịch vụ lưu trữ đám mây. Bạn muốn dữ ven của mình chỉ khả dụng cho những người có khóa được chia sẽ đặc biệt. Bạn nên áp lụng điều gì cho các tài liệu và bảng tính của bạn?"
+  },
+  {
+    "id": 897,
+    "field": "option E",
+    "before": "Để đảm bảo tính bí mật thì cần nghiêm cắm việc tạo bản sao của thông tỉn.\nE_ Để đảm bảo tính bí mật thì chỉ cung cắp thông tin cho người có thẩm quyền tiếp cận.",
+    "after": "Để đảm bảo tính bí mật thì cần nghiêm cắm việc tạo bản sao của thông tỉn. E_ Để đảm bảo tính bí mật thì chỉ cung cấp thông tin cho người có thẩm quyền tiếp cận."
+  },
+  {
+    "id": 899,
+    "field": "option D",
+    "before": "OS fingerprinting\n2",
+    "after": "OS fingerprinting 2"
+  },
+  {
+    "id": 901,
+    "field": "question",
+    "before": "Công nào sau đây cần được mở trong tường lửa để cho phép người dùng truy cập vào\nwebsite có sử dụng SSL,",
+    "after": "Công nào sau đây cần được mở trong tường lửa để cho phép người dùng truy cập vào website có sử dụng SSL,"
+  },
+  {
+    "id": 902,
+    "field": "question",
+    "before": "Bạn theo dõi và kiểm tra lưu lượng mạng hàng tuần để đảm bảo rằng mạng đang được sử\ndụng đúng cách. Khi làm như vậy, bạn nhận thấy lưu lượng truy cập đến công TCP 53\ntrên máy chủ của mình từ một địa chỉ IP không xác định. Sau khi xem lại nhật ký máy chủ\ncủa bạn, bạn nhận thấy nhiều lần thất bại trong việc thực hiện chuyển vùng đến máy chủ\ncủa mình. Đây là dấu hiệu của kiểu tấn công nào? `",
+    "after": "Bạn theo dõi và kiểm tra lưu lượng mạng hàng tuần để đảm bảo rằng mạng đang được sử dụng đúng cách. Khi làm như vậy, bạn nhận thấy lưu lượng truy cập đến công TCP 53 trên máy chủ của mình từ một địa chỉ IP không xác định. Sau khi xem lại nhật ký máy chủ của bạn, bạn nhận thấy nhiều lần thất bại trong việc thực hiện chuyển vùng đến máy chủ của mình. Đây là dấu hiệu của kiểu tấn công nào? `"
+  },
+  {
+    "id": 903,
+    "field": "option B",
+    "before": "Antivirus -",
+    "after": "Antivirus"
+  },
+  {
+    "id": 905,
+    "field": "question",
+    "before": "8lột người dùng trên mạng của bạn nhận được e-mail từ ngân hàng nói rằng đã có sự cố\nbảo mật tại ngân hàng. Email tiếp tục bằng cách yêu cầu người dùng đăng nhập vào tài\nkhoản ngân hàng của mình bằng cách theo liên kết được cung cấp và xác minh rằng tài\nkhoản của cô ấy không bị giả mạo. Đây là loại tấn công nào?",
+    "after": "8lột người dùng trên mạng của bạn nhận được e-mail từ ngân hàng nói rằng đã có sự cố bảo mật tại ngân hàng. Email tiếp tục bằng cách yêu cầu người dùng đăng nhập vào tài khoản ngân hàng của mình bằng cách theo liên kết được cung cấp và xác minh rằng tài khoản của cô ấy không bị giả mạo. Đây là loại tấn công nào?"
+  },
+  {
+    "id": 906,
+    "field": "option B",
+    "before": "Worms -",
+    "after": "Worms"
+  },
+  {
+    "id": 907,
+    "field": "question",
+    "before": "Cường sử dụng phương pháp mã hóa để mã hóa file, phương pháp mã hóa nào thường\nđược sử dụng:",
+    "after": "Cường sử dụng phương pháp mã hóa để mã hóa file, phương pháp mã hóa nào thường được sử dụng:"
+  },
+  {
+    "id": 907,
+    "field": "option C",
+    "before": "Đối xứng\n| 3",
+    "after": "Đối xứng | 3"
+  },
+  {
+    "id": 908,
+    "field": "option D",
+    "before": "Được dùng để giải mã thông điệp nhận được\nG Được dùng để tạo chữ ký số\n- Được dùng để xác nhận chữ ký số , — h",
+    "after": "Được dùng để giải mã thông điệp nhận được G Được dùng để tạo chữ ký số - Được dùng để xác nhận chữ ký số, — h"
+  },
+  {
+    "id": 909,
+    "field": "question",
+    "before": "Chức năng Ueer Account Conteol (UAC) trong Windows 8 cho phép người Nay l9\nthay đổi các cài đặt của Windows nhưng trước khi thay đôi sẽ hiền thị lời nhắc\nnhận lại sự thay đổi này cho người dùng. Điều này giúp chống lại tấn công nào?",
+    "after": "Chức năng Ueer Account Conteol (UAC) trong Windows 8 cho phép người Nay l9 thay đổi các cài đặt của Windows nhưng trước khi thay đôi sẽ hiền thị lời nhắc nhận lại sự thay đổi này cho người dùng. Điều này giúp chống lại tấn công nào?"
+  },
+  {
+    "id": 909,
+    "field": "option D",
+    "before": "Worms : -",
+    "after": "Worms:"
+  },
+  {
+    "id": 910,
+    "field": "question",
+    "before": "Một công ty cung cấp hãi sản muốn bảo vệ hệ thống thông tin của mình để các cách thức:\nchế biến và đóng gói không bị tiết lộ với các đối thủ cạnh tranh. Khía cạnh nào của an toàn\nthông tin đang được xem xét?",
+    "after": "Một công ty cung cấp hãi sản muốn bảo vệ hệ thống thông tin của mình để các cách thức: chế biến và đóng gói không bị tiết lộ với các đối thủ cạnh tranh. Khía cạnh nào của an toàn thông tin đang được xem xét?"
+  },
+  {
+    "id": 910,
+    "field": "option B",
+    "before": "Tính bí mật .",
+    "after": "Tính bí mật."
+  },
+  {
+    "id": 912,
+    "field": "question",
+    "before": "Trong mã hóa dữ liệu sử dụng mật mã khóa công khai, phát biểu nào sau đây là ĐỨNG:\n(chọn 2 đáp án)",
+    "after": "Trong mã hóa dữ liệu sử dụng mật mã khóa công khai, phát biểu nào sau đây là ĐỨNG: (chọn 2 đáp án)"
+  },
+  {
+    "id": 915,
+    "field": "question",
+    "before": "Mô hình bảo mật nào sử dụng phân loại dữ liệu và phân quyền người dùng dựa trên phân\nloại dữ liệu",
+    "after": "Mô hình bảo mật nào sử dụng phân loại dữ liệu và phân quyền người dùng dựa trên phân loại dữ liệu"
+  },
+  {
+    "id": 915,
+    "field": "option D",
+    "before": "MAC : T11",
+    "after": "MAC: T11"
+  },
+  {
+    "id": 916,
+    "field": "question",
+    "before": "Một mạng máy tính có 250 máy. Bạn cần sử dụng công cụ gì để đánh giá độ an toàn của\ncác máy?",
+    "after": "Một mạng máy tính có 250 máy. Bạn cần sử dụng công cụ gì để đánh giá độ an toàn của các máy?"
+  },
+  {
+    "id": 917,
+    "field": "question",
+    "before": "o Ð. Các tệp tin nhật ký sẽ không bị phân tích,\nlà Kế nÀo sau đây giúp đảm bảo tính bí mật cho dữ liệu",
+    "after": "o Ð. Các tệp tin nhật ký sẽ không bị phân tích, là Kế nÀo sau đây giúp đảm bảo tính bí mật cho dữ liệu"
+  },
+  {
+    "id": 918,
+    "field": "question",
+    "before": "Đâu là kiểu kiểm thử được sử dụng khi người kiểm thử được cung cấp các thông tin cầu\nhình của hệ thống?",
+    "after": "Đâu là kiểu kiểm thử được sử dụng khi người kiểm thử được cung cấp các thông tin cầu hình của hệ thống?"
+  },
+  {
+    "id": 920,
+    "field": "option A",
+    "before": "Một tổ chức chỉ có thể được chứng nhận đạt chuẩn ISO 27001 khi đáp ứng tắt cả các yêu cầu\ncủa ISO 27001 '",
+    "after": "Một tổ chức chỉ có thể được chứng nhận đạt chuẩn ISO 27001 khi đáp ứng tắt cả các yêu cầu của ISO 27001 '"
+  },
+  {
+    "id": 920,
+    "field": "option B",
+    "before": "Một tổ chức dược chứng nhận đạt chuẩn ISO 27001 có nghĩa là hệ thống thông tin của tổ\nchức đỏ được đảm bảo an toàn. ' - '",
+    "after": "Một tổ chức dược chứng nhận đạt chuẩn ISO 27001 có nghĩa là hệ thống thông tin của tổ chức đỏ được đảm bảo an toàn. ' - '"
+  },
+  {
+    "id": 920,
+    "field": "option C",
+    "before": "Một tổ chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là tổ chức đó đã triển khai việc\nbảo vệ thông tin một cách đúng đắn.",
+    "after": "Một tổ chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là tổ chức đó đã triển khai việc bảo vệ thông tin một cách đúng đắn."
+  },
+  {
+    "id": 921,
+    "field": "question",
+    "before": "Công ty bạn triển khai hạ tầng PKI, bạn cẦn mã hóa một thư điện tử và gửi nó cho đồng\nnghiệp là An. Bạn cẨn có khóa nào sau đây để thực hiện được điều này:",
+    "after": "Công ty bạn triển khai hạ tầng PKI, bạn cần mã hóa một thư điện tử và gửi nó cho đồng nghiệp là An. Bạn cẨn có khóa nào sau đây để thực hiện được điều này:"
+  },
+  {
+    "id": 922,
+    "field": "question",
+    "before": "Độ an toàn của mật khẩu nào dưới đây là lớn nhất (biết rằng mật kh có thể gồm chữ số,\nchữ cái hoa và thường)",
+    "after": "Độ an toàn của mật khẩu nào dưới đây là lớn nhất (biết rằng mật kh có thể gồm chữ số, chữ cái hoa và thường)"
+  },
+  {
+    "id": 923,
+    "field": "question",
+    "before": "Một đoạn mã độc sử dụng các cuộc tấn công từ điển vào máy tính để có quyền truy cập\nvào tài khoản quản trị. Đoạn mã này sau đó liên kết các máy tính bị xâm nhập với nhau\nnhằm mục đích nhận các lệnh từ xa. Thuật ngữ nào mô tả ĐỨNG NHÁT loại mã độc này?",
+    "after": "Một đoạn mã độc sử dụng các cuộc tấn công từ điển vào máy tính để có quyền truy cập vào tài khoản quản trị. Đoạn mã này sau đó liên kết các máy tính bị xâm nhập với nhau nhằm mục đích nhận các lệnh từ xa. Thuật ngữ nào mô tả ĐỨNG NHÁT loại mã độc này?"
+  },
+  {
+    "id": 925,
+    "field": "question",
+    "before": "Kỹ thuật nào được sử dụng để xác định khi nào tài khoản của người dùng bị sửa đôi thông\ntin",
+    "after": "Kỹ thuật nào được sử dụng để xác định khi nào tài khoản của người dùng bị sửa đôi thông tin"
+  },
+  {
+    "id": 927,
+    "field": "question",
+    "before": "Một hacker ngồi trong quán cà phê có điểm truy cập Internet và tiến hành thực hiện ARP\npoisoning mọi người kết nối với mạng không dây để tắt cả lưu lượng truy cập qua máy\ntính xách tay haeker trước khi cô định tuyến lưu lượng truy cập vào Internet. Đây là loại\ntấn công nào?",
+    "after": "Một hacker ngồi trong quán cà phê có điểm truy cập Internet và tiến hành thực hiện ARP poisoning mọi người kết nối với mạng không dây để tắt cả lưu lượng truy cập qua máy tính xách tay haeker trước khi cô định tuyến lưu lượng truy cập vào Internet. Đây là loại tấn công nào?"
+  },
+  {
+    "id": 928,
+    "field": "question",
+    "before": "Để dễ dàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn quyết định phải\ncó một cách dễ dàng hơn là cắp cho người dùng quyền truy cập cá nhân vào tệp, máy in,\nmáy tính và ứng dụng. Mô hình bảo mật nào bạn nên xem xét sử dụng?",
+    "after": "Để dễ dàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn quyết định phải có một cách dễ dàng hơn là cắp cho người dùng quyền truy cập cá nhân vào tệp, máy in, máy tính và ứng dụng. Mô hình bảo mật nào bạn nên xem xét sử dụng?"
+  },
+  {
+    "id": 928,
+    "field": "option D",
+    "before": "Kiểm soát truy cập thời gian trong ngày\n(Đề thi gồm 06 trang 44)\n(Sinh viên không được sử dụng tài liệu)",
+    "after": "Kiểm soát truy cập thời gian trong ngày (Đề thi gồm 06 trang 44) (Sinh viên không được sử dụng tài liệu)"
+  },
+  {
+    "id": 929,
+    "field": "option D",
+    "before": "RuBAC -",
+    "after": "RuBAC"
+  },
+  {
+    "id": 931,
+    "field": "option A",
+    "before": "Anti-spam :",
+    "after": "Anti-spam:"
+  },
+  {
+    "id": 932,
+    "field": "option A",
+    "before": "Caterpillars :",
+    "after": "Caterpillars:"
+  },
+  {
+    "id": 933,
+    "field": "option A",
+    "before": "An toàn thông tin là bảo vệ thông tỉn và hệ thống thông tin trước tấn công của tin tặc, bao\nsồm cả những nhóm tin tặc được hậu thuẫn bởi các chính phủ.",
+    "after": "An toàn thông tin là bảo vệ thông tỉn và hệ thống thông tin trước tấn công của tin tặc, bao sồm cả những nhóm tin tặc được hậu thuẫn bởi các chính phủ."
+  },
+  {
+    "id": 933,
+    "field": "option B",
+    "before": "An toàn thông tin bao gồm việc đảm bảo hoạt động ôn định của hệ thống thông tỉn trước khả\nnăng xảy ra sự có vật lý.",
+    "after": "An toàn thông tin bao gồm việc đảm bảo hoạt động ôn định của hệ thống thông tỉn trước khả năng xảy ra sự có vật lý."
+  },
+  {
+    "id": 933,
+    "field": "option C",
+    "before": "Một trong những nhiệm vụ của an toàn thông tin là ngăn chặn sự phát tán tỉn giả trên mạng,\nđể không gây tác động tiêu cực lên nhận thức của cộng đồng.",
+    "after": "Một trong những nhiệm vụ của an toàn thông tin là ngăn chặn sự phát tán tỉn giả trên mạng, để không gây tác động tiêu cực lên nhận thức của cộng đồng."
+  },
+  {
+    "id": 934,
+    "field": "question",
+    "before": "Bạn lưu trữ tài liệu cá nhân và bằng tính trên một dịch vụ lưu trữ đám mây. Bạn muốn dữ\nliệu của mình chỉ khä dụng cho những người có khóa được chia sẻ đặc biệt, Bạn nên áp\ndụng điều gì cho các tải liệu và bảng tính của bạn?",
+    "after": "Bạn lưu trữ tài liệu cá nhân và bằng tính trên một dịch vụ lưu trữ đám mây. Bạn muốn dữ liệu của mình chỉ khä dụng cho những người có khóa được chia sẻ đặc biệt, Bạn nên áp dụng điều gì cho các tải liệu và bảng tính của bạn?"
+  },
+  {
+    "id": 936,
+    "field": "question",
+    "before": "Chức năng User Aecount Control (UAC) trong Windows 8 cho phép người dàng có thê\nthay đổi các cài đặt cũa Windows nhưng trước khi thay đổi sẽ hiễn thị lời nhắc để xác\nnhận lại sự thay đổi này cho người dùng. Điều này giúp chồng lại tấn công nào?",
+    "after": "Chức năng User Aecount Control (UAC) trong Windows 8 cho phép người dàng có thê thay đổi các cài đặt của Windows nhưng trước khi thay đổi sẽ hiễn thị lời nhắc để xác nhận lại sự thay đổi này cho người dùng. Điều này giúp chồng lại tấn công nào?"
+  },
+  {
+    "id": 936,
+    "field": "option D",
+    "before": "Worms :",
+    "after": "Worms:"
+  },
+  {
+    "id": 937,
+    "field": "question",
+    "before": "Một người dùng trên mạng của bạn nhận được e-mail từ ngân hàng nói rằng đã có sự cô\nbão mật tại ngân hàng. Email tiếp tục bằng cách yêu cầu người dùng đăng nhập vào tài\nkhoãn ngân hàng của mình bằng cách theo liên kết được cung cấp và xác minh rằng tài\nkhoản của cô ấy không bị giả mạo. Đây là loại tắn công nào?",
+    "after": "Một người dùng trên mạng của bạn nhận được e-mail từ ngân hàng nói rằng đã có sự cô bảo mật tại ngân hàng. Email tiếp tục bằng cách yêu cầu người dùng đăng nhập vào tài khoãn ngân hàng của mình bằng cách theo liên kết được cung cấp và xác minh rằng tài khoản của cô ấy không bị giả mạo. Đây là loại tắn công nào?"
+  },
+  {
+    "id": 938,
+    "field": "option A",
+    "before": "Một tổ chức chỉ có thể được chứng nhận đạt chuẩn ISO 27001 khi đáp ứng tắt cả các yêu cầu\ncủa ISO 27001",
+    "after": "Một tổ chức chỉ có thể được chứng nhận đạt chuẩn ISO 27001 khi đáp ứng tắt cả các yêu cầu của ISO 27001"
+  },
+  {
+    "id": 938,
+    "field": "option B",
+    "before": "Một tổ chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là hệ thống thông tin của tổ\nchức đó được đảm bảo an toàn.",
+    "after": "Một tổ chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là hệ thống thông tin của tổ chức đó được đảm bảo an toàn."
+  },
+  {
+    "id": 938,
+    "field": "option C",
+    "before": "Một tổ chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là tổ chức đó đã triển khai việc\nbảo vệ thông tin một cách đúng đẫn.",
+    "after": "Một tổ chức được chứng nhận đạt chuẩn ISO 27001 có nghĩa là tổ chức đó đã triển khai việc bảo vệ thông tin một cách đúng đẫn."
+  },
+  {
+    "id": 939,
+    "field": "question",
+    "before": "Mộtcông tycung cấp hải sản muốn bảo vệ hệ thống thông tin của mình để các cách thức\nchế biến và đóng gói không bị tiết lộ với các đối thủ cạnh tranh. Khía cạnh nào cũa an toàn\nthông tin đang được xem xét?",
+    "after": "Mộtcông tycung cấp hải sản muốn bảo vệ hệ thống thông tin của mình để các cách thức chế biến và đóng gói không bị tiết lộ với các đối thủ cạnh tranh. Khía cạnh nào của an toàn thông tin đang được xem xét?"
+  },
+  {
+    "id": 941,
+    "field": "question",
+    "before": "Để dễ dàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn quyết định phải Š\ncó một cách dễ dàng hơn là cấp cho người dùng quyền truy cập cá nhân vào tệp, máy in, E\nmáy tính và ứng dụng. Mô hình bảo mật nào bạn nên xem xét sử dụng? Ễ",
+    "after": "Để dễ dàng cấp quyền truy cập vào tài nguyên mạng cho nhân viên, bạn quyết định phải Š có một cách dễ dàng hơn là cấp cho người dùng quyền truy cập cá nhân vào tệp, máy in, E máy tính và ứng dụng. Mô hình bảo mật nào bạn nên xem xét sử dụng? Ễ"
+  },
+  {
+    "id": 941,
+    "field": "option D",
+    "before": "Kiểm soát truy cập thời gian trong ngày\n*",
+    "after": "Kiểm soát truy cập thời gian trong ngày *"
+  },
+  {
+    "id": 942,
+    "field": "question",
+    "before": "Một mạng máy tính có 250 máy. Bạn cẦn sử dụng công cụ gì để đánh giá độ an toàn của\ncác máy?",
+    "after": "Một mạng máy tính có 250 máy. Bạn cần sử dụng công cụ gì để đánh giá độ an toàn của các máy?"
+  },
+  {
+    "id": 943,
+    "field": "option A",
+    "before": "Là một chương trình được thiết kế đề tân công hệ thống máy tính trong khi vẫn thực hiện các\nhành động có vẻ không gây hại : `",
+    "after": "Là một chương trình được thiết kế đề tân công hệ thống máy tính trong khi vẫn thực hiện các hành động có vẻ không gây hại: `"
+  },
+  {
+    "id": 943,
+    "field": "option D",
+    "before": "Có khả năng tự sao chép\n2\n)",
+    "after": "Có khả năng tự sao chép 2)"
+  },
+  {
+    "id": 945,
+    "field": "question",
+    "before": "Trong mã hóa dữ liệu sử dụng mật mã khóa công khai, phát biểu nào sau đây là ĐÚNG:\n(chọn 2 đáp án)",
+    "after": "Trong mã hóa dữ liệu sử dụng mật mã khóa công khai, phát biểu nào sau đây là ĐÚNG: (chọn 2 đáp án)"
+  },
+  {
+    "id": 946,
+    "field": "question",
+    "before": "Ù Công việc nào sau đây cho phép xác định các tài nguyên, nguy cơ và rủi ro cũng như cách\nthức khắc phục và giảm thiểu ảnh hưởng của các nguy cơ đến hệ thống thông tin",
+    "after": "Ù Công việc nào sau đây cho phép xác định các tài nguyên, nguy cơ và rủi ro cũng như cách thức khắc phục và giảm thiểu ảnh hưởng của các nguy cơ đến hệ thống thông tin"
+  },
+  {
+    "id": 948,
+    "field": "question",
+    "before": "Được phát hiện vào năm 1991, virus Michelangelo được cho là đã được kích hoạt để ghỉ đè\nlên 100 seetor đĩa cứng đầu tiên với dữ liệu null mỗi năm vào ngày 6 tháng 3, đúng vào\nngày sinh nhật của nghệ sĩ người Ý. Michelangelo thuộc loại virus nào?",
+    "after": "Được phát hiện vào năm 1991, virus Michelangelo được cho là đã được kích hoạt để ghỉ đè lên 100 seetor đĩa cứng đầu tiên với dữ liệu null mỗi năm vào ngày 6 tháng 3, đúng vào ngày sinh nhật của nghệ sĩ người Ý. Michelangelo thuộc loại virus nào?"
+  },
+  {
+    "id": 951,
+    "field": "question",
+    "before": "Độ an toàn của mật khẩu nào dưới đây là lớn nhất (biết rằng mật khả có thể gồm chữ số,\nchữ cái hoa và thường)",
+    "after": "Độ an toàn của mật khẩu nào dưới đây là lớn nhất (biết rằng mật khả có thể gồm chữ số, chữ cái hoa và thường)"
+  },
+  {
+    "id": 951,
+    "field": "option E",
+    "before": "123456789012\n3",
+    "after": "123456789012 3"
+  },
+  {
+    "id": 952,
+    "field": "option D",
+    "before": "Kháng va chạm : 7 ời dùng truy cập vào",
+    "after": "Kháng va chạm: 7 ời dùng truy cập vào"
+  },
+  {
+    "id": 954,
+    "field": "question",
+    "before": "Khi truy cập vào các tài liệu trong một thư mục trên máy tính của bạn, bạn nhận thấy tắt\ncả các tệp đã bị đổi tên thành các tên tệp ngẫu nhiên. Ngoài ra, bạn thấy một tải liệu chứa\ncác hướng dẫn thanh toán để giải mã các tệp tin. Trong trường hợp này bạn đã nhiễm mã\nđộc nào?",
+    "after": "Khi truy cập vào các tài liệu trong một thư mục trên máy tính của bạn, bạn nhận thấy tắt cả các tệp đã bị đổi tên thành các tên tệp ngẫu nhiên. Ngoài ra, bạn thấy một tải liệu chứa các hướng dẫn thanh toán để giải mã các tệp tin. Trong trường hợp này bạn đã nhiễm mã độc nào?"
+  },
+  {
+    "id": 956,
+    "field": "question",
+    "before": "Công ty bạn triển khai hạ tằng PKI, bạn cần mã hóa một thư điện tử và gửi nó cho đồng\nnghiệp là An. Bạn cần có khóa nào sau đây để thực hiện được điều này:",
+    "after": "Công ty bạn triển khai hạ tằng PKI, bạn cần mã hóa một thư điện tử và gửi nó cho đồng nghiệp là An. Bạn cần có khóa nào sau đây để thực hiện được điều này:"
+  },
+  {
+    "id": 960,
+    "field": "question",
+    "before": "Kỹ thuật nào được sử dụng để xác định khi nào tài khoản của người dùng bị sửa đổi thông\ntin",
+    "after": "Kỹ thuật nào được sử dụng để xác định khi nào tài khoản của người dùng bị sửa đổi thông tin"
+  },
+  {
+    "id": 960,
+    "field": "option D",
+    "before": "Cài đặt tường lửa cá nhân trên máy trạm của từng người dùng\n4",
+    "after": "Cài đặt tường lửa cá nhân trên máy trạm của từng người dùng 4"
+  },
+  {
+    "id": 962,
+    "field": "question",
+    "before": "Đâu là kiểu kiểm thử được sử dụng khi người kiểm thử được cung cấp các thông tin cấu\nhình của hệ thống?",
+    "after": "Đâu là kiểu kiểm thử được sử dụng khi người kiểm thử được cung cấp các thông tin cấu hình của hệ thống?"
+  },
+  {
+    "id": 963,
+    "field": "question",
+    "before": "Biện pháp đối phó nào sau đây được thiết kế để bảo vệ chống lại cuộc tắn công vét cạn vào\nmật khẩu?",
+    "after": "Biện pháp đối phó nào sau đây được thiết kế để bảo vệ chống lại cuộc tắn công vét cạn vào mật khẩu?"
+  },
+  {
+    "id": 963,
+    "field": "option D",
+    "before": "Sử dụng mật khẩu mạnh\nL",
+    "after": "Sử dụng mật khẩu mạnh L"
+  },
+  {
+    "id": 967,
+    "field": "question",
+    "before": "Một hacker ngồi trong quán cà phê có điểm truy cập Internet và tiến hành thực hiện ARP\nDoisoning mọi người kết nối với mạng không dây để tất cả lưu lượng truy cập qua máy\ntính xách tay hacker trước khi cô định tuyến lưu lượng truy cập vào Internet. Đây là loại\ntấn công nào?",
+    "after": "Một hacker ngồi trong quán cà phê có điểm truy cập Internet và tiến hành thực hiện ARP Doisoning mọi người kết nối với mạng không dây để tất cả lưu lượng truy cập qua máy tính xách tay hacker trước khi cô định tuyến lưu lượng truy cập vào Internet. Đây là loại tấn công nào?"
+  },
+  {
+    "id": 970,
+    "field": "question",
+    "before": "Một đoạn mã độc sử dụng các cuộc tẤn công từ điển vào máy tính để có quyền truy cập\nvào tài khoản quản trị. Đoạn mã này sau đó liên kết các máy tính bị xâm nhập với nhau\nnhằm mục đích nhận các lệnh từ xa. Thuật ngữ nào mô tả ĐÚNG NHÁT loại mã độc này?",
+    "after": "Một đoạn mã độc sử dụng các cuộc tấn công từ điển vào máy tính để có quyền truy cập vào tài khoản quản trị. Đoạn mã này sau đó liên kết các máy tính bị xâm nhập với nhau nhằm mục đích nhận các lệnh từ xa. Thuật ngữ nào mô tả ĐÚNG NHÁT loại mã độc này?"
+  },
+  {
+    "id": 972,
+    "field": "option C",
+    "before": "Cái thuộc về bản thể người dùng\n(Đề thi gầm 06 trang A4)\n(Sinh viên không được sử dụng tài liệu)",
+    "after": "Cái thuộc về bản thể người dùng (Đề thi gầm 06 trang A4) (Sinh viên không được sử dụng tài liệu)"
+  },
+  {
+    "id": 992,
+    "field": "question",
+    "before": "Câu 32. Hệ thống có 3 người dùng: Alice: tạo ra file 1; John: tạo ra file 2; Sally: tạo ra file 3. Một file có ba quyền là: Đọc(R), Ghi(W), Thực thi\nCác người dùng cấp quyền trên các file cho các người dùng khác như sau: - Alice cấp quyền đọc, ghi cho John trên file 1 và chỉ quyền đọc trên file này cho Sally. - John cấp quyền đọc, thực thi trên file 2 cho Alice. - Sally cấp quyền đọc, thực thi trên file 3 cho Alice và quyền đọc, thực thi trên file này cho John Ai là người có quyền đọc tất cả các file trên?",
+    "after": "Câu 32. Hệ thống có 3 người dùng: Alice: tạo ra file 1; John: tạo ra file 2; Sally: tạo ra file 3. Một file có ba quyền là: Đọc(R), Ghi(W), Thực thi Các người dùng cấp quyền trên các file cho các người dùng khác như sau: - Alice cấp quyền đọc, ghi cho John trên file 1 và chỉ quyền đọc trên file này cho Sally. - John cấp quyền đọc, thực thi trên file 2 cho Alice. - Sally cấp quyền đọc, thực thi trên file 3 cho Alice và quyền đọc, thực thi trên file này cho John Ai là người có quyền đọc tất cả các file trên?"
+  },
+  {
+    "id": 996,
+    "field": "option D",
+    "before": "HTTPS",
+    "after": "HFTPS"
+  },
+  {
+    "id": 997,
+    "field": "question",
+    "before": "Câu 40. Giao thức TCP / IP nào cung cấp cho quản trị viên một giao diện dòng lệnh từ xa cho các dịch vụ mạng?",
+    "after": "Câu 40. Giao thức TCP/IP nào cung cấp cho quản trị viên một giao diện dòng lệnh từ xa cho các dịch vụ mạng?"
+  },
+  {
+    "id": 1004,
+    "field": "question",
+    "before": "Câu 5: Mã độc Wanna Cry xuất hiện năm 2017 lây lan qua lỗ hổng SMB của hệ điều hành Windows sau đó mã hóa và đòi tiền chuộc của nạn nhân. Mã độc này thuộc dạng nào ?",
+    "after": "Câu 5: Mã độc Wanna Cry xuất hiện năm 2017 lây lan qua lỗ hổng SMB của hệ điều hành Windows sau đó mã hóa và đòi tiền chuộc của nạn nhân. Mã độc này thuộc dạng nào?"
+  },
+  {
+    "id": 1021,
+    "field": "question",
+    "before": "5. Một máy trạm có địa chỉ IP là 169.254.46.86. Các quản trị viên máy chủ nhận ra dịch vụ DHCP đang ngoại tuyến, vì vậy họ bắt đầu dịch vụ DHCP. Lệnh nào sẽ được sử dụng tiếp theo trên máy trạm để ngay lập tức có được cấu hình TCP / IP hợp lệ?",
+    "after": "5. Một máy trạm có địa chỉ IP là 169.254.46.86. Các quản trị viên máy chủ nhận ra dịch vụ DHCP đang ngoại tuyến, vì vậy họ bắt đầu dịch vụ DHCP. Lệnh nào sẽ được sử dụng tiếp theo trên máy trạm để ngay lập tức có được cấu hình TCP/IP hợp lệ?"
+  },
+  {
+    "id": 1021,
+    "field": "option D",
+    "before": "ipconfig / renew",
+    "after": "ipconfig/renew"
+  },
+  {
+    "id": 1035,
+    "field": "option C",
+    "before": "HTTPS",
+    "after": "HFTPS"
+  },
+  {
+    "id": 1040,
+    "field": "question",
+    "before": "77. Giao thức TCP / IP nào được thiết kế để đồng bộ hóa thời gian giữa các máy tính?",
+    "after": "77. Giao thức TCP/IP nào được thiết kế để đồng bộ hóa thời gian giữa các máy tính?"
+  },
+  {
+    "id": 1046,
+    "field": "option B",
+    "before": "’OR 1=1-- -",
+    "after": "’OR 1=1--"
+  },
+  {
+    "id": 1067,
+    "field": "option B",
+    "before": "Định cấu hình tất cả các máy tính Kế toán trên cùng một mạng con TCP / IP (ví dụ: 192.268.2.0 / 24) và định cấu hình tất cả các máy tính nghiên cứu trên mạng con TCP / IP của riêng chúng (ví dụ: 192.168.3.0 / 16).",
+    "after": "Định cấu hình tất cả các máy tính Kế toán trên cùng một mạng con TCP/IP (ví dụ: 192.268.2.0/24) và định cấu hình tất cả các máy tính nghiên cứu trên mạng con TCP/IP của riêng chúng (ví dụ: 192.168.3.0/16)."
+  },
+  {
+    "id": 1067,
+    "field": "option D",
+    "before": "Định cấu hình tất cả các máy tính Kế toán trên cùng một mạng con TCP / IP (ví dụ: 192.168.2.0 / 24) và định cấu hình tất cả các máy tính nghiên cứu trên mạng con TCP / IP của riêng chúng (ví dụ: 192.168.3.0 /",
+    "after": "Định cấu hình tất cả các máy tính Kế toán trên cùng một mạng con TCP/IP (ví dụ: 192.168.2.0/24) và định cấu hình tất cả các máy tính nghiên cứu trên mạng con TCP/IP của riêng chúng (ví dụ: 192.168.3.0/"
+  },
+  {
+    "id": 1069,
+    "field": "question",
+    "before": "Câu 24: Bạn đang khắc phục sự cố cài đặt TCP / IP trên máy trạm. Địa chỉ IP của máy trạm là 10.17.6.8/24, cài đặt máy chủ DNS được đặt thành 199.126.129.86 và cài đặt cổng mặc định là 10.17.5.6./24. Bộ định tuyến có địa chỉ IP công cộng là 199.126.129.76/24 và địa chỉ IP nội bộ riêng là 10.17.5.6/24. Máy trạm này là trạm duy nhất trên mạng không thể kết nối với Internet. Những gì bạn nên làm?",
+    "after": "Câu 24: Bạn đang khắc phục sự cố cài đặt TCP/IP trên máy trạm. Địa chỉ IP của máy trạm là 10.17.6.8/24, cài đặt máy chủ DNS được đặt thành 199.126.129.86 và cài đặt cổng mặc định là 10.17.5.6./24. Bộ định tuyến có địa chỉ IP công cộng là 199.126.129.76/24 và địa chỉ IP nội bộ riêng là 10.17.5.6/24. Máy trạm này là trạm duy nhất trên mạng không thể kết nối với Internet. Những gì bạn nên làm?"
+  },
+  {
+    "id": 1071,
+    "field": "question",
+    "before": "Câu 31: Điều nào sau đây được coi là giao thức truyền tải TCP / IP? (Chọn hai.)",
+    "after": "Câu 31: Điều nào sau đây được coi là giao thức truyền tải TCP/IP? (Chọn hai.)"
+  },
+  {
+    "id": 1122,
+    "field": "option B",
+    "before": "Patching ( là cập nhật các bản vá lỗ hổng)",
+    "after": "Patching (là cập nhật các bản vá lỗ hổng)"
+  },
+  {
+    "id": 1128,
+    "field": "question",
+    "before": "Câu 20. Kiểu tấn công nào liên quan đến việc hacker ngắt kết nối một trong các bên khỏi liên lạc và tiếp tục liên lạc trong khi mạo danh hệ thống đó? đáp án sai à ;))) có man in middle thì chọn nhá ko thì chọn c",
+    "after": "Câu 20. Kiểu tấn công nào liên quan đến việc hacker ngắt kết nối một trong các bên khỏi liên lạc và tiếp tục liên lạc trong khi mạo danh hệ thống đó? đáp án sai à;))) có man in middle thì chọn nhá ko thì chọn c"
+  },
+  {
+    "id": 1132,
+    "field": "option B",
+    "before": "Steganography ( ẩn thông tin trong ảnh, văn bản âm thanh …)",
+    "after": "Steganography (ẩn thông tin trong ảnh, văn bản âm thanh …)"
+  },
+  {
+    "id": 1136,
+    "field": "option B",
+    "before": "Intimidation ( đe dọa)",
+    "after": "Intimidation (đe dọa)"
+  },
+  {
+    "id": 1178,
+    "field": "option A",
+    "before": "sử dụng HTTPS với IPv6.",
+    "after": "sử dụng HFTPS với IPv6."
+  },
+  {
+    "id": 1178,
+    "field": "option D",
+    "before": "sử dụng HTTPS với PKI.",
+    "after": "sử dụng HFTPS với PKI."
+  },
+  {
+    "id": 1182,
+    "field": "question",
+    "before": "35. bạn đã được yêu cầu phát triển một ứng dụng web an toàn cho một nhà bán lẻ bia gia đình. App willread và viết thư cho một cơ sở dữ liệu Back-end cho các giao dịch khách hàng. Cơ sở dữ liệu có quy tắc tại chỗ để kiểm tra dữ liệu đó là hợp lệ. Trang web sử dụng HTTPS. Điều gì khác nên được thực hiện để bảo đảm các ứng dụng web hơn nữa?",
+    "after": "35. bạn đã được yêu cầu phát triển một ứng dụng web an toàn cho một nhà bán lẻ bia gia đình. App willread và viết thư cho một cơ sở dữ liệu Back-end cho các giao dịch khách hàng. Cơ sở dữ liệu có quy tắc tại chỗ để kiểm tra dữ liệu đó là hợp lệ. Trang web sử dụng HFTPS. Điều gì khác nên được thực hiện để bảo đảm các ứng dụng web hơn nữa?"
+  },
+  {
+    "id": 1183,
+    "field": "option D",
+    "before": "thực hiện HTTPS, màn hình khóa, mã hóa thiết bị, và chống phần mềm độc hại, và vô hiệu không cần thiết phần mềm trên điện thoại.",
+    "after": "thực hiện HFTPS, màn hình khóa, mã hóa thiết bị, và chống phần mềm độc hại, và vô hiệu không cần thiết phần mềm trên điện thoại."
+  },
+  {
+    "id": 1201,
+    "field": "option B",
+    "before": "HTTPS sẽ được sử dụng để truy cập các dịch vụ từ xa.",
+    "after": "HFTPS sẽ được sử dụng để truy cập các dịch vụ từ xa."
+  },
+  {
+    "id": 1214,
+    "field": "option A",
+    "before": "Chạy lệnh convert d: /FS:NTFS.",
+    "after": "Chạy lệnh convert d:/FS:NTFS."
+  },
+  {
+    "id": 1256,
+    "field": "option B",
+    "before": "Kỹ thuật viên cần ban hành lệnh ipconfig / refresh.",
+    "after": "Kỹ thuật viên cần ban hành lệnh ipconfig/refresh."
+  },
+  {
+    "id": 1264,
+    "field": "question",
+    "before": "32. Điều nào sau đây là khung xác thực / ủy quyền? (Chọn tất cả các áp dụng.)",
+    "after": "32. Điều nào sau đây là khung xác thực/ủy quyền? (Chọn tất cả các áp dụng.)"
+  },
+  {
+    "id": 1298,
+    "field": "question",
+    "before": "9. Khi người dùng kết nối với máy chủ mạng nội bộ bằng cách nhập https: //intranet.acme.local, trình duyệt web của họ hiển thị một thông báo cảnh báo cho biết trang web không đáng tin cậy. Làm thế nào thông điệp cảnh báo này có thể được loại bỏ trong khi duy trì an ninh?",
+    "after": "9. Khi người dùng kết nối với máy chủ mạng nội bộ bằng cách nhập https://intranet.acme.local, trình duyệt web của họ hiển thị một thông báo cảnh báo cho biết trang web không đáng tin cậy. Làm thế nào thông điệp cảnh báo này có thể được loại bỏ trong khi duy trì an ninh?"
+  },
+  {
+    "id": 1298,
+    "field": "option A",
+    "before": "Định cấu hình máy chủ web để sử dụng HTTP thay vì HTTPS.",
+    "after": "Định cấu hình máy chủ web để sử dụng HTTP thay vì HFTPS."
+  },
+  {
+    "id": 1299,
+    "field": "option B",
+    "before": "Các trang web HTTPS phải sử dụng cổng 443.",
+    "after": "Các trang web HFTPS phải sử dụng cổng 443."
+  },
+  {
+    "id": 1299,
+    "field": "option C",
+    "before": "Cổng 444 phải được sử dụng cho HTTP, không phải HTTPS.",
+    "after": "Cổng 444 phải được sử dụng cho HTTP, không phải HFTPS."
+  },
+  {
+    "id": 1300,
+    "field": "question",
+    "before": "11. Một trang web được bảo mật HTTPS yêu cầu khả năng hạn chế các máy trạm nào có thể tạo kết nối. Lựa chọn nào là an toàn nhất?",
+    "after": "11. Một trang web được bảo mật HFTPS yêu cầu khả năng hạn chế các máy trạm nào có thể tạo kết nối. Lựa chọn nào là an toàn nhất?"
+  },
+  {
+    "id": 1312,
+    "field": "question",
+    "before": "26. Bạn đang phát triển các tập lệnh Microsoft PowerShell để tự động hóa các tác vụ quản trị mạng. .PS1 tập tin tập lệnh cần phải được ký điện tử và tin cậy để chạy trên máy tính trong môi trường của bạn. Bạn có đã có được chứng chỉ PKI ký mã. Bạn cần sao lưu khóa riêng của mình. Tập tin nào Bạn nên chọn định dạng nào trong quá trình xuất? (Chọn hai.)",
+    "after": "26. Bạn đang phát triển các tập lệnh Microsoft PowerShell để tự động hóa các tác vụ quản trị mạng..PS1 tập tin tập lệnh cần phải được ký điện tử và tin cậy để chạy trên máy tính trong môi trường của bạn. Bạn có đã có được chứng chỉ PKI ký mã. Bạn cần sao lưu khóa riêng của mình. Tập tin nào Bạn nên chọn định dạng nào trong quá trình xuất? (Chọn hai.)"
+  },
+  {
+    "id": 1318,
+    "field": "option C",
+    "before": "Nhân viên bảo vệ con người có thể phát hiện mùi.(? =)))) )",
+    "after": "Nhân viên bảo vệ con người có thể phát hiện mùi.(? =)))))"
+  },
+  {
+    "id": 1349,
+    "field": "question",
+    "before": "Câu 32: Là quản trị viên CNTT, bạn có trách nhiệm tạo tài khoản người dùng cho nhân viên mới được tuyển dụng. Những người tuyển dụng mới phải có ID hình ảnh để có được tài khoản mạng / e-mail và họ phải được cấp thẻ PKI mà họ gán mã PIN. Thuật ngữ nào áp dụng cho quy trình được mô tả?",
+    "after": "Câu 32: Là quản trị viên CNTT, bạn có trách nhiệm tạo tài khoản người dùng cho nhân viên mới được tuyển dụng. Những người tuyển dụng mới phải có ID hình ảnh để có được tài khoản mạng/e-mail và họ phải được cấp thẻ PKI mà họ gán mã PIN. Thuật ngữ nào áp dụng cho quy trình được mô tả?"
+  },
+  {
+    "id": 1423,
+    "field": "option C",
+    "before": "Khi làm cứng máy chủ HTTPS",
+    "after": "Khi làm cứng máy chủ HFTPS"
+  },
+  {
+    "id": 611,
+    "field": "option D/manual",
+    "before": "Worms.",
+    "after": "Worms"
+  },
+  {
+    "id": 643,
+    "field": "question/manual",
+    "before": "Một công ty cung cấp hải sản muốn bão vệ hệ thống thông tin của mình để các cách thức chế biến và đóng gói không bị tiết lộ với các đối thủ cạnh tranh. Khía cạnh nào của an toàn thông tin đang được xem xét?",
+    "after": "Một công ty cung cấp hải sản muốn bảo vệ hệ thống thông tin của mình để các cách thức chế biến và đóng gói không bị tiết lộ với các đối thủ cạnh tranh. Khía cạnh nào của an toàn thông tin đang được xem xét?"
+  }
+]
